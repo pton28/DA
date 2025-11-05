@@ -1,0 +1,969 @@
+final_price,available_for_delivery,available_for_pickup,brand,review_count,product_id,product_name,category_name,root_category_name,rating,initial_price,discount
+22.9,True,False,Laura Mercier,6,173530386,Laura Mercier Caviar Stick Eye Color Sugar Frost 1.64g/0.05oz,Eye Shadow Stick,Beauty,4,28.814999999999998,11.002
+47.9,True,False,Exultantex,58,430528189,"Exultantex Grey Blackout Curtains for Living Room,Pom Pom Thermal Window Curtains,50""W x 95""L, 2 Panels, Rod Pocket",Blackout Curtains,Home,4.6,70.8,22.92
+33.2,True,False,Jessica London,2,6013308220,Jessica London Women's Plus Size Stretch Knit V-Neck Swing Tunic,Plus Size Tops,Clothing,5,37.99,4.75
+50.0,True,False,Simply Put,101,161657830,100% Cotton King Percale Duvet Set (3 Piece) Blue Distress Tile Print by Simply Put,King Duvet Covers,Home,4.7,71.99,22.0
+13.0,True,False,Disney,15,5397071399,Disney Boys Graphic Tee Donald Duck Short Sleeves T-Shirt Top Summer Outfits Clothes Sizes 3-10T,Boys Outfit Sets,Clothing,4.4,29.0,16.01
+28.0,True,False,Vanity Fair,95,512809025,Women's Vanity Fair 75201 Nearly Invisible Full Coverage Underwire Bra (Black 40C),Underwire Bras,Clothing,4.4,40.0,12.0
+20.0,True,False,Ibtom Castle,12,2749504314,IBTOM CASTLE Women's One Piece Rash Guard Swimsuit UV Protection Floral Printed Surfing Zipper Swimwear Bathing Suit Beachwear S Green Leaves,Womens One-piece Swimsuits,Clothing,4.3,31.99,12.0
+23.0,True,False,a.Jesdani,336,5184785010,a.Jesdani Women's Cardigan Classic Casual Lightweight Knit Cardigan Sweaters S-XXL,Womens Workwear Sweaters,Clothing,4.2,25.99,3.0
+6.09,True,False,Way To Celebrate,203,5164703747,"4th of July Womens Lounger Sleepshirt by Way To Celebrate, Sizes S to 3X",Womens Nightshirts & Gowns,Clothing,4.7,11.98,5.89
+25.0,True,False,Vulcanodon,68,5155961106,"Vulcanodon Mens Pajama Set 100% Cotton, Long Sleeve Button Down PJ Set for Men Plaid Men's Sleepwear(Red Blue-Plaid, Large)",Mens Pajama Sets,Clothing,4.6,37.99,13.0
+37.0,True,False,Grande Cosmetics,6356,908232424,"Grande Cosmetics GrandeLash MD Eyelash Formula, 2mL (New Packaging)",Eyelash Enhancer,Beauty,4.6,68.0,31.02
+46.5,True,False,nuLOOM,49,904020893,nuLOOM Vintage Erline Area Rug,Floor Decor,Home,4.7,56.2,9.71
+123.0,True,False,Georgia Boot,242,17245067,Georgia Giant Work Boot Size 10.5(W),Mens Wide Shoes,Clothing,4.5,178.53,55.53
+49.5,True,False,Amay's,8,2363655537,Amay 800 Thread Count 100% Organic Cotton Short Queen Size 1PC Flat Sheet (90x102 ) Pink Striped,Colored Sheets,Home,5,55.0,5.5
+44.9,True,False,Hard Tail,11,5702032013,"Hard Tail Women's French Terry Sweatshirt and Pant Set, 2-Piece, Sizes S-3X",Womens Two Piece Sets,Clothing,4.2,59.88,15.0
+15.0,True,False,The Little Mermaid,9,781490570,Men's The Little Mermaid Vintage Characters  Graphic Tee Turquoise Medium,Men's Disney Tees,Clothing,5,18.99,4.0
+15.0,True,False,Aiyino,2,1341833689,Aiyino Women's High Waist Yoga Pants Tummy Control Slimming Booty Leggings Workout Running Butt Lift Tights,Womens Workout Bottoms,Clothing,3,16.99,2.0
+20.0,True,False,Jockey,86,3813188391,Jockey Women's Rib Knit Tee,Tshirts for Women,Clothing,4,34.0,14.01
+65.0,True,False,Bare Home,483,5292666872,"Bare Home Cozy Fleece Sheet Set - Extra Plush Polar Fleece - Deep Pocket - Split King, Black",Colored Sheets,Home,4.8,77.99,13.0
+11.9,True,False,Zenana,131,1897403279,Zenana Womens & Plus Stretch Cotton Foldover Waist Bootcut Workout Yoga Pants,Cycling Pants,Sports & Outdoors,3.7,17.99,6.1
+16.0,True,False,SONGMICS,58,2138573500,SONGMICS 3-Tier Shoe Rack with Shelves for Closet Entryway Black,Shoe Racks,Home,4.4,39.99,24.0
+14.0,True,False,MOSHU,1667,5219131585,MOSHU Summer Womens Tank Tops U Neck Casual Flowy Sleeveless Shirts for Women,Womens Tank Tops,Clothing,4.5,35.99,22.0
+23.9,True,False,G-Style USA,1,871530694,Victorious Men's Skinny Fit Unwashed Raw Denim Jeans DL938 - Indigo - 32/30,Mens Slim Fit Jeans,Clothing,5,26.95,3.02
+22.1,True,False,Deerlux,8,891036133,"16"" Handwoven Cotton Throw Pillow Cover with Tufted designs and Side Tassels",Throw Pillow Covers,Home,4.4,27.25,5.16
+30.0,True,False,X Ray Jeans,1,1774083175,"X RAY JEANS Mens Five Pocket Commuter Pants, Fig, 34X32",Mens Jeans,Clothing,5,34.99,5.0
+26.0,True,False,Exclusivo Mezcla,64,1093743201,"Exclusivo Mezcla Waffle Textured Soft Fleece Blanket, King Size Bed Blanket, Cozy Warm and Lightweight (Dark Grey, 90x104 inches)",Bed Blankets,Home,4.5,55.98,29.99
+30.0,True,False,Anastasia Confections,575,411359040,Anastasia Beverly Hills Norvina PRO Pigment Eyeshadow Palette Vol 3,All Makeup,Beauty,4.8,34.0,4.0
+57.6,True,False,Amay's,4,1612728569,"Amay 800TC Organic Cotton Twin XL Size Fitted Sheet ( 39X80 ) Fits Mattress Upto 21 inches Deep Pocket, Ivory Solid",Cooling Sheets,Home,5,64.0,6.4
+20.0,True,False,Larace,31,2150292673,LARACE Women's Plus Size Tops 3/4 Sleeve Tunic Shirts Casual Button V-neck Blouse Black 4X,Plus Size Tops,Clothing,4.8,23.99,4.01
+0.99,True,False,ITSUN,3,1507001378,"FY24 Valentine's Day Holiday Deals! itsun Lingerie Sets for Women Sexy Plus Size, Women Sexy Lace Lingerie Set Strappy Bra and Panty Set Two Piece Crotchless Lingerie White",Lingerie Sets,Clothing,1.3,1.58,0.59
+44.0,True,False,Rest Haven,74,293084792,"Rest Haven Upholstered Square Tufted Headboard, Full, Charcoal",Upholstered Headboards,Home,4.5,135.0,91.0
+20.0,True,False,Larace,231,5041920521,LARACE Women's Tops Long Sleeve Dressy Casual Plus Size Tunic Tops to Wear with Leggings Loose T-Shirt Loose Fit Blouses NavyBlue 1X,Plus Size Tops,Clothing,4.7,26.99,7.01
+240.0,True,False,AUSTUFF,14,2834781358,"AUSTUFF Swivel Bar Stools Set of 2 Velvet Barstools for Kitchen Island (30"", Blue)",Shop All Bar Stools & Counter Stools,Home,4.4,562.99,323.0
+55.0,True,False,Fresh Roasted Coffee,43,306465658,"Fresh Roasted Coffee, Indian Monsoon Water Decaf Coffee, Medium-Dark Roast Whole Bean, 80 oz",Medium Roast Coffee,Food,4.8,23.263749999999998,6.07625
+16.0,True,False,FaithHeart,150,5809585615,FaithHeart Nordic Viking Vegvisir Pirate Compass Ring for Men Solid Rune Band Rings Black Stainless Steel Jewelry Punk Valknut Protection Amulet Gift for Rappers Size 7,Mens Rings,Jewelry,4.9,48.99,33.04
+13.8,True,False,Scoop,10,5291664103,"Scoop Womens V-Neck Top with Volume Sleeves, Sizes XS-XXL",Womens Blouses,Clothing,3.7,29.0,15.17
+9.84,True,True,SmartMouth,565,5062553620,"SmartMouth Original Activated Breath Rinse 16 oz, Adult",Dry Mouth Mouthwash,Personal Care,4.6,16.988,6.526000000000001
+205.0,True,False,WestinTrends,31,469036214,"WestinTrends Julia 10 Ft Outdoor Patio Cantilever Umbrella with Base Included, Market Hanging Offset Umbrella with 4-Pieces Fillable Base Weight, Coffee",Full Bases,Patio & Garden,4.2,339.99,135.0
+12.5,True,False,Xingqing,2,790957653,Newborn Baby Girl Summer Clothes Ribbed Strap Romper Bodysuit + Drawstring Shorts Pink 18-24 Months,Baby Girls Clothing,Clothing,4,15.89,3.44
+355.0,True,False,UDPATIO,209,5295270812,"UDPATIO High Back Outdoor Dining Chairs Set of 4, All Weather Swivel Patio Chairs, Breathable Garden Outdoor Furniture for Backyard Deck",Shop All Patio Furniture,Patio & Garden,4.6,469.99,115.0
+25.0,True,False,Exclusivo Mezcla,400,668480724,"Exclusivo Mezcla Bed Quilt Set Twin Size for All Seasons, Stitched Pattern Quilted Bedspread/ Bedding Set/ Coverlet with 1 Pillow sham, Lightweight and Soft, Turquoise",Bedding Sets,Home,4.5,65.98,40.99
+19.8,True,False,Hanes,78,102593173,Hanes Long Sleeve Men T-Shirt 2-Pack Beefy-T Crewneck Soft Cotton Full Cut S-3XL,Mens Workout Shirts,Clothing,4.3,33.0,13.2
+92.7,True,False,Amay's,4,2785607950,"Amay 100% Cotton 600-Thread Count 4-PCs Sheet Set Easily Fit upto 21 Inch Deep Pockets Solid California King, White",White Sheets,Home,5,102.99,10.3
+9.99,True,False,Simply Silver Mouthwash,39,362341632,"Simply Silver Mint Breath Spray - For Dry Mouth and Freshening, All Natural, Fluoride Free, 2 Fl Oz",Oral Care Accessories,Personal Care,5,12.99,3.0
+16.0,True,False,Demotime,1,5702523237,Demotime Men's Polo Shirts Casual Button-Down Shirts Short Sleeve Polo Shirts Blue L V Neck T Shirts Big and Tall Golf Solid Classic Stylish Tops,Golf Shirts,Sports & Outdoors,5,18.99,3.0
+11.2,True,False,FindChic,19,3922793394,"FindChic Men Triple Moon Ring Goddess Fidget Ring,Balck Stress Relief Rotatable Anxiety Ring Size 7 to 14,Send Gift Box",Womens Rings,Jewelry,4.8,42.99,31.75
+20.9,True,False,Casual Nights,215,831123723,Casual Nights Women's Zipper Front House Dress Sleeveless Seersucker Housecoat Duster Lounger,Womens Nightshirts & Gowns,Clothing,4.1,23.99,3.12
+30.0,True,False,J. Adams,13,1017487270,"J. Adams Camila Sandals for Women, Square Open Toe Strappy Mid Block Heels, Elegant & Comfortable, Perfect for Weddings",Block Heels,Clothing,4.5,41.99,12.0
+9.99,True,False,TheLovely,9,435835263,TheLovely Women & Plus Front and Back Reversible Spaghetti Strap Flowy Cami Tank Tops,Plus Size Activewear,Clothing,4.1,16.99,7.0
+15.0,True,False,UVN,47,5053396247,UVN Sweatshirts for Women Square Neck Long Sleeve Shirts Casual Tunic Tops,Womens Sweatshirts & Hoodies,Clothing,4.1,18.99,4.0
+54.9,True,False,Amay's,8,3099936296,Amay 800 Thread Count 100% Organic Cotton Grand King/Super King Size 1PC Flat Sheet (110x125 ) Royal Blue Striped,Colored Sheets,Home,5,61.0,6.1
+76.0,True,False,VOUA,42,1727244137,"VOUA Electric Heated Mattress Pad, White King",Heating Mattress toppers,Home,4.6,115.0,39.01
+570.0,True,False,Caroma,618,5439347407,"Caroma Electric Scooter for Adult, 30Miles Range&20Mph Power by 20""Off-Road Tire&Height Adjustable Seat, Foldable Scooter E Bike for Mountains, Snow, Road, Black",Adult Electric Scooters,Sports & Outdoors,4.7,909.99,340.0
+43.0,True,False,LifeStride,1309,485354607,LifeStride Womens Suki Pumps - Medium & Wide Width,Stilettos,Clothing,4.5,47.99,5.0
+41.9,True,False,Solaray,6,179112912,"Solaray Food Carotene, Vitamin A as Beta Carotene 25000IU | Carotenoids for Healthy Skin & Eyes, Antioxidant Activity & Immune System Support | 200ct",Beta Carotene,Health and Medicine,4.2,46.99,5.13
+6.36,True,False,Ruimatai,16,640096014,Ruimatai Women's Plus Size Elastic Waist Guipure Lace Hem Solid Shorts,Plus Size Activewear,Clothing,1.8,10.35,3.99
+32.8,True,False,Roaman's,153,1359948905,Roaman's Women's Plus Size Tall Complete Cotton Seamed Jean,Plus Size Jeans,Clothing,3.8,39.41,6.64
+23.4,True,False,TheLovely,15,531529503,"Women & Plus Cotton High Waist Full Length Cotton Workout Leggings (BLACK/CHARCOAL, M)",Workout Leggings,Clothing,4.3,25.99,2.6
+39.0,True,False,LifeStride,108,944207748,LifeStride Womens Deja Vu Skimmers - Medium & Wide Width,Ballet Flats,Clothing,3.8,57.99,19.0
+15.3,True,False,Zenana,11,896931395,Zenana Women & Plus Basic Cotton Relaxed Fit V-Neck Long Sleeve Plain Active Casual T-ShirtTop(S-3X),Plus Size Tshirts,Clothing,4.2,16.99,1.7
+22.5,True,False,Elegant Comfort,170,602315286,"Bed Sheet Set 4-Piece Bed Sheet set, Deep Pocket, HypoAllergenic - Queen Sage/Green",Bed Sheets,Home,4.5,25.0,2.5
+25.0,True,False,Feather & Stitch New York,14,1097677016,Feather & Stitch 2 Piece Pillowcase Set Standard Size White 100% Cotton Damask Stripe Pillow Cases 500 Thread Count 20x30 Inches Ultra Soft Luxury Sateen Weave Bed Pillow Covers,Pillowcases,Home,4.8,31.24,6.25
+141.0,True,False,Amay's,8,2200709686,Amay Grommet Top Blackout Curtain Panel White 120 inch Wide by 120 inch Long-1 Panel,Shop Curtains,Home,5,176.0,35.2
+22.5,True,False,SGI bedding,14,264801526,"SGI Bedding 16 Inch Wrap Around Bed Skirt | Microfiber Bed Skirt | Fade Resistant, Wrinkle Free, Anti-static, Decorative, Extra Storage Space, Clutter-Free | Queen, Light Gray",Bed Skirts,Home,4.4,24.99,2.5
+56.7,True,False,Amay's,1,3475370853,Amay 800TC Organic Cotton Alaska King Size Fitted Sheet ( 108X108 ) Fits Mattress Upto 12 -15 inches Light Blue Stripe,Cooling Sheets,Home,5,63.0,6.3
+20.0,True,False,NELEUS,10,3795586746,"NELEUS Mens Running Tank Top Dry Fit Y-Back Athletic Workout Tank Tops 3 Pack,Purple+Pink+White,US Size L",Mens Workout Shirts,Clothing,4.9,22.45,2.46
+35.0,True,False,Mellanni,3472,6126862324,"Mellanni Sheet Set Hotel Luxury Brushed Microfiber, Deep Pocket Sheet, 3 Piece Twin Ivory",Twin Sheets,Home,4.8,46.97,12.0
+19.0,True,False,Ecetana,727,283514640,Ecetana Womens Walking Shoes Lightweight Breathable Mesh Air Cushion Sneakers,Womens Shoes,Clothing,4.6,35.99,17.0
+14.0,True,False,UVPLove,204,5155882858,"Uvplove Women's Summer Loose Casual Short Sleeve Chiffon Top T-Shirt Blouse,Grey,M",Womens Blouses,Clothing,4.7,30.99,17.0
+20.0,True,False,JWD,126,1892659971,JWD Womens Nightgown Short Sleeves Sleepwear Soft Loose Sleepshirt Scoopneck Pleated Nightshirt Loungewear,Womens Nightshirts & Gowns,Clothing,4.7,38.99,19.0
+16.0,True,False,Marvel,12,1426167428,Men's Marvel Deadpool No One Cares  Graphic Tee Black 1X Big Tall,Big and Tall Graphic Tees,Clothing,4.3,18.99,3.0
+5.79,True,False,PNTUTB,1,1792864118,"Pntutb Womens Plus Size Clearance,Women's Printed Yoga Fitness Leggings Running Gym Stretch Sports Pants Trousers",Womens Leggings,Clothing,3,6.59,0.8
+24.0,True,False,MINTREUS,1,6918363302,MINTREUS Women's Pajama Set Knit Soft Lounge Set Lightweight Sleepwear Two Piece Matching Outfits Set,Womens Pajama Sets,Clothing,5,45.99,22.0
+9.3,True,False,PiccoCasa,1,1807242420,"PiccoCasa Soft 190GSM Brushed Polyester 16"" Deep Pocket Fitted Sheets Black Full",Bed Sheets,Home,4,13.29,3.99
+9.94,True,False,Zenana,107,751510659,Zenana Womens's Cotton Stretch Mid Thigh Length Leggings Fitness Sport Biker Shorts,Womens Athletic Shorts,Clothing,4.6,12.99,3.05
+16.7,True,False,Zuke's,758,34203165,"Zuke's Mini Naturals Soft Dog Training Treats, Duck Flavor, Tender Dog Chew Snacks, 16 oz Pouch",Pets Subscription,Pets,4.1,57.71888888888889,17.816666666666666
+64.9,True,False,Ralph Lauren,60,25997723,Polo Double Black Eau De Toilette Spray 4.2 Oz / 125 Ml,Premium Cologne for Men,Premium Beauty,3.1,84.0,19.1
+6.13,True,False,Reebok,12,5219876777,"Reebok Boys Power Blast Muscle Active Tank, Sizes 4-18",Boys Athletic Shirts,Clothing,5,12.0,5.87
+16.0,True,False,Russell Athletic,16,1063134991,"Russell Athletic Mens Lux Tech Fleece Pants, Sizes S-XL",Mens Workout Pants,Clothing,4.3,48.0,32.01
+14.6,True,False,Hanes,1021,696459227,"Hanes Men's and Big Men's Beefy Tee with Short Sleeves, 2-Pack, Sizes S-6XL",Hanes Mens T-Shirts,Clothing,4.1,29.0,14.39
+11.4,True,False,Clubman Pinaud,107,730250943,Clubman Pinaud Styptic Pencil,Aftershaves,Personal Care,4.7,13.99,2.55
+25.0,True,False,MUK LUKS,3,5115609628,"Muk Luks Soft Knit Matching Family Pajama Set , Grey Fairisle/Dogs, T/3X",Womens Pajama Sets,Clothing,3.7,27.99,3.0
+18.5,True,False,RAW X,1,5028919789,"RAW X  Toddler Boy's RawX Rip and Repair Jeans, Dark Blue, 2T",Mens Jeans,Clothing,5,20.99,2.5
+26.6,True,False,Roaman's,1156,5422818479,Roaman's Women's Plus Size Soft Knit Bermuda Short,Womens Athletic Shorts,Clothing,4.3,31.1,4.46
+40.0,True,False,LifeStride,95,1589505386,LifeStride Womens Minimalist Pumps - Medium & Wide Width,Block Heels,Clothing,4.3,47.99,8.0
+23.0,True,False,Clara Clark,13105,373855792,"Clara Clark Twin Size Deep Pocket 3 Piece Bed Sheets Set, 1800 Series Hotel Luxury Soft Microfiber, Brown",Sheet Sets,Home,4.6,54.99,32.03
+20.0,True,False,COMFREE,49,225313738,COMFREE Women's Camisole with Built in Bra Plus Size Tank Top Cami Flowy Casual Tops with Adjustable Strap (S-4XL),Plus Size Tops,Clothing,4.7,39.99,20.0
+20.0,True,False,Ibtom Castle,1,1231760315,IBTOM CASTLE Baby Girls Formal Dress Lace Bowknot Baptism Embroidery Princess Birthday Wedding Flower Tutu Gown with Headwear 3-6 Months Red,Baby Girls Casual Dresses,Clothing,5,29.99,10.0
+16.2,True,False,Zenana,27,1900702698,Zenana Women & Plus Relaxed Fit Scoop Neck Sleeveless Round Hem Blouse Tank Top,Plus Size Activewear,Clothing,3.6,17.99,1.8
+20.0,True,False,ZBAR,27,422458903,Zbar - Chocolate Chip and Iced Oatmeal Cookie - Variety Pack - Soft Baked Whole Grain Snack Bars - USDA Organic - Non-GMO - Plant-Based - 1.27 oz. (24 Count),Lunchbox favorites,Food,4.4,23.263749999999998,6.07625
+64.0,True,False,edx,3293,5150469476,"EDX 10 Drawer Dresser, Wide Chest Of Drawers Nightstand Storage Tower Storage Dresser Fabric Dresser With Wood Top for Living Room, Bedroom, Hallway, Nursery, Grey",Gray Dressers,Home,4.4,104.99,41.0
+37.2,True,False,Vanity Fair,821,674437651,Vanity Fair Womens Beauty Back Minimizer Bra Style-76-080,Underwire Bras,Clothing,4.5,44.0,6.81
+50.0,True,False,HISEA,477,232510830,HISEA Women's Rubber Rain Boots Waterproof Insulated Garden Shoes Outdoor Hunting Working Riding Muck Neoprene Boots Mid Calf,Womens Over the Knee Boots,Clothing,4.8,69.99,20.0
+48.0,True,False,Mellanni,544,247655086,"Mellanni Bedspread Coverlet Set Light Gray - Reversible Bedding Cover - Oversized Quilt Set, 2 Piece, Twin / Twin XL, Light Gray",Quilt Sets,Home,4.8,68.97,21.0
+12.1,True,False,ChainsHouse,50,5684704635,"ChainsHouse Snake Ring for Women/Men,Stainless Steel Retro Punk Gothic Jewelry Antique Octopus/Serpent Reptile Rings for Holiday Party Jewelry Gift ,Size 7-14(Box)",Anniversary Rings,Jewelry,5,40.28,28.15
+25.0,True,False,Moa Collection,1,6045904134,Women's Knee-length Color Block Dress with Pockets,Dresses,Clothing,5,29.95,4.96
+51.3,True,False,Amay's,6,1808782059,"Amay 800TC Organic Cotton Queen Size Fitted Sheet ( 60X80 ) Fits Mattress Upto 12-15 inches, Gold Solid",Cooling Sheets,Home,5,57.0,5.7
+78.4,True,False,Amay's,3,3820834403,Amay Blackout Grommet Curtain Panel Beige 42 Inch Wide by 108 Inch Long- 1Panel,Shop Curtains,Home,5,98.0,19.6
+89.1,True,False,Carve Designs,523,588404711,"Carve Designs Carson Jean - Womens, Favorite Fade, 8",Womens Boyfriend Jeans,Clothing,4.6,99.0,9.9
+50.0,True,False,LifeStride,302,839659160,LifeStride Womens Impact Ballet Flats - Various Widths Available,Womens Casual Shoes,Clothing,4.5,69.99,20.0
+22.0,True,False,Cocokind,855,3440558193,"Cocokind Vitamin C Glow Serum for Bright, Even Skin Tone, All Skin Types, 1 oz",Cocokind,Beauty,4.7,28.814999999999998,11.002
+55.0,True,False,NINA NEW YORK,20,268590697,NINA NEW YORK Womens Silver Goring Embellished Nadette Round Toe Wedge Slip On Dress Sandals Shoes 5.5 M,Womens Casual Shoes,Clothing,4.8,114.0,59.02
+30.0,True,False,Feancey,1,5209344136,"Men Sherpa Lined Hooded Jacket,Men's Flannel Plaid Shirts Fleece Fuzzy Button Down Long Sleeve Winter Thermal Hoodies Jackets with Pockets",Men's Character Shop,Clothing,5,35.19,5.2
+33.0,True,False,Bare Home,663,230846860,"Bare Home Plush Sherpa Bed Blanket - Fluffy & Soft - Reversible - Lightweight - Twin/Twin XL, Buffalo Plaid - White/Black",Shop All Teens' Bedding,Home,4.7,44.99,12.0
+20.0,True,False,SANMADROLA,260,5260887729,"Sanmadrola Waterproof & Reversible Dog Bed Cover Pet Blanket Sofa, Couch Cover Mattress Protector Furniture Protector for Dog, Pet, Cat 30''x70'' Gray Blue",Couch Covers,Home,4.7,34.99,15.0
+13.0,True,False,CARCOS,51,887578061,CARCOS Women's Cami With Built-In Shelf Bra Plus Stretch with Adjustable Spaghetti Straps Basic Undershirt Layer Tank Top Black-L,Womens Tank Tops,Clothing,4.3,14.99,2.0
+24.8,True,False,Vanity Fair,22,802163708,"Vanity Fair Women's Flattering Lace Hi-Cut Underwear, 3 Pack",Briefs,Clothing,4.5,36.0,11.18
+92.8,True,False,Amay's,13,3723312924,Amay Grommet Top Blackout Curtain Panel Greyish White 60 Inch Wide by 120 Inch Long-1Panel,Shop Curtains,Home,5,116.0,23.2
+9.99,True,False,Hanes,582,680639889,Hanes Men's Perfect-T Tri-Blend Short Sleeve T-Shirt Solid Navy M,Mens Workout Shirts,Clothing,4.3,14.0,4.01
+19.8,True,False,Made by Johnny,241,945882097,Made by Johnny Women's Chic Palazzo Lounge Pants S HEATHER_DARK_GREY,Womens Pants,Clothing,3.8,21.95,2.2
+25.0,True,False,Luxe Weavers,177,3511393855,"Luxe Weavers Modern Abstract Beige 2x3 Area Rug, Stain Resistant Carpet",All Area Rugs,Home,4.6,30.0,5.0
+20.0,True,False,JWD,196,1829450989,JWD Plus Size Tops For Women Lace Sleeve Blouse Waffle Knit Long Sleeve Shirts Navy Blue-1X,Plus Size Tops,Clothing,4.5,25.99,6.0
+51.3,True,False,Amay's,6,2608501628,"Amay 800TC Organic Cotton Twin Size Fitted Sheet ( 39X75 ) Fits Mattress Upto 12-15 inches, Purple Solid",Cooling Sheets,Home,5,57.0,5.7
+25.0,True,False,LETDIOSTO,470,939136581,LETDIOSTO Women's Plus Size Tops Short Sleeve Shirts Lace Pleated Tunic Causal Tee Blouses M-4XL,Plus Size Tops,Clothing,4.3,43.99,19.0
+33.3,True,False,V8 Juice,62,885092913,"V8 +Energy Black Cherry and Pomegranate Blueberry Juice Energy Drinks, 8 fl oz Can, 24 Count (4 Packs of 6)",Campbell's,Food,4.6,37.1,3.8
+13.0,True,False,ChainsProMax,158,1543169305,ChainsProMax Mens Rings Stainless Steel Size 13 Cuban Curb Link Ring Black Rings for Men,Mens Jewelry,Jewelry,4.8,64.99,52.0
+28.8,True,False,PARFAIT,39,432928663,PARFAIT Women's Adriana Wire-Free Lace Bralette - Black - 36D,Wireless Bras,Clothing,4.5,50.0,21.2
+56.2,True,False,Linum Home Textiles,4,152355819,Authentic Hotel and Spa  Unisex Navy Blue Turkish Cotton Terry Bath Robe with White Block Monogram Z S/M,Mens Robes,Clothing,4.5,63.74,7.5
+30.0,True,False,HIG,129,412531616,All Season Camel 3 Piece Twin Size Down Alternative Comforter Set with Corner Tabs,Comforter Sets,Home,4.4,35.99,6.0
+60.0,True,False,JUSTLET,1530,177709330,"JUSTLET Heated Mattress Pad Twin Size,Electric Mattress Pad,Electric Bed Warmer with 9 Heated Settings Controller & 1-9 Hours Auto Shut Off, Machine Washable, White",Heating Mattress toppers,Home,4.5,109.99,50.0
+33.4,True,False,Balanceuticals,2,27230944,"Health King HernEase Tea, 60 Ct",Dietary supplements,Health and Medicine,3,43.99,10.56
+4.43,True,True,Old Bay,438,10308385,"OLD BAY Gluten Free Classic Seafood Seasoning, 6 oz Can",Seasoning mixes & blends,Food,4.5,23.263749999999998,6.07625
+92.7,True,False,Amay's,4,2155265261,"Amay 100% Cotton 600-Thread Count 4-PCs Sheet Set Easily Fit upto 21 Inch Deep Pockets Solid King, Light Blue",Colored Sheets,Home,5,102.99,10.3
+50.0,True,False,LifeStride,61,821774391,LifeStride Womens Zee Loafers - Medium & Wide Width,Womens Casual Shoes,Clothing,4.6,69.99,20.0
+15.6,True,False,Guy Harvey,3,753681550,Guy Harvey Mens Core Tuna Short Sleeve T-Shirt,Mens T-Shirts,Clothing,5,26.0,10.4
+23.0,True,False,Ibtom Castle,3,1446529388,IBTOM CASTLE Flower Girl Tutu Tulle Dress Little Big Princess Wedding Bridesmaid Party Communion Formal Short Gown for Kids 6-12 Months Blue,Baby Girls Casual Dresses,Clothing,3.7,29.62,6.63
+39.6,True,False,Dee's Collection,1,1210385172,"Short Queen Size Tailored Drop Multi Ruffled Solid Bed Skirt with Adjustable Elastic Belt Microfiber Fabric Fade & Wrinkle Resistant Bed Frame Cover Easy to Fit & Care (15 Inch Drop, Moss)",Toddler Bedding Sets & Sheets,Baby,5,43.99,4.4
+33.0,True,False,Yoyomax,454,354688867,"Yoyomax Office Chair, Ergonomic Home Office Desk Chairs, Computer Chair with Comfortable Armrests, Mesh Desk Chairs with Wheels, Black",Desk Chairs,Home,4.6,127.99,95.0
+15.0,True,False,Disney Pixar Cars,318,5379906696,"Cars Kids 17"" Light Up Lightning McQueen Backpack, Multi-Color",School Backpacks,Clothing,4.8,16.94,1.96
+18.0,True,False,Fantaslook,63,5043424192,Fantaslook V Neck Sweatshirts for Women Casual Long Sleeve Tops Oversized Sweatshirt With Pockets,Young Adult Sweatshirts & Hoodies,Clothing,4.3,69.99,52.0
+15.0,True,False,Asklazy,70,5202943775,"Asklazy Women's Summer Sleeveless Chiffon Blouse Business Casual Tank Flowy Tops for Women,US Size,D Red,L",Womens Blouses,Clothing,4.6,42.99,28.0
+30.0,True,False,Whale Flotilla,54,5075703391,"Whale Flotilla Faux Fur Sherpa King Size Blanket, Cozy Reversible Fuzzy Fluffy Plush Blankets with Stylish for Winter Fall, Warm and Soft, 90x104 Inch, Emerald Green",Bed Blankets,Home,4.7,39.99,10.0
+62.7,True,False,Roaman's,92,913982677,Roaman's Women's Plus Size Invisible Stretch Two-Tone Embroidered Bootcut Jeans,Plus Size Jeans,Clothing,4.6,72.52,9.78
+25.2,True,False,Dee's Collection,2,1986789930,"Twin XL Size Tailored Drop Wrap Around Solid Bed Skirt with Adjustable Elastic Belt Microfiber Fabric Fade & Wrinkle Resistant Bed Frame Cover Easy to Fit & Care (14 Inch Drop, Ivory)",Toddler Bedding Sets & Sheets,Baby,4,27.99,2.8
+7.96,False,False,Purex,561,22374157,"Purex Sta Flo Liquid Starch, Great for Crafts, Concentrated, 64 Ounce",Static Guard,Household Essentials,4.7,17.61,9.65
+22.1,True,False,Independent Trading Co.,15,907847604,"Independent Trading Co. Womens Lightweight Cropped Hooded Sweatshirt, XS, Blush",Womens Activewear,Clothing,4.1,38.6,16.5
+9.79,True,False,Duck Brand,1796,48812370,"Duck Clean Release .94 in. x 60 yd. Blue Painter's Tape, 4 Rolls",Painter's Tape,Home Improvement,4.4,10.88,1.09
+17.7,True,False,Sofra,27,370320502,"Sofra Women & Plus Cotton High Waist Full Length Cotton Workout Leggings (Burgundy/Olive, S)",Workout Leggings,Clothing,4.4,23.13,5.43
+20.0,True,False,VERABENDI,129,528993905,VERABENDI Womens Clothes Plus Size Tops 3/4 Sleeve Shirts Button Dressy V-Neck Tunic Blouse (M-4XL),Womens Blouses,Clothing,4.5,22.99,3.0
+40.0,True,False,MERITLIFE,1605,331094227,"MERITLIFE Waterproof Mattress Pads, Full",Pillow Top Mattress Toppers,Home,4.2,99.0,59.01
+70.0,True,False,Aireolux,82,1774925941,"TENCEL Lyocell Queen Sheet Set, 500 Thread Count Temperature-Regulating, Ultra Soft & Silky 4-Piece Set Taupe by Aireolux",Sateen Sheets,Home,4.8,83.99,14.0
+96.0,True,False,Amay's,3,3972776250,Amay Rod Pocket Window Curtain Panel Silver Grey 84 Inch Wide by 72 Inch Long-1 Panel,Shop Curtains,Home,5,120.0,24.0
+24.0,True,False,Hobibear,189,1997340049,HOBIBEAR Boys and Girls Classic Graphic Garden Clogs Slip on Water Shoes(Toddler/Little Kids/Big Kids),Boys Sandals,Clothing,4.5,49.99,26.0
+25.0,True,False,MaryRuth Organics,216,370694829,"MaryRuth's | Women's 40+ Multivitamin Liposomal| Liquid Liposomal | Vanilla Peach | Sugar Free, Vegan | 15.22 fl oz",MaryRuth Organics,Health and Medicine,4.3,28.49,3.54
+104.0,True,False,Amay's,13,2872285813,Amay Grommet Top Blackout Curtain Panel Greyish White 72 Inch Wide by 120 Inch Long-1Panel,Shop Curtains,Home,5,130.0,26.0
+17.1,True,False,TheLovely,14,3283891047,TheLovely Women & Plus Relaxed Fit Long Sleeve Round Neck & Hem Jersey Tee Shirt Top,Plus Size Activewear,Clothing,4.4,18.99,1.9
+5.39,True,False,PNTUTB,1,1950697931,Pntutb Rollback and Clearance Summer Tee Tops for Women Solid Color Round Neck Sleeveless Casual Tank Top,Womens Tank Tops,Clothing,3,6.09,0.7
+16.0,True,False,VALSOLE,31,1764748346,"Valsole orthopedic insoles supports the arch of the foot for heel pain, heel spurs, flat foot, plantar fasciitis, knee pain",Insoles,Health and Medicine,3.9,17.99,2.01
+27.4,True,True,Parent's Choice,43691,871349337,"Parent's Choice Dry & Gentle Diapers Size 4, 192 Count (Select for More Options)",Size 4 Diapers,Baby,4.5,59.323,6.909000000000001
+36.0,True,False,Bearsland,79,5057611924,Bearsland Female Long Sleeve Maternity Nursing Top Breastfeeding Shirts 3-Pack,Maternity Blouses & Shirts,Clothing,4.7,39.99,4.0
+23.9,True,False,CALIPESSA,19,1037166405,CALIPESSA Drop Shoulder Cable Knit Pocket Patched Casual Long Sleeve Red Cardigan For Womens,Cardigans for Women,Clothing,4.3,31.99,8.09
+20.0,True,False,TIYOMI,47,1184654530,TIYOMI Women's Plus Size Pants Full Length 3X Brown Ankle Leggings Stretchy Soft Casual Butt Fit Leggings Solid Color Bottom Autumn Winter Wear Out Pants 3XL 22W 24W,Plus Size Pants,Clothing,4.1,28.99,9.0
+9.91,True,False,Bakell,9,689096319,"Bakell - Royal Gold Tinker Dust (5g, x1 Jar) Edible Glitter for Cake Decorating, Cupcakes, Cookies and Other Desserts",Metallic Decorative Baking,Party & Occasions,4.7,12.39,2.48
+15.0,True,False,Star Wars,1,602748918,Men's Star Wars Yoda Best Dad Cartoon  Graphic Tee Kelly Green X Large,Men's Movies and TV Tees,Clothing,5,18.99,4.0
+15.0,True,False,PatPat,1,5502936471,PatPat Girls Dress Shoes Party Sparkle Back to School Princess Shoes Girls Fashion Bow Tie Shiny Rhinestone Pearl Fairy Shoes Gift Toddler to Little Kids,Girls Dress Shoes,Clothing,5,28.99,14.0
+25.8,True,False,Lookbook Store,90,1613734417,LookbookStore Women's Above Knee Length Tiered Babydoll Denim Dress Button Down A-Line Dress Roadknight Blue Size S,Womens Dresses,Clothing,4.3,40.29,14.49
+10.4,True,False,Aiyino,5,1722962454,"Aiyino Women's Sleeveless Hollow Out Twist Bodycon Dress Wrap Slim Fit Party Evening Dresses L,Royal Blue",Party Dresses,Clothing,5,19.99,9.64
+13.5,True,False,Leading Lady,50,956751660,The Lucille - Microfiber Lace Trim Bralette,Wireless Bras,Clothing,4.9,20.25,6.75
+40.0,True,False,Stur,41,299112609,"Stur - Black Cherry, Liquid Water Enhancer Drink Mix, 1.62 fl oz Bottle (10 Pack)",Water Flavoring,Food,4.1,23.263749999999998,6.07625
+8.88,True,False,Soapbox,3,2010024322,"Soapbox Moisture Multiplying Body Wash for Women & Men, All Skin Types, Watermelon + Peony, 20 oz",Women's Body Wash,Personal Care,5,29.99,21.11
+46.6,True,False,Roaman's,49,1560005587,Roaman's Women's Plus Size Tall Invisible Stretch All Day Cargo Skirt,Womens Plus Skirts,Clothing,4.7,55.74,9.16
+26.3,True,False,X Ray Jeans,72,287819116,"X RAY JEANS Mens Belted 18"" Inseam Below Knee Long Cargo Shorts, Grey, 36",Mens Cargo Shorts,Clothing,4.2,29.99,3.7
+101.0,True,False,Amay's,5,2484456235,"Amay Blackout Double Pinch Pleat Curtain Panel Dark Green 50""W x 168""L- 1Panel",Shop Curtains,Home,5,126.0,25.2
+19.7,True,False,Phenas,5,859305074,Women's Plus-Size Flower Printing Shaping Body One Piece Swim Dresses Tummy Control Swimsuit,Womens Plus Swimsuits,Clothing,3,22.99,3.3
+15.0,True,False,CARETOO,2,5443068156,CARETOO Toddler Girl Clothes Outfits Casual Summer Plaid Shirt Shorts Headband Cotton Fabric 3pcs,Toddler Girls Outfit Sets,Clothing,5,24.99,10.0
+42.7,True,False,iOhouze,269,5421172309,iOhouze Area Rug 4'x6' Washable Rugs with Rubber Backing Bedroom Rugs Natural Cotton Floor Carpet for Dining Room Kitchen Living Room Bedroom,All Area Rugs,Home,4.6,109.99,67.25
+13.0,True,False,Junefish,301,1420686922,JuneFish Women's V-Neck Tee Summer Tshirts Casual Short Sleeve Tops Loose Blouse Fit Tunic,Tshirts for Women,Clothing,4.4,19.99,7.0
+17.1,True,False,TheLovely,18,693758408,TheLovely Women & Plus Sleeveless Mock-TurtleNeck Pleated Top with Waistband,Halloween Themed Clothing,Party & Occasions,4.5,18.99,1.9
+2.72,True,True,Gerber,1646,10294885,"Gerber Baby Snacks, Grain &amp; Grow Puffs, Strawberry Apple, Clean Label Project, 1.48 oz Canister",Baby Snack Foods,Baby,4.8,59.323,6.909000000000001
+3.99,True,False,Fofosbeauty,3,3560683924,"Fofosbeauty 24pcs Press on False Nails Tips, Short Coffin Fake Nails, Short coffin Sweet & Clear Flower",Nails,Beauty,3.7,4.99,1.0
+47.1,True,False,Swimsuitsforall,106,5215677549,Swimsuits for All Women's Plus Size Flowy Tankini Top,Womens Plus Swimsuits,Clothing,3.6,59.59,12.5
+22.0,True,False,Cezoa,1,5344195287,Women's Summer Wide Leg Jumpsuits V Neck Sleeveless High Waist Vacation Linen Rompers Dressy,Denim Dressing,Clothing,1,25.68,3.69
+35.0,True,False,Footed Pajamas,32,595025504,"Footed Pajamas - Family Matching Purple Dream Hoodie One Pieces for Boys, Girls, Men, Women and Pets - Kids - XSmall (Fits 3'10 - 4'1"")",Big Girls One-piece Pajamas,Clothing,4.4,44.95,10.0
+13.0,True,False,Just Love,42,788450043,"Just Love Women Tie Dye Pajama Pants (Tie Dye Bright Spotty, 2X Plus)",Pajama Bottoms,Clothing,4.2,14.99,2.0
+24.0,True,False,Ecetana,56,1995467623,Ecetana Mens Womens Water Shoes Quick Dry Barefoot Walking Beach Shoes,Womens Water Shoes,Clothing,4.2,28.99,5.0
+27.2,True,False,VOUA,1368,896599636,"Comforter Full Red All Season Down Alternative, Cooling Quilted Duvet Insert, Bed Comforter with Corner Tabs, Washable Hypoallergenic Reversible Quilt",Down Alternative Comforters,Home,4.4,55.99,28.8
+15.0,True,False,YDX,42,310097871,Cute Teen Girl Teen Girls's Distressed Torn Plus Size Skinny Jeans Light Blue Wash Plus Size 20,Juniors Jeans,Clothing,3.8,17.99,3.0
+30.8,True,False,Clean & Clear,770,199440001,3 Pack - Clean & Clear Deep Action Cream Cleanser Oil-Free 6.50 oz Each,Clean & Clear,Beauty,4.2,34.46,3.69
+86.4,True,False,Amay's,2,1695370897,Amay Rod Pocket Curtain Panel Draperies Ivory 72 Inch Wide by 72 Inch Long-1 Panel,Shop Curtains,Home,3,108.0,21.6
+6.89,True,False,PNTUTB,1,1317644392,"Pntutb Womens Pants Clearance,Women's Solid Pants Comfortable Elastic High Waist Wide Leg Casual Loose Beach Pants Rollback",Plus Size Pants,Clothing,5,7.79,0.9
+32.0,True,False,Ibtom Castle,24,5190064929,IBTOM CASTLE Flowers Girls Tulle Lace Dress for Kids Wedding Bridesmaid Pageant Birthday Party Communion Formal Princess Prom Maxi Gown 7-8 Years Dark Blue,Girls Dresses,Clothing,4.5,40.99,9.03
+30.0,True,False,LifeStride,129,110779998,LifeStride Womens Mexico Strappy Wedge Sandals - Medium & Wide Width,High Heels,Clothing,4.4,43.99,14.0
+16.2,True,False,Zenana,18,860549398,Zenana Women & Plus Size Smocked Waist Lightweight Casual Athletic Lounge Comfy Shorts,Womens Blouses,Clothing,4.1,17.99,1.8
+45.0,True,False,Crocs,21495,5144555813,Crocs Unisex Baya Clog Sandals,Water Shoes,Clothing,4.7,54.99,10.0
+24.0,True,False,Hobibear,231,2868760641,HOBIBEAR Kids Sneakers for Boys Running Shoes Lightweight Sport,Boys Athletic Shoes,Clothing,3.9,59.99,36.0
+20.0,True,False,TIYOMI,47,6925859211,TIYOMI Ladies Plus Size Thickened Pants 4X Beige Casual Full Length Ankle Leggings Flesh Color High Waist Nude Leggings Butt Fit Bottom Pants Fall Winter Pants 4XL 24-26,Plus Size Pants,Clothing,4.1,25.99,6.0
+20.0,True,False,Ginsiom,6,2716531748,Ginsiom Mens Jean Shorts Fashion Ripped Slim Rolled Denim Shorts,Mens Shorts,Clothing,3.8,27.98,8.0
+25.5,True,False,Merci,64,112580004,merci Holiday 14.1oz,Boxed christmas chocolate,Food,4.4,23.263749999999998,6.07625
+15.0,True,False,Fantaslook,388,6494751477,Fantaslook Womens Fall Tops Long Sleeve Shirts Casual Tunic Top Basic T Shirts Tees,Womens Tops,Clothing,4.4,69.99,55.0
+69.0,True,False,Comfortview,1140,1204774750,Comfortview Heather Wide Calf Slouch Boot Mid Calf Women's Winter Shoes (Wide Widths Available),Womens Dress Boots,Clothing,4.3,82.92,13.93
+14.0,True,False,Collections Etc,9,215916201,"Collections Etc Lightweight All Weather Waterproof Comfort Clogs | Flexible, Non Slip | Black, White | EVA | Ultra Comfortable | Easy to Wear | For Home or Office",Womens Petite Plus Size,Clothing,4,20.98,7.02
+28.0,True,False,Dream Pairs,174,321811404,DREAM PAIRS Women's Open Toe Ankle Strap Casual Flatform Platform Sandals NUDE size 10,Wedges,Clothing,4.6,32.99,5.0
+47.0,True,False,Angels Forever Young,17,2095981915,Angels Forever Young Women's 360 Sculpt Bootcut Jeans,Plus Size Jeans,Clothing,4.8,62.0,15.01
+25.4,True,False,Garnier,8290,5664556275,"(3 pack) Garnier Nutrisse Nourishing Hair Color, 415 Soft Mahogany Dark Brown",Garnier Hair Care,Beauty,4.2,28.814999999999998,11.002
+4.39,True,False,Abcnature,1,784626947,"Abcnature Women Leggings Shorts, Butt Lift Scrunch Textured Leggings Workout Shorts, Basic Slip Bike Shorts, High Waist Tummy Control Yoga Shorts Running Shorts Green 3XL",Womens Athletic Shorts,Clothing,1,5.39,1.0
+50.4,True,False,Amay's,8,3927553601,Amay 800 Thread Count 100% Organic Cotton RV King Size 1PC Flat Sheet (102x108) Lavender Striped,Cooling Sheets,Home,5,56.0,5.6
+24.0,True,False,JeenMata,298,729322559,JeenMata Pave Accented - 0.25 Carat Round Cut - Classic Wedding Band - 18K Black Gold Plating over Silver,Fine Jewelry,Jewelry,4.3,89.0,65.0
+65.0,True,False,SOUL Naturalizer,90,5054051408,SOUL Naturalizer Womens Intro Ankle Strap Casual Flats - Medium & Wide Width,Womens Casual Shoes,Clothing,4.5,74.94,9.95
+19.9,True,False,L'Oreal Paris,11308,5663974279,"(2 pack) L'Oreal Paris Feria Permanent Hair Color, 9V Pearl Blonde, 1 fl oz",Conditioning Hair Color,Beauty,3.8,28.814999999999998,11.002
+10.5,True,False,LoyisViDion,30,786691113,LoyisViDion Woman Pants Clearance Women Casual Pants Cotton and Linen Solid Drawstring Elastic Waist Long Straight Pants White L,Womens Joggers,Clothing,3.6,11.98,1.45
+32.0,True,False,Bare Home,283,1180696141,"Bare Home Luxury Duvet Cover and Sham Set - Premium 1800 Collection - Ultra-Soft - King/Cal King, Grid - Grey/White, 3-Pieces",Bedding Sets,Home,4.2,53.99,22.0
+25.0,True,False,Avidlove,24,5327761690,Avidlove Women Button Down Pajama Sets Short Sleeve Shirt with Shorts 2 Piece Pjs Sets Soft Sleepwear Nightwear Button Up Notch Collar Loungewear Set,Young Adult Pajamas,Clothing,4.9,32.99,8.0
+15.0,True,False,Aceur,44,1336755092,"ACEUR Trading Card Binder with 400 Side Loading Pockets,4 Pocket Trading Card Album Folder for TGC,MTG, Baseball Cards, Yugioh",Trading Card Binders & Sleeves,Collectibles,5,29.99,15.0
+24.0,True,False,Ablanczoom,213,2637400158,Ablanczoom Womens Sandals Closed Toe Ankle Strap Comfort Summer Flats Sandals for Women Shoes,Womens Sandals,Clothing,4.3,32.99,9.0
+15.0,True,False,Eytino,141,294549868,Eytino Plus Size Tops V Neck T Shirts Women Short Sleeve Tops Casual Summer Tshirts Loose Fit Tee Yellow 5X,Plus Size Tops,Clothing,4.2,24.89,9.9
+24.7,True,False,Elegant Comfort,99,331844620,"Holiday Pattern 1500 Series Sheet set (6-Piece) Bedding Set, Queen, Burgundy Reindeer",Colored Sheets,Home,4.3,27.48,2.75
+67.4,True,False,Jessica London,11,3824041405,Jessica London Women's Plus Size 2-Piece Stretch Knit Duster Set,Jessica London,Clothing,4.7,75.74,8.3
+30.0,True,False,UVPLove,73,2747441586,UVPLOVE Womens 2023 Fall Casual Turtleneck Batwing-Sleeved Chunky Oversized Ribbed Knit Tunic Sweaters in Pullover Style,Womens Sweaters,Clothing,4.6,36.99,7.0
+34.0,True,False,SANMADROLA,116,2570740977,Sanmadrola Sofa Covers Sectional Couch Loveseat Covers Throw Sofa Cover Sofa Slipcover for Most Shape Sofas Decor Cotton Polyester Blend Thick Throw Cover with Tassels,Slipcovers,Home,4,48.99,15.0
+10.8,True,False,FabricLA,50,391028302,"""FabricLA Comfort Shaggy Luxury Soft Faux Fur Fabric Soft Trim Size, 60â x 4â inch Elegant Choice Ribbon (Ivory)""",Shop All Fabric,Arts Crafts & Sewing,3.9,16.77,5.99
+11.0,True,False,Badger,48,910055282,"Badger Kids Sunscreen Stick SPF 35 with Mineral Zinc Oxide, Travel Size Sunscreen Stick for Kids, 97% Organic Ingredients, Reef Friendly, Broad Spectrum, Water Resistant, .65 oz",Mineral Sunscreen,Personal Care,4.3,14.99,4.0
+19.9,False,False,Key Nutrients,1527,1226247035,"Key Nutrients Electrolytes Powder - Sweet Cherry-Pom Electrolyte Drink Mix - Hydration Powder - No Sugar, No Calories, Gluten Free - 40 Travel Packets",All Powdered Drink Mix,Food,4.8,39.0,19.12
+5.94,True,False,L.A. COLORS,20,886368088,"L.A. Colors Long-lasting Moisture Cream Velvet Plush Lipstick, Exquisite",Lipstick,Beauty,4.3,28.814999999999998,11.002
+26.0,True,False,TIYOMI,46,3926647654,TIYOMI Plus Size Black Tops For Women Snake Pattern Long Sleeve Button Blouses Raglan Snakeskin Sleeves Henley Crewneck Shirts Tee Loose Fit Tunics Fall Winter Casual Pullover XL 14W 16W,Plus Size Tops,Clothing,4.2,30.99,5.0
+25.0,True,False,Wrangler,4,5323625259,"Wrangler Men's Big and Tall Plaid Woven Shirt ,Big Size Up To 6XL And Tall Size Up To 4XT",Mens Casual Button Down Shirts,Clothing,4,35.0,10.0
+31.0,True,False,TheLovely,208,756191129,TheLovely Womens & Plus Stretch Cotton Fold-Over High Waist Bootcut Workout Flared Yoga Pants,Womens Workout Bottoms,Clothing,3.8,34.99,4.0
+6.09,True,False,PNTUTB,1,1084361448,"Pntutb Womans Plus Size Clearance,Womens Shirt Tees Short Sleeve V-Neck T Shirt Tie-Dye T-Shirt Tops Blouse Gift Rollback",Womens Blouses,Clothing,5,6.89,0.8
+10.1,True,True,L'Oreal Paris,853,10997171,"L'Oreal Paris Double Extend Tubing Mascara Lengthening in 2 Steps, Black",All Mascara,Beauty,4.3,28.814999999999998,11.002
+14.9,True,False,UVPLove,206,5247352286,"Uvplove 3/4 Sleeve Blouses for Women Business Casual Elegant Chiffon V Neck Blouses Tops,US Size,Dark Green,M",Womens Blouses,Clothing,4.5,32.99,18.1
+16.2,True,False,GaaiKei,3,3053955490,"GaaiKei 6 Pack Women's Invisible Seamless Hipster Panties Mid-Rise No Show Laser Cut Brief Underwear,Nude Size 5",Hipsters,Clothing,3,17.99,1.8
+15.0,True,False,CPOKRTWSO,2,997055913,CPOKRTWSO Women's Plus Size Long Sleeve Tops Casual Floral Henley Tunic Blouse M-4XL,Plus Size Tops,Clothing,5,16.99,2.0
+15.0,True,False,Riviera Sun,52,806310789,"Riviera Sun Rasta Short Sleeve Umbrella Dresses for Women 21929-S (Rasta 2, Medium)",Womens Dresses,Clothing,3.9,17.99,3.0
+47.5,True,False,Great Bay Home,436,254849903,"Great Bay Home Extra Plush Plaid Fleece Warm & Cozy Sheet Set  (Full, Plaid Grey)",Colored Sheets,Home,4.8,54.99,7.47
+150.0,True,False,Unique Loom,21,486409223,Unique Loom Midnight Bromley Rug Navy Blue/Ivory 9' x 12' Rectangle Medallion Shabby-Chic Perfect For Living Room Bed Room Dining Room Office,All Area Rugs,Home,4.8,254.83,104.84
+52.0,True,False,Bella Vita,1,385780287,BELLA VITA Womens Beige Cushioned Stretch Stephanie Pointed Toe Kitten Heel Zip-Up Booties 10 N,Womens Booties,Clothing,5,90.0,38.02
+16.0,True,False,Mezzati,23,691921425,Mezzati Luxury 1800 Prestige Soft and Comfortable Collection Bed Sheets Set Cal King Striped Gray,Colored Sheets,Home,4.2,20.03,4.01
+7.94,True,False,Arrowhead Mills,135,28926816,Arrowhead Mills Puffed Rice Cereal 6 oz Pkg,Kids' Cereal,Food,4.6,23.263749999999998,6.07625
+12.0,True,False,Pawmate,218,1435754084,"Pawmate Eliminate Tears Nutritious Dog Treats, Chicken Wrapped Sweet Potato for All Dogs, 11 oz",Rawhides,Pets,4.7,14.99,3.02
+38.7,True,False,Wallflower,10,1939989912,WallFlower Women's Legendary Bootcut Mid-Rise Insta Stretch Juniors Jeans (Standard and Plus),Plus Size Jeans,Clothing,4.5,42.99,4.3
+14.0,True,False,Dark and Lovely,2941,5664506341,"(2 pack) Softsheen-Carson Dark and Lovely Fade Resist Rich Conditioning Hair Color, Permanent Hair Dye, 377 Sunkissed Brown",Conditioning Hair Color,Beauty,4.4,28.814999999999998,11.002
+69.3,True,False,Hauteloom,824,261700925,"Hauteloom Berber Shag Collection - Fishhook Farmhouse Entryway, Bedroom, Kitchen Shaggy Runner Rug with Tassel - Fluffy Plush High Pile Carpet - Southwestern Tribal Style - Beige, Black - 2'7"" x 7'3""",All Runner Rugs,Home,4.8,77.0,7.7
+22.0,True,False,MINTREUS,83,5116316140,MINTREUS Women's Pajama Set Long Sleeve Sleepwear Ladies Soft Pjs Lounge Set,Womens Pajama Sets,Clothing,4.7,33.99,12.0
+9.47,True,False,Revlon,1790,11994938,"Revlon ColorStay Overtime Longwearing Gloss Lipstick with Vitamin E, 270 Relentless Raisin, 0.07 fl oz",Lipstick,Beauty,4.3,28.814999999999998,11.002
+41.4,True,False,Woman Within,269,887668036,Woman Within Women's Plus Size Thermal Knit A-Line Dress,Plus Size Dresses,Clothing,4.1,46.52,5.13
+6.66,True,False,Gubotare,3,5768017984,"Gubotare Women's Bikini Top Bathing Suit V Neck Adjustable Spaghetti Straps Twist Front (Hot Pink,M)",Womens Swimsuit Tops,Clothing,3.3,9.27,2.61
+24.0,True,False,Hobibear,189,2183881125,HOBIBEAR Boys and Girls Classic Graphic Garden Clogs Slip on Water Shoes(Toddler/Little Kids/Big Kids),Boys Sandals,Clothing,4.5,49.99,26.0
+99.0,True,False,Heirloom Traditions Paints,33,2017664333,"ALL-IN-ONE Paint, Naples (Sunny Yellow), 128 Fl Oz Gallon. Durable cabinet and furniture paint. Built in primer and top coat, no sanding needed.",Yellow Paint,Home Improvement,4.5,129.99,30.99
+9.63,True,False,Wassery,1,2968552747,Wassery Baby Girls Autumn Clothes 3 6 9 12 18 24 Months Infant Plaid Bear Print Long Sleeve Pullover Sweatshirt Elastic Waist Long Pants Set Newborn Outfits Tracksuits Set 0-24M,Baby Boys Casual Outfit Sets,Clothing,5,10.83,1.2
+0.91,True,False,DPITYSERENSIO,11,1462273455,Dpityserensio 39.3In Flat Solid Color Shoe Laces 10+ Colours Shoelaces Football Boots Trainer Shoes Pink,Shoelaces,Household Essentials,4.2,5.22,4.31
+36.0,True,False,FEDTOSING,101,2097897368,"FEDTOSING Relaxed Work Cargo Pants Outdoor Mens Pant Gray,Size 38×36",Mens Cargo Pants,Clothing,4.4,39.97,4.0
+19.9,True,False,Suavecito,44,393101003,Suavecito Texturizing Powder 1.75 oz,Men's Styling Products,Personal Care,4.5,16.988,6.526000000000001
+17.1,True,False,Zenana,15,182579201,Zenana Plus Size Relaxed Fit Long Sleeve Round Neck & Hem Jersey Tee Shirt Top,Womens Workwear Blouses,Clothing,4.4,18.99,1.9
+44.5,True,False,Roaman's,49,301370849,Roaman's Women's Plus Size Invisible Stretch All Day Cargo Skirt,Womens Plus Skirts,Clothing,4.7,50.19,5.74
+23.1,True,False,Chef Code,1,903463722,"Chef Code Combo Pack, Cool Breeze Cook Shirt and Elastic Waist Chef Pants, Red/Black, XS",Mens Work Uniforms,Clothing,5,32.99,9.9
+3.97,False,True,Little Debbie,70,1624985447,"Little Debbie Nutty Bars Ice Cream Bars, 12 fl oz, 4 Count",Ice Cream Bars,Food,3.7,4.48,0.51
+15.0,True,False,Made by Johnny,61,2178343909,Made by Johnny Women's Short Sleeve All Over Tie-Dye Tunic Top L BROWN,Womens Blouses,Clothing,4.4,18.75,3.79
+15.0,True,False,UVPLove,119,3957741810,"Uvplove Women's Pocket Wide Leg Trousers Lightweight Pants High Waist Button Loose Trouser Work Casual Business Pants,US Size XX-Large in Black",Womens Pants,Clothing,4.4,35.0,20.01
+20.0,True,False,Fantaslook,46,5016880831,Fantaslook Fall Sweatshirts for Women Crewneck Puff Sleeve Tops Fashion Shirts,Womens Sweatshirts & Hoodies,Clothing,4.4,69.99,50.0
+10.4,True,False,New York & Company,1,5480667546,New York & Company Men's Tyler Wingtip Oxford,Mens Oxfords Shoes,Clothing,1,34.5,24.1
+28.0,True,False,GUESS,1,1570467303,GUESS Womens White Lace Zippered Flounce-hem Lined Spaghetti Strap Sweetheart Neckline Knee Length Sheath Dress 4,Womens White Dresses,Clothing,5,37.99,10.0
+17.0,True,False,Showmall,183,446599845,SHOWMALL Plus Size Tunic for Women Cold Shoulder Top Cream Leopard 2X Blouse Short Sleeve Clothing V Neck Shirts Summer Clothes,Plus Size Tops,Clothing,4.4,29.99,13.0
+35.5,True,False,Vanity Fair,336,170712762,Women's Vanity Fair 75345 Beauty Back Full Coverage Underwire Bra (Sheer Quartz Stripe 34D),Underwire Bras,Clothing,4.5,52.22,16.76
+11.0,True,False,Asklazy,142,5186308981,"Asklazy Women's Boho Tops Floral V Neck 3/4 Sleeve Cold Shoulder Blouse Shirts,US Size,Royal Blue,XL",Womens Blouses,Clothing,4.7,45.99,35.0
+50.4,True,False,Amay's,1,1491092992,Amay 800TC Organic Cotton Twin Size Fitted Sheet ( 39X75 ) Fits Mattress Upto 10-12 inches Turquoise Stripe,Cooling Sheets,Home,5,56.0,5.6
+20.0,True,False,Beverly Hills Polo Club,7,5506488018,"Beverly Hills Polo Club Girls School Uniform Skirt - 2 Pack Performance Scooter Skort for Girls, 4-16",Girls Uniform Bottoms,Clothing,4.3,22.98,3.0
+15.0,True,False,SLADYGLO,309,957603867,Women Short Sleeve Crossed Surplice Button Tops,Womens Hoodies,Clothing,4.2,17.99,3.0
+107.0,True,False,Amay's,11,2416048003,Amay Grommet Blackout Curtain Panel True Red 84 Inch Wide by 108 Inch Long -1Panel,Shop Curtains,Home,4.5,134.0,26.8
+13.0,True,False,Cueply,121,5366405121,Cueply Women's Running Shorts High Waisted Athletic Gym Workout Shorts with Liner Zipper Pockets,Look Good While Working Out,Health and Medicine,4.2,29.99,17.0
+35.5,True,False,Smallshow,58,1323968162,Smallshow Long Sleeve Pregnancy Shirts Tops Maternity Clothes for Women 3-Pack,Maternity T-Shirts,Clothing,4.7,39.49,3.95
+52.2,True,False,Levi Strauss Signature,99,373130680,Levi's® Womens Plus Size '94 Baggy Jeans,Plus Size Jeans,Clothing,4.6,61.24,9.06
+15.0,True,False,Aiyino,5,1974609871,Aiyino Women's V Neck Floral Spaghetti Strap Summer Casual Swing Dress with Pocket,Casual Dresses,Clothing,5,18.99,4.04
+26.0,True,False,Allegra K,48,717290810,Allegra K Women's Floral V Neck Ruffled Flutter Sleeve Belt Wrap Midi Dress,Womens Dresses,Clothing,3.8,34.99,9.0
+89.9,True,False,Amay's,5,3280135427,"Amay 100% Cotton 600-Thread Count 4-PCs Sheet Set Easily Fit upto 24 Inch Deep Pockets Stripe Pattern ( Queen, Chocolate )",Colored Sheets,Home,4.2,99.99,10.08
+23.4,True,False,SGI bedding,14,994444000,"SGI Bedding 16 Inch Wrap Around Bed Skirt | Microfiber Bed Skirt | Fade Resistant, Wrinkle Free, Anti-static, Decorative, Extra Storage Space, Clutter-Free | Olympic Queen, Blood Red",Bed Skirts,Home,4.4,25.99,2.6
+40.0,True,False,Mellanni,3472,234175198,"Mellanni Sheet Set Iconic Luxury Brushed Microfiber, Deep Pocket Sheet, 4 Piece King Paisley Gray",Colored Sheets,Home,4.8,53.97,14.0
+26.0,True,False,SANMADROLA,49,5097979850,"Sanmadrola 100% Waterproof Couch Covers Non-Slip Sofa Cover with Elastic Straps&Silicone Backing&Pocket Washable Furniture Protector Slipcovers for Kids Pets Dogs, Beige, Chair",Couch Covers,Home,4.7,29.99,4.0
+26.4,True,False,Kenneth Cole,18,146144209,Kenneth Cole Cooper Black for Men 3.4 oz EDT Spray,Cologne for Men,Beauty,4.9,82.0,55.59
+150.0,True,False,Unique Loom,23,565535969,"Unique Loom Indoor Rectangular Oriental Traditional Area Rugs Beige/Gray, 9' 0 x 12' 0",All Area Rugs,Home,4.5,269.0,119.01
+30.0,True,False,California Design Den,156,2002762091,"California Design Den Full Fitted Sheet Only, Softest 400 Thread Count 100% Cotton Sateen, Deep Pocket, All-Around Elastic, Side Indicators - Creamy White",Cotton Sheets,Home,4.5,34.99,5.0
+26.0,True,False,IDOPIP,2,5270512071,IDOPIP Women Metallic Gold Liturgical Praise Dance Dress Long Sleeve Lyrical Dancewear Worship Dress,Womens Dresses,Clothing,5,29.99,4.0
+28.0,True,False,UVN,127,3043754728,UVN Sweatsuits Womens 2pcs Sets Jogger Set Casual 2 Piece Outfit Striped Sweatshirts Long Tracksuits,Womens Activewear,Clothing,4.2,39.99,12.0
+22.8,True,False,cllios,3,5230931476,cllios Sweatsuits for Women 2024 Spring Summer Two Piece Outfit Trendy Stripes Long Sleeve Crewneck Pullover Tops and Drawstring Long Pants Tracksuit Rose Gold XXXL,Womens Activewear,Clothing,4.7,26.81,4.02
+15.0,True,False,Fantaslook,135,5340752441,Fantaslook Short Sleeve T Shirts for Women Crew Neck Side Split Tunic Tops Casual Summer Shirts,Plus Size Tshirts,Clothing,4.6,29.99,15.0
+21.0,True,False,Stretch Is Comfort,30,524481378,Stretch Is Comfort Women's Cotton Biker Shorts Olive Green X-Large,Plus Size Activewear,Clothing,3.7,23.99,3.0
+15.0,True,False,LovelyDaisy,5,1615288442,LovelyDaisy Plus Size Vintage Floral Print Sleeveless Rompers For Women Summer Casual Loose O Neck Jumpsuits Dark Blue L,Womens Jumpsuits,Clothing,1,28.96,13.97
+33.0,True,False,Exclusivo Mezcla,175,2205907607,"Exclusivo Mezcla 3 Pieces Boho Bohemian Quilt Set Queen Size, Lightweight Patchwork Quilted Bedspread/Coverlet/Bed cover/Bedding Set, Navy",Bedding Sets,Home,4.4,73.98,40.99
+32.0,True,False,Yalamila,4303,2544735639,"Yalamila WhatsBedding 2 Pieces Bed in a Bag Comforter Set Duvet Insert,Reversible,Pink,Twin",Bed In A Bag,Home,4.3,162.99,131.0
+15.0,True,False,UZZI,9,141757585,"UZZI Kids Swim Shorts Fast Dry Fun Print, Aqua Boat, Size: 8-10, Uzzi Active Wear",Boys Swim Trunks,Clothing,4,16.99,2.0
+30.0,True,False,Jessica London,50,5264765893,Jessica London Women's Plus Size Scoop-Neck Sweater Tank,Plus Size Sweaters,Clothing,4.5,33.99,4.0
+2.0,False,True,Mott's,720,10294756,"Mott's Cinnamon Applesauce, 4 oz cups, 6 count",Canned fruit,Food,4.7,2.78,0.78
+18.0,True,False,NFTOEIULA,531,1649464157,Nlife Women Bohemian 3/4 Sleeve V Neck Floral Print Shirt,Midi Dresses,Clothing,3.7,19.99,2.0
+13.6,True,False,LANREMON,197,647837522,LANREMON Plus Size T Shirts for Womens Summer Short Sleeve Striped Print Loose Pink T Shirts Blouse Dressy Clothes Size 20,Plus Size Tops,Clothing,4.7,25.99,12.4
+38.0,True,False,Kingsize,357,775961150,KingSize Men's Big & Tall Gauze Camp Shirt,Mens Casual Button Down Shirts,Clothing,3.4,47.09,9.09
+15.0,True,False,LovelyDaisy,5,1540786817,LovelyDaisy Plus Size Vintage Floral Print Sleeveless Rompers For Women Summer Casual Loose O Neck Jumpsuits Black S,Womens Jumpsuits,Clothing,1,28.96,13.97
+20.0,True,False,Woman Within,635,824154912,Woman Within Women's Plus Size Perfect Printed Short-Sleeve Crewneck Tee,Plus Size Tshirts,Clothing,4.3,25.44,5.49
+15.0,True,False,DII,15,864008591,"DII 14x72"" Modern PVC Polyester Doubleframe Table Runner in Nautical Blue",Table Runners,Home,3.9,16.99,2.04
+22.5,True,False,Whale Flotilla,73,1178468491,"Whale Flotilla Microfiber Twin Size (68x88 inches) Quilt Set Lightweight Quilted Bedspreads Coverlets Set with Stars Pattern, Light Grey, 2 Piece (1 Quilt, 1 Sham)",Quilt Sets,Home,4.4,27.99,5.5
+28.0,True,False,PJammy,9,953950834,Scooby Doo Men's Ruh-Roh! Scooby Character Sleep Lounge Pajama Pants,Mens Pajama Bottoms,Clothing,4.9,32.95,5.0
+26.0,True,False,Bare Home,121,606542584,"Bare Home 2-Pack Fitted Sheets - Premium 1800 Collection - Ultra-soft - Deep Pocket - Queen, White",Bed Sheets,Home,4.5,35.49,9.5
+20.0,True,False,SENDEFN,48,5352569431,SENDEFN Small Womens Wallet Leather Bifold Card Holder RFID Blocking with Zipper Coin Pocket,Wallets,Clothing,4.8,30.99,11.0
+28.7,True,False,Medgear,227,393061304,2-PACK Medgear 12-Pocket Women's Scrub Set with Silver Snap Detail & Contrast Trim,Medgear Scrubs,Clothing,3.7,40.98,12.3
+20.0,True,False,RAW X,1,2126911017,"RAW X  Boy's RawX Distressed Denim Shorts, Med Blue, 10",Mens Denim Shorts,Clothing,5,24.99,5.0
+11.0,True,False,Fantaslook,781,5246848011,Fantaslook Dressy Blouses for Women Pleated Short Sleeve Tunic Tops Casual Floral Shirts,Plus Size Tops,Clothing,4.4,35.99,25.0
+174.0,True,False,Blue Nile Mills,3,645104219,"Modern Diamond Plush Polypropylene Indoor Shag Area Rug with Fringe - 8' x 10, Cream-Blue",All Area Rugs,Home,5,252.2,78.57
+70.0,True,False,Snailax,74,3876384696,"Snailax Vibration Foot Massager with Heat, Adjustable Foot Massager Machine with App Control, Gifts",Shop all Massagers,Health and Medicine,4.5,145.99,76.0
+20.0,True,False,Ibtom Castle,12,5448526212,IBTOM CASTLE Women's One Piece Rash Guard Swimsuit UV Protection Floral Printed Surfing Zipper Swimwear Bathing Suit Beachwear S Pink + Yellow Floral,Womens One-piece Swimsuits,Clothing,4.3,31.99,12.0
+125.0,True,False,WestinTrends,32,490711747,"WestinTrends Black Bar Stools Set of 2, 29 Inch Tall Farmhouse Kitchen Wooden Saddle Stool Chair, Linen Upholstered Cushion with Solid Wood Leg Barstools, Beige",Shop All Bar Stools & Counter Stools,Home,4.5,249.99,125.0
+24.1,True,False,LA Linen,1,54973324,"LA Linen Polyester Gingham Checkered 58 by 58-Inch Square Tablecloth, Royal Blue and White",Fabric Tablecloths,Home,5,26.97,2.9
+4.09,True,False,PNTUTB,2,1716639656,"Pntutb Womens Clearance,Women's Bra Wire Free Underwear Onepiece Bra Everyday Underwear Bras Rollback",Wireless Bras,Clothing,3.5,4.69,0.6
+117.0,True,False,Algherohein,46,3423574153,"Algherohein Dog Gate for Inside,Bamboo Freestanding Pet Gate for Doorways,24"" Brown",All Dog Gates,Pets,4.2,159.99,43.33
+8.58,True,False,BELLA + CANVAS,31,783037189,Unisex CVC Jersey Tee,Mens T-Shirts,Clothing,4.6,11.87,3.29
+22.0,True,False,Lars Amadeus,1,100662878,Lars Amadeus Men's Nightshirt Long Sleeves Hooded Loungewear Nightgown Pajamas,Mens Pajamas and Robes,Clothing,5,33.99,12.0
+14.0,True,False,Chef Code,1,381553241,"CHEF CODE The Professional Chef Pant with Belt Loops and Zipper Fly, CC223",Mens Work Pants,Clothing,1,19.99,6.0
+11.2,True,False,Maybelline,112,33685485,"Maybelline Color Sensational Elixir Lip Lacquer, Caramel Infused",Maybelline Lip Makeup,Beauty,4,12.72,1.53
+7.99,True,False,Starbay,45,302630622,StarBay Women's Graphic Print Comfort Platform Wedges in Tan,Womens Shoes,Clothing,4,8.99,1.0
+38.0,True,False,Bare Home,1322,164144701,"Bare Home Ultra-Soft Sheet Set - Premium 1800 Collection - Deep Pockets - 4-Pieces - Queen, Dark Blue",Colored Sheets,Home,4.7,50.99,13.0
+15.0,True,False,Riviera Sun,4,690394981,"Riviera Sun Women's Tie Dye Maxi Dress - Lightweight and Flowy with Beautiful Color Variations (White / Black Dress, 3X)",Womens Dresses,Clothing,4.8,16.99,2.0
+146.0,True,False,Durango,49,180450545,Durango® Women's Distressed Tan Slouch Western Boot Size 7(M),Womens Mid Calf Boots,Clothing,4.9,165.0,18.6
+9.99,True,False,Ma Croix,2405,377862424,Ma Croix Men's Mesh Shorts With Pockets Gym Basketball Activewear,Mens Workout Shorts,Clothing,4.3,14.99,5.0
+39.0,True,False,Jessica London,64,5263061952,Jessica London Women's Plus Size Stretch Cotton Tank Maxi Dress,Plus Size Dresses,Clothing,4,45.38,6.38
+15.0,True,False,Alimens & Gentle,1467,1329196784,Alimens & Gentle Men's Short Sleeve Hawaiian Aloha Shirt Summer Vacation Shirts 100% Cotton,Mens Casual Button Down Shirts,Clothing,4.4,16.99,2.0
+15.0,True,False,Blake & Co,7,5618790028,"BLAKE & CO. 2 Pack Junior's Cotton Rayon Push Up Bra with Adjustable Straps, Sizes 34B-40DD",Womens Bras,Clothing,4.4,21.74,6.75
+12.0,True,False,Chick Pea Baby,49,943189923,"Chick Pea Baby Girl 3 PC French Terry Jogger Set, Sizes Newborn-24 Months",Baby Girls Clothing,Clothing,4.8,14.99,3.0
+10.3,True,False,Gubotare,3,5440778555,"Gubotare Golf Shirts for Men Print Moisture Wicking Performance Short Sleeve Polo Shirt (Red,3XL)",Mens Polo Shirts,Clothing,1,12.76,2.46
+40.0,True,False,TIYOMI,2,2128773109,"TIYOMI Plus Size Women's Thermal Underwear Suits Grey Crewneck Thermal Tops 2X Long Johns Fleece Lined Base Layer Top and Bottom Sets Fall Winter Pajama, 2-Pack 2XL 18W 20W",Womens Plus Thermal Sets,Clothing,3,45.99,6.0
+32.9,True,False,NELEUS,153,1577779507,"NELEUS Womens V Cross Waist Spandex Shorts for Yoga Athletic Bike with Pockets,Black+Gray+Light Purple,US Size L",Womens Athletic Shorts,Clothing,4.6,54.0,21.12
+15.0,True,False,Anygrew,65,1840696696,Anygrew Womens Tops 2023 Summer Blouses V Neck Batwing Sleeve Tops Tie Knot Chiffon Button Down Casual Blouse,Womens Blouses,Clothing,4.5,39.99,25.03
+22.0,True,False,Ibtom Castle,30,1009224046,IBTOM CASTLE Boys Prince Charming Costume Halloween Cosplay Prince Dress up Birthday Party Medieval Royal Prince Outfits for Toddler Kids 3-4 Years 4pcs Light Blue,Kids Clothing,Clothing,4.1,38.92,16.93
+8.99,True,False,Creme of Nature,95,10309083,"Creme of Nature Permanent Hair Color Red Copper 6.4, 1.0 CT",Red Hair Dye,Beauty,4.6,28.814999999999998,11.002
+89.9,True,False,Amay's,5,2089818094,"Amay 100% Cotton 600-Thread Count 4-PCs Sheet Set Easily Fit upto 24 Inch Deep Pockets Solid Pattern ( Queen, Dark Grey )",Colored Sheets,Home,4.2,99.99,10.08
+40.0,True,False,SANMADROLA,104,5336951329,"Sanmadrola 100% Waterproof Sofa Anti Slip Couch Covers Machine Washable Furniture Covers Leakproof Sofa Slipcover for Dogs, Children, Pets, Gray, Sofa Oversize",Couch Covers,Home,4.8,55.99,16.0
+100.0,True,False,Reebok Work,15,667101829,Reebok BB4500 Work Men's Composite Toe Electrical Hazard Work Shoe Size 11(M),Mens Safety Shoes,Clothing,4.6,136.01,36.06
+24.0,True,False,GIRUNS,26,5617872175,GIRUNS Cargo Pants For Women Wide Leg Pants Beige XL Baggy Stretchy Streetwear Pants High Waisted Casual Streetwear With Pockets Pants For Women,Womens Pants,Clothing,4.8,39.99,16.0
+32.0,True,False,Buganda,204,516529863,"Buganda Microfiber Bathroom Rugs (24x47, Wine Red) Shaggy Soft and Absorbent, Non Slip, Thick Plush, Machine Washable Bath Mat and Bath Rugs for Bathroom",Bathroom Rugs & Bath Mats,Home,3.7,35.99,4.0
+30.0,True,False,X Ray Jeans,72,3230824340,"X RAY JEANS Mens Belted 18"" Inseam Below Knee Long Cargo Shorts, Plaid White, 48",Mens Cargo Shorts,Clothing,4.2,34.99,5.0
+15.0,True,False,Zenana,34,245581709,Zenana Women & Plus Relaxed Fit Long Sleeve V-Neck Round Hem Jersey Tee Shirt Top,Halloween Themed Clothing,Party & Occasions,3.9,18.99,4.0
+45.0,True,False,Comfort Canopy,154,1983309413,Comfort Canopy - Light Gray Reversible Painted Chevron Stitched Quilt Coverlet for Twin Size Beds,Quilts,Home,4.8,114.99,70.0
+270.0,True,False,Amolife,42,5108346618,"Amolife King Size Upholstered Platform Bed Frame with Adjustable Vertical Channel Tufted Velvet Headboard, Dark Blue",King Beds,Home,4.7,599.99,330.0
+6.19,True,False,PNTUTB,1,1699095797,"Pntutb Womens Clearance,Plus Size Women's 3/4 Sleeve Striped Print V-Neck Loose Fit Tops T-Shirt Rollback",Plus Size Tshirts,Clothing,4,7.09,0.9
+36.0,True,False,FEDTOSING,101,1208578847,"FEDTOSING Relaxed Work Cargo Pants Outdoor Mens Pant Greyish Green,Size 40×34",Men's Hiking Pants,Sports & Outdoors,4.4,39.97,4.0
+18.0,True,False,NASA,1,265927683,Men's NASA Space Shuttle Schematic Details  Long Sleeve Shirt Black 2X Large,Mens Graphic Tees,Clothing,5,20.99,3.0
+9.98,True,False,Younger Tree,24,3675207718,Younger Tree Baby Boy Kid Summer Outfits Set Short Sleeve T-Shirt Shorts Clothes Set for 2-3T,Baby Boys Casual Outfit Sets,Clothing,4.8,14.99,5.01
+56.7,True,False,Amay's,1,3644855526,"Amay 800TC Organic Cotton RV Short Queen Size Fitted Sheet ( 60X75 ) Fits Mattress Upto 18 inches, Purple Solid",Cooling Sheets,Home,5,63.0,6.3
+22.0,True,False,Walensee,192,222849703,"Walensee Non-Slip Bathroom Rugs Chenille Soft Striped Plush Bath Mat, 20"" x32"", Red",Bathroom Rugs & Bath Mats,Home,4.3,26.99,5.0
+48.5,True,False,Levi's,3898,529767263,Levis Men's 505 Regular Fit Jeans,Mens Regular Fit Jeans,Clothing,4,69.5,21.03
+29.7,True,False,Active Basic,44,790279534,"Active Basic Women & Plus Basic Solid Long Length Adjustable Spaghetti Strap Camisoles (4PK - Black/White/H. Grey/Taupe, 3XL)",Plus Size Activewear,Clothing,4.1,32.99,3.3
+13.5,True,False,RBX,12,5313791616,RBX Boys' Athletic T-Shirt - 2 Pack Active Performance Dry-Fit Sports Tee (Size: 4-16),Boys Athletic Shirts,Clothing,4.8,14.99,1.51
+28.0,True,False,CHAMPRO,1,832929384,"CHAMPRO Bootleg 2 Integrated Poly/Spandex Football Game Pants, Adult 2X-Large, Royal",Football Pants,Sports & Outdoors,1,41.55,13.6
+25.9,True,False,Native,4606,5662896790,"(2 pack) Native Deodorant, Coconut & Vanilla, Aluminum Free, for Women and Men, 2.65 oz",Native Deodorant,Personal Care,4,16.988,6.526000000000001
+15.0,True,False,DAKIMOE,14,5417683805,"DAKIMOE Mens Swim Trunks Stretch Water Beach Shorts with Compression Liner 2 in 1 Quick-Dry Swimming Shorts with Zipper Pockets, Black&White&Gray, S",Mens Swimwear,Clothing,4.6,39.99,25.01
+41.2,True,False,Boulder Creek,32,3754763373,Boulder Creek By Kingsize Men's Big & Tall Western Snap Front Shirt,Mens Casual Button Down Shirts,Clothing,4.4,52.19,11.02
+28.0,True,False,Aireolux,53,5033822215,Aireolux 800TC Wrinkle-Resistant Supima Cotton Pillowcases King Blue,Colored Sheets,Home,4.8,54.99,27.0
+5.85,True,False,Fruit of the Loom,59,141988874,DISCONTINUED Fruit of the Loom ® Youth HD Cotton ? 100% Cotton T-Shirt. 3930B,Fruit of the Loom Mens T-Shirts,Clothing,4.5,7.09,1.24
+129.0,True,False,Hauteloom,324,5075840147,"Hauteloom Holli Collection Antebi - Machine Washable Oriental Persian Hallway, Entryway, Kitchen Runner Rug - Neutral Vintage Distressed Boho Style - Beige, Brown, Cream - 2'7""x15'",All Runner Rugs,Home,4.6,143.0,14.3
+13.0,True,False,Cueply,121,5359370591,Cueply Women's Running Shorts High Waisted Athletic Gym Workout Shorts with Liner Zipper Pockets,Womens Athletic Shorts,Clothing,4.2,29.99,17.0
+8.0,True,False,Hanes,269,1500372373,"Hanes Originals Men's & Big Men's Tri-Blend Jersey 7"" inseam Shorts , S-4XL",Hanes Mens Shorts,Clothing,4.4,20.0,12.0
+72.0,True,False,Amay's,6,1696601956,"Amay 800TC Organic Cotton Split King Size Fitted Sheet ( 39X80 ) Fits Mattress Upto 12-15 inches, Beige Solid",Cooling Sheets,Home,5,80.0,8.0
+42.4,True,False,RUGKING,569,5334053510,Rugking Runner Rug 2x12 Vintage Printed Grey Area Rug Stairway Carpet Home Accent Thin Rug For Hallway Bedroom Kitchen Living Room,All Runner Rugs,Home,4.4,59.99,17.6
+24.9,True,False,E&S PETS,40,963319137,Comfies Border Collie Unisex Cotton Blend Pajama Bottoms - Gift for Pet Lovers,Pajama Bottoms,Clothing,4.7,29.97,5.07
+13.2,True,False,Redmond,14,37684787,"Redmond Earth Paste Natural Toothpaste, Unsweetend Spearmint, 4 Oz",All Toothpaste,Personal Care,4.4,16.988,6.526000000000001
+44.0,True,False,Homy Casa,66,565404638,"Homy Casa Teens Task Home Office Chair Ergonomic Small Cute Chair, Lumbar Support Breathable Mesh Seat for Student,Lime Yellow",Desk Chairs,Home,4.2,132.75,88.76
+30.0,True,False,Unique Loom,21,582026356,"Unique Loom Midnight Bromley Rug , 3' 3"" x 5' 3"" ,Dark Gray",All Area Rugs,Home,4.8,39.0,9.01
+18.0,True,False,ppyoung,1005,2975640420,PPYOUNG Womens Off Shoulder Long Sleeve Blouses Casual Tunic Tops,Womens Tops,Clothing,4.3,32.99,15.0
+28.5,True,False,Leading Lady,63,136966561,The Brigitte Classic - Underwire T-Shirt Bra,Underwire Bras,Clothing,4.7,38.0,9.5
+16.0,True,False,Parade,34,5273430664,"Parade Mesh Strappy Bralette and Thong Set, Sizes XS to 3XL",Bralettes,Clothing,4.3,19.94,3.94
+30.0,True,False,Maidenform,61,141383946,Women's Maidenform DMS084 Cover Your Bases Shaping Low-Back Bodysuit (Nude 1/Transparent 2X),Womens Tops,Clothing,3.3,44.84,14.85
+15.0,True,False,GIRUNS,26,5617872169,GIRUNS Womens Cargo Pants High Waist Trousers Black M With Pockets Wide Leg Pants Loose Stretchy Casual Comfy Relaxed Fit Streetwear Long Straight Pants For Women,Womens Pants,Clothing,4.8,39.99,25.0
+45.9,True,False,Elila,36,166233692,Elila Womens Sidney Jacquard Wire-Free Bra Style-1305F,Underwire Bras,Clothing,3.2,54.0,8.09
+6.59,True,False,Follure Clothing,1,780851550,Winter Fall Dresses for Women Wedding Guest 3/4 Sleeve Plus Size Cold Shoulder Overlay Asymmetric Chiffon Strapless Sequins Dress,Plus Size Dresses,Clothing,1,8.79,2.2
+1470.0,True,False,WestinTrends,25,2007589965,"WestinTrends Malibu 6 Piece Adirondack Patio Dining Set with Bench, All Weather Poly Lumber Outdoor Table and Chairs, 71"" Trestle Dining Table, 4 Adirondack Chair with Dining Bench, Dark Brown",Shop All Patio Sets,Patio & Garden,4.6,2429.99,958.0
+10.8,True,False,Bali,38,2503512087,Women's Bali DFSTHP Soft Touch Hipster Panty (Almond 6),Womens Panties,Clothing,4.3,13.0,2.2
+80.9,True,False,Amay's,9,3830058162,"Amay Egyptian Cotton 600-Thread Count 4-PCs Sheet Set Fits Easily Fit upto 15"" Inch Deep Pockets Stripe( RV Short Queen, Burgundy )",Cooling Sheets,Home,5,89.99,9.08
+117.0,True,False,Amay's,2,2170655278,Amay Rod Pocket Curtain Panel Yellow/Gold 120 Inch Wide by 84 Inch Long-1 Panel,Shop Curtains,Home,5,146.0,29.2
+24.5,True,False,Chef Code,8,921078120,"2-PACK Chef Code Basic Short Sleeve Chef Coat with Pearl Buttons, Chef Jacket, Red, 4XL",Mens Work Uniforms,Clothing,5,34.99,10.5
+14.0,True,False,UVPLove,180,2601975366,"Uvplove Women's Plus Size V Neck Summer Tops Shirt Casual Low Cut Curvy Tee Shirt Dressy Knit Tunic Short Sleeve,Purple-XL",Womens Blouses,Clothing,4.7,33.99,20.0
+19.5,True,False,INNERSY,178,257806313,"INNERSY Men's Underwear Briefs Soft Comfy Classic Underwear Pack of 4 (M, Black)",Mens Briefs,Clothing,4.7,22.99,3.45
+10.5,False,False,Garnier,12718,5661609867,"(3 pack) Garnier Nutrisse Ultra Color, R24 Intense Bronze Red, Permanent Hair Dye, 1 kit",Red Hair Dye,Beauty,4,28.814999999999998,11.002
+19.6,True,False,Merci,34,328244696,merci Holiday Finest 8.8oz,Boxed christmas chocolate,Food,4.6,23.263749999999998,6.07625
+70.0,True,False,SOUL Naturalizer,87,5205738441,SOUL Naturalizer Womens Neela Lace Up Sneakers - Medium & Wide Width,Womens Casual Shoes,Clothing,4.4,79.94,9.95
+14.0,True,False,Astylish,124,1217339941,Astylish Women V Neck Boho Tops 2023 Fashion Dressy Floral Long Sleeve Shirts Size XL,Plus Size Tops,Clothing,3.6,19.96,5.97
+32.4,True,False,TheLovely,11,5642502722,3 Packs of TheLovely Men & Women Long Sleeve Baseball Raglan Tee Shirt Top (S-3XL),All Baseball Gear & Equipments,Sports & Outdoors,4.4,35.99,3.6
+19.8,True,False,Zenana,87,522908316,2 Packs of Zenana Women Premium Cotton High Waist Full Ankle Length Leggings,Workout Leggings,Clothing,4.4,21.99,2.2
+13.0,True,False,Nature's Truth,35,618032539,"Turmeric Curcumin 1600mg | 60 Softgel Capsules |  With Ginger, Astragalus, & Black Pepper Extract | Non-GMO, Gluten Free Supplement | by Nature's Truth",All Vitamins & Supplements,Health and Medicine,4.6,15.28,2.29
+7.79,True,False,Betiyuaoe,1,318615006,Dresses for Women Summer Sleeveless Plus Size Daily Vintage Sunflower Bohemian V Neck Maxi Dress,Plus Size Dresses,Clothing,1,9.19,1.4
+21.0,True,False,cheibear,6,1578815246,cheibear Women's Satin Lounge Tops with Shorts Silky Nightwear Pajama Sets,Womens Pajama Sets,Clothing,4.7,28.99,8.0
+33.0,True,False,Comfort Canopy,86,1932369237,Comfort Canopy - 3 Piece Rose Desert Stripe Microfiber Duvet Cover Set with Shams for Twin Beds,Duvet Covers,Home,4.2,94.99,62.0
+13.5,True,False,CPOKRTWSO,6,507995811,CPOKRTWSO Women's Plus Size 3/4 Roll Sleeves V Neck Henley Tunic Tops Casual Shirts M-14XL,Plus Size Tops,Clothing,4.3,14.99,1.5
+52.0,True,False,Bare Home,128,829098148,"Bare Home Flannel Sheet Set - 100% Cotton - Deep Pocket - 3 Pieces - Twin, Winter Alpine",Kids' Sheets,Home,4.7,59.49,7.5
+5.79,True,False,PNTUTB,6,1766457787,"Pntutb Womens Shorts Clearance,New 2022 Women's Summer Casual with Pockets Drawstring Printed Ruffles Shorts Rollback",Womens Shorts,Clothing,4.2,9.9,4.11
+15.0,True,False,Star Wars,1,255946326,Men's Star Wars Darth Vader Starry Sleigh  Graphic Tee Navy Blue X Large,Men's Movies and TV Tees,Clothing,5,18.99,4.0
+30.0,True,False,X Ray Jeans,1,455894581,"X RAY JEANS Mens Mock Neck Sweater Pullover, Powder Blue, S",Mens Pullover Sweaters,Clothing,5,34.99,5.0
+87.0,True,False,VECELO,39,1267967836,"VECELO Queen Size Metal Bed Frame with Victorian Style Headboard and Footboard, 12.6 Inch Platform Bed Frame with Metal Slats Support, Modern Heavy Duty Mattress Foundation, No Box Spring Needed,White",Metal Bed Frames,Home,4.6,99.99,13.0
+17.0,True,False,CRAYNER,30,5469955513,CRAYNER Women Summer Short Sleeve Dresses Casual Swing Cold Shoulder T Shirt Dresses Sundress with Pockets,Casual Dresses,Clothing,4.7,28.99,12.01
+9.98,True,True,Pretty Smart,29,5316176929,"Pretty Smart Celebrity Artist Eyeshadow Palette 102, Toasty Mauve, Gradient, Bare Brunch, Mr. Merlot, 4.50g",Clean Beauty Makeup,Beauty,4.6,28.814999999999998,11.002
+29.0,True,False,Disney,258,5118743904,Disney Girls Bomber Jacket Minnie Mouse Daisy Colorblock Varsity Jacket Gift Fall Spring Sizes 3-10,Girls Coats and Jackets,Clothing,3.9,39.13,10.14
+10.6,True,False,Qishi,108,908201566,Silicone Waterproof Dog Cat Pet Food Mats Tray - Non Slip Pet Dog Cat Bowl Mats Placemat - FDA Grade Dog Pet Cat Feeding Mat-BLUE,"All Cat Feeders, Fountains, and Bowls",Pets,4.1,19.99,9.43
+10.6,True,False,Licensed,12,5170388947,"Pabst Blue Ribbon Men's & Big Men's Board Shorts Swim Trunks, 7.5"" Inseam, Sizes S-3XL",Young Adult Swimsuits,Clothing,4.9,17.98,7.4
+25.4,True,False,Playtex,6950,413714617,Playtex 18 Hour Comfort Strap Bra,Womens Bras,Clothing,4.3,35.98,10.63
+56.4,True,False,Wrangler,94,472338698,36MACMS Mens Wrangler Adv Comfort Slim Fit,Mens Slim Fit Jeans,Clothing,4.2,62.94,6.55
+30.0,False,False,WHIMZEES,5,369367315,"WHIMZEES Value Bag Stix Dental Chews, Small, Pack of 40",All Dog Dental Care,Pets,4.2,36.97,6.98
+13.0,True,False,Playtex,6620,494669579,Playtex 18 Hour Wirefree Bra Ultimate Lift & Support Cushioned Women's 4745,Wireless Bras,Clothing,4.4,17.99,5.0
+13.9,True,False,Alsol Lamesa,13,1331751223,Swimsuit Coverup for Women Stripe Print Plus Size Beach Coverup Side Split Bathing Suit Cover Ups Alsol Lamesa,Womens Swimsuit Cover-ups,Clothing,3.6,19.88,6.0
+14.0,True,False,TheLovely,208,172401971,TheLovely Womens & Plus Stretch Cotton Fold-Over High Waist Bootcut Workout Flared Yoga Pants,Plus Size Activewear,Clothing,3.8,17.99,4.0
+20.0,True,False,Moa Collection,26,284562411,MOA COLLECTION Women's Solid Casual Lightweight Loose Fit Pocket Open Front Knit Cardigan,Cardigans for Women,Clothing,3.9,22.95,2.96
+38.0,True,False,G-Style USA,19,920987081,Men's Tiger Striped Reflective Tape Track Suits 2 Piece Sweatsuit Set ST576 - Neon Yellow - Large,Mens Workout Clothing,Clothing,4.8,54.95,17.0
+25.0,True,False,Vulcanodon,68,5157204153,"Vulcanodon Mens Pajama Set 100% Cotton, Long Sleeve Button Down PJ Set for Men Plaid Men's Sleepwear(Red Blue-Plaid, Small)",Mens Pajama Sets,Clothing,4.6,37.99,13.0
+22.0,True,False,Bare Home,425,1638119585,"Bare Home Fitted Sheet - 22"" Extra Deep Pocket - Premium 1800 Collection - King, 22"" Pocket, Red",Colored Sheets,Home,4.6,32.99,11.0
+21.8,True,False,Leading Lady,4,569572519,The Serena - Cotton Wirefree Sports Bra,Low Support,Clothing,5,29.0,7.25
+52.2,True,False,Amay's,1,3204034213,Amay 800TC Organic Cotton California King Size Fitted Sheet ( 72X84 ) Fits Mattress Upto 12 -15 inches Parrot Green Stripe,Cooling Sheets,Home,5,58.0,5.8
+4.09,True,False,PNTUTB,7,1746644909,"Pntutb Womens Clearance,Sexy Women's Plus Size Vest Crop Wire Free Bra Lace Lingerie Sexy V-Neck Underwear Rollback",Wireless Bras,Clothing,3.1,4.69,0.6
+16.1,True,False,MIZANI,377,46068414,Mizani Edge Taming Hair Gel - Size : 1.7 Oz,Premium Hair Styling Products,Premium Beauty,4.3,18.0,1.87
+44.1,True,False,Hauteloom,12,999564173,"Hauteloom Milliken Hallway, Kitchen Runner Rug - Updated Traditional - Orange, Purple, Gray - 2'7"" x 7'3""",All Runner Rugs,Home,4.5,49.0,4.9
+15.3,True,False,TheLovely,18,351681309,TheLovely Women & Plus Sleeveless Mock-TurtleNeck Pleated Top with Waistband,Halloween Themed Clothing,Party & Occasions,4.5,16.99,1.7
+25.0,True,False,SORMAG,82,5530831029,"SORMAG 3 Pieces Duvet Cover Set, Soft Washed Microfiber Duvet Cover Full with 2 Pillow Shams,Black",Bedding Sets,Home,4.3,129.99,105.0
+12.8,True,False,eFavormart,156,5066959782,"Efavormart 90""x132"" Wine Seamless Polyester Rectangular Tablecloth",Wedding Tablecloths,Home,4.6,16.99,4.19
+6.19,True,False,PNTUTB,16,1942484324,"Pntutb Womens Clearance,Plus Size Women's Print V Neck Short Sleeve Long T-Shirt Blouse Rollback",Plus Size Tops,Clothing,3.6,7.09,0.9
+1.98,False,True,Cool Whip,1585,10801127,"Cool Whip Extra Creamy Whipped Cream Topping, 8 oz Tub",Whipped Toppings,Food,4.7,23.263749999999998,6.07625
+15.0,True,False,Batman,2,965054107,Men's Batman Logo Vintage  Graphic Tee Athletic Heather X Large,Mens Graphic Tees,Clothing,5,18.99,4.0
+55.0,True,False,Voltaren,3894,453089336,New Easy Open Cap - Voltaren Arthritis Pain Gel for Powerful Topical Arthritis Pain Relief - Two 150 G Tubes and One 50 G Tube,Arthritis pain relief,Health and Medicine,4.4,41.65555555555555,14.507777777777777
+14.5,True,False,Leading Lady,4,1516694163,The Serena - Cotton Wirefree Sports Bra,Low Support,Clothing,5,29.0,14.5
+20.0,True,False,Wespornow,18,1906381169,Wespornow Mens Hawaiian Shirts Short Sleeve Floral Tropical Beach Casual Button Down Shirts Black M,Mens Casual Button Down Shirts,Clothing,4.4,26.99,7.0
+6.98,True,False,Sentmoon,4,5606778747,Summer Savings Wycnly on Sale Capri Pants for Women Womens Drawstring Elastic Waist Capris Pants Summer Casual Plus Size Button Straight Leg 3/4 Trousers Comfy Cotton Linen Pocket Cropped Pants,Womens Pants,Clothing,4.8,7.77,0.79
+12.0,True,False,Amoretu,42,1469896755,"Amoretu Women Hoodies Tunic T-shirt Button Swing Pullover Loose Fit, Green S",Tshirts for Women,Clothing,4.1,13.99,2.0
+50.0,True,False,SOUL Naturalizer,367,391816176,SOUL Naturalizer Womens Tia Slip On Fashion Sneakers - Medium & Wide Width,Womens Casual Shoes,Clothing,4.5,74.94,24.96
+28.0,True,False,Ibtom Castle,17,1720306083,IBTOM CASTLE Little Big Girls Flower Tulle Dress Princess Pageant Birthday Party Wedding Formal Floor Length Long Dance Evening Maxi Gown 6-7 Years Light Green,Girls Dresses,Clothing,4.6,47.95,19.96
+8.0,True,False,Russell Athletic,6,5242746669,"Russell Athletic Boys Active Woven Basketball Short, Sizes 4-18 & Husky",Shop all kids,Clothing,4.7,9.98,1.98
+15.0,True,False,JWD,17,5278227251,JWD Womens Shirts Casual V Neck Tshirts Puff Short Sleeve Summer Tops Tunic Blouses Pink L,Womens Tops,Clothing,4.6,38.99,24.0
+8.97,False,False,Softsoap,802,408608184,"Softsoap Hand Soap Tablets Sparkling Lavender, Refill Tablets (3 Count)",Hand Soaps,Personal Care,3.7,16.988,6.526000000000001
+3.21,True,False,REYYOISKA,1,1226940529,Dessert Candy Card DIY Refrigerator Sticker Frosted Selfvadhesive Donut Sticker Sticker,Stickers,Arts Crafts & Sewing,5,11.23,8.02
+60.3,True,False,Hauteloom,32,205242278,"Hauteloom Casablanca Collection Living Room Bedroom Area Rug - Cozy Moroccan Farmhouse Carpet - Black, Brown, Beige - 3'11"" x 5'7""",All Area Rugs,Home,5,67.0,6.7
+28.0,True,False,Thermajohn,696,1160636802,Thermajohn Long Johns Thermal Underwear for Men Crewneck Set (XS-4XL),Mens Thermal Underwear,Clothing,4.7,39.99,12.0
+10.8,True,False,Whippy,74,5353145797,"WHIPPY Women Leather Belt with Double Ring Buckle, Coffee Waist Belt for Jeans Dress",Belts,Clothing,4.8,11.99,1.2
+14.0,True,False,SHEBA,1283,1728596655,"Sheba Perfect Portions Soft Pate Wet Cat Food Variety Pack For Kitten, 1.32 Oz (12 Pack)",All Cat Food,Pets,4.8,57.71888888888889,17.816666666666666
+15.0,True,False,Wataxii,5,1215580783,Wataxii Tear Away Shorts for Men Post Surgery Adaptive Clothing Mens Basketball Shorts Athletic Workout Side Snaps Sweat Shorts Pants,Mens Workout Shorts,Clothing,5,19.99,5.0
+73.0,True,False,Food to Live,39,189455189,"Organic Red Quinoa, 20 Pounds  Non-GMO, Raw, Kosher, Vegan  by Food to Live",Grains,Food,5,23.263749999999998,6.07625
+6.97,True,False,Fruit of the Loom,106,921370451,Adult HD Cotton T-Shirt,Fruit of the Loom Mens T-Shirts,Clothing,4.4,7.86,0.89
+11.0,True,False,flxxie,878,925909118,"Flxxie 1800 Count Double Brushed Microfiber Envelope Pillowcases Set of 2, King, 20"" x 36"", Purple",Pillowcases,Home,4.6,15.99,5.0
+9.28,True,True,Vivarin,253,5158180497,"Vivarin Caffeine Pills (60 Ct) Safe and Effective Energy Support Helps You Stay Awake, No Calories",Pain Relief,Health and Medicine,4.6,41.65555555555555,14.507777777777777
+146.0,True,False,Amay's,3,3084212208,"Amay Blackout Double Pinch Pleat Curtain Panel Drapes Brown 150""W x 96""L- 1Panel",Shop Curtains,Home,5,182.0,36.4
+29.0,True,False,CoverMates,40,952556801,"Covermates Keepsakes - Dish Storage - Padded Protection - ID Window - Stain Resistant - Machine Washable - China Storage, Red",Dinnerware & Serving Storage,Home,4.8,34.99,6.0
+29.2,True,False,Kingsize,10,6838112687,KingSize Men's Big & Tall Pajama Lounge Shorts,Big and Tall Pajama Bottoms,Clothing,4.4,47.44,18.24
+15.0,True,False,Showmall,1503,705018473,SHOWMALL Plus Size Women Top 3/4 Sleeve Dark Green 2X Blouse Swing Tunic Lace Crewneck Maternity&nbsp; Loose Fitting T-Shirt for Leggings,Plus Size Tops,Clothing,4.4,18.99,4.0
+126.0,True,False,SGI bedding,4,390197017,King Comforter Pinch Black 300 GSM Plush Siliconized Microfiber Fill Duvet Insert Box Stiched Quilted Fluffy Soft 600 TC Egyptian Cotton Shell with Piping & Pillowcases,Toddler Bedding Sets & Sheets,Baby,3,150.0,24.0
+176.0,True,False,SHA CERLIN,381,5292671987,"SHA CERLIN White Queen Size Platform Bed Frame with Velvet Channel Headboard, Adult",Queen Beds,Home,4.9,499.99,323.7
+15.0,True,False,Fantaslook,1210,6915065353,Fantaslook Womens Plus Size Tops Fall Long Sleeve Shirts Crew Neck Casual Loose Tunic Blouses,Plus Size Tops,Clothing,4.5,59.99,45.0
+18.6,True,False,Soffe,24,187071360,Mens AUTHENTIC SHORT (B037),Womens Shorts,Clothing,2,28.12,9.56
+24.1,True,False,Champion,123,40331232,"Champion Eco 9 oz. Pullover Hood (S700) Black, L",Mens Workout Clothing,Clothing,4.4,29.87,5.78
+19.0,True,False,Eurivicy,10,702951316,"Women's Between-Seasons Jacket, Multiple Pockets, Short Boyfriend Coat",Womens Activewear,Clothing,3.6,43.89,24.9
+30.0,True,False,Bearsland,14,5540168677,Bearsland Womens Maternity Shorts over Belly Pregnancy Yoga Workout Lounge Sleep Shorts with Pocket 3-Pack,Maternity Shorts,Clothing,4.6,36.99,7.0
+15.0,True,False,Aiyino,5,1529931788,Aiyino Women's V Neck Floral Spaghetti Strap Summer Casual Swing Dress with Pocket,Casual Dresses,Clothing,5,16.99,2.04
+14.0,True,False,PatPat,164,5287092459,"PatPat Floral Girl Dress Toddler Girl Clothes 2pcs Kid Sleeveless Dress and Short Sleeve Ruffled Cardigan Outfits Set, Ginger, 4-5 Years",Toddler Girls Outfit Sets,Clothing,4.7,33.99,20.0
+66.3,True,False,Hermes,40,25519827,Hermes Terre D'Hermes Eau De Toilette Spray for Men 3.4 oz,Premium Cologne for Men,Premium Beauty,4.5,81.16,14.81
+6.29,True,False,PNTUTB,15,1856819911,"Pntutb Womens Shorts Clearance,Women's Plus Size Summer Print Five Points Cotton Linen Pants Casual Shorts Rollback",Womens Plus Shorts,Clothing,2.5,7.19,0.9
+106.0,True,False,Amay's,4,3198736704,"Amay 100% Cotton 600-Thread Count 4-PCs Sheet Set Easily Fit upto 21 Inch Deep Pockets Solid Grand King, White",White Sheets,Home,5,117.99,11.8
+62.1,True,False,Amay's,1,3463158651,"Amay 800TC Organic Cotton Emperor Size Fitted Sheet ( 84X84 ) Fits Mattress Upto 18 inches, Royal Blue Solid",Cooling Sheets,Home,5,69.0,6.9
+20.0,True,False,Mengpipi,2686,1530953176,"Mengpipi Women's Maxi Dresses Short Sleeve Long Casual Dresses Loose with Pockets, Colorful leaves-M(US 8-10)",Casual Dresses,Clothing,4.4,32.99,13.02
+29.4,True,False,Gerber,18,1479601634,"Gerber Baby and Toddler Girl Knit Dresses, 2 Pack, Sizes 12 Months - 5T",Baby Girls Casual Dresses,Clothing,4.8,35.6,6.18
+19.2,True,False,Gloria Vanderbilt,45,5205925876,"Gloria Vanderbilt Women's High Rise Slender Series Tummy Sculpt Culottes Jeans, 23"" Inseam",Womens Cropped Jeans,Clothing,4.5,24.98,5.76
+12.0,True,False,Junefish,225,5571552882,JuneFish Women's Tops Summer Sleeve Shirts Eyelet T Shirt Hollow Casual Blouse,Plus Size Tops,Clothing,4.6,14.99,3.0
+92.8,True,False,Amay's,2,2383459550,Amay Rod Pocket Curtain Panel Draperies Silver Grey 60 Inch Wide by 120 Inch Long-1 Panel,Shop Curtains,Home,3,116.0,23.2
+5.09,True,False,PNTUTB,10,1571055544,"Pntutb Womens Clearance,Women's Plus Size Solid O-Neck Loose Short Sleeve T-Shirt Pullover Tops Rollback Clothes",Plus Size Tshirts,Clothing,2.8,5.79,0.7
+40.0,True,False,Unique Loom,893,194099996,Unique Loom Rounded Trellis Frieze Rug Ivory/Gray 2' x 10' Runner Trellis Traditional Perfect For Bathroom Hallway Mud Room Laundry Room,All Runner Rugs,Home,4.8,49.52,9.53
+9.87,True,False,Bagilaanoe,5,1184268274,Bagilaanoe Toddler Baby Boy One-Piece Swimsuit Print Long Sleeve Zipper Rashguard Swimwear 3M 6M 12M 2T 3T 4T 5T Kids Beach Pool Shorts Bathing Suit,Toddler Boys Swim Trunks,Clothing,5,11.04,1.17
+50.0,True,False,Chun YI,28,587166337,"CHUN YI Stretch 2-Piece Checks Sofa Cover with Cushion Cover Slipcover, XL-Sofa, Teal",Couch Covers,Home,4.6,69.99,20.0
+149.0,True,False,Bliss Rugs,313,138554336,Festival Contemporary 6.7' x 9.6' Multi-Color Polypropylene Indoor Area Rug,All Area Rugs,Home,4.7,268.89,120.39
+18.0,True,False,NT Bay,124,744949530,"Ntbay Premium 1800 Series Microfiber Queen Fitted Sheet with Deep Pocket, Ultra Soft and Breathable Fitted Bed Sheet, 60x80 inches, Mint",Microfiber Sheets,Home,4.6,27.99,10.0
+4.86,False,True,Tony's Chocolonely,79,182543171,Tony's Chocolonely 51% Dark Chocolate Bar with Almonds and Sea Salt,Chocolate Bars,Food,4.8,23.263749999999998,6.07625
+13.0,True,False,Cueply,13,5413039029,Cueply Womens Summer Tops Short Sleeve V Neck Dressy Casual Chiffon Blouses T Shirts Tops,Womens Tops,Clothing,4.9,24.99,12.0
+10.1,True,False,BELLA + CANVAS,101,949530610,The Bella + Canvas Unisex 3/4 Sleeve Baseball T-Shirt - WHITE/ MAROON - XS,Mens T-Shirts,Clothing,4.7,11.8,1.72
+20.0,True,False,Keevoom,8,431812530,Keevoom Mens Slim Fit Dress Pants Casual Stretch Flat-Front Plaid Chinos Pants,Mens Pants,Clothing,4,28.86,8.88
+16.0,True,False,Ocean Blues,7,5437274320,Ocean Blues Women's Halter Bikini Top Twist Bandeau Swimsuit Top Adjustable & Removable Straps Bikini Bathing Suits for Women,Womens Swimsuit Tops,Clothing,5,23.99,8.0
+11.3,True,False,Sexy Dance,21,721445527,Sexy Dance Men Swim Trunks Shorts Pants Board Shorts Boardshorts Swimwear Swimsuit Beachwear Casual Surfing Swimming Bathing Suit Quick Dry Summer,Mens Swimwear,Clothing,4,18.99,7.73
+9.06,True,False,TEMPTATIONS,1343,573614161,"Temptations Classic Blissful Catnip Flavor Crunchy And Soft Treats For Cats, 16 Oz Tub",All Cat Treats,Pets,4.7,57.71888888888889,17.816666666666666
+30.0,True,False,Food to Live,15,259195843,"Organic Acerola Cherry Powder, 0.5 Pounds  Non-GMO, Raw, Vegan, Kosher  by Food to Live",Extracts & Flavoring,Food,4.9,23.263749999999998,6.07625
+12.7,True,False,UVPLove,227,2042196381,Uvplove Women's Sleeveless Chiffon Tank Top Double Layers Casual Blouse Tunic,Womens Workwear Blouses,Clothing,4.6,29.99,17.3
+10.6,True,False,Caroline's Treasures,1,2580740549,Summer Sunflowers Tricolor Sheltie Flag Garden Size,NFL Flags,Patio & Garden,5,14.19,3.57
+44.0,True,False,Dr. Scholl's,26,129078929,Dr. Scholl's Womens Brianna Ankle Bootie - Medium & Wide Width,Womens Booties,Clothing,4.3,69.99,26.0
+13.0,True,False,Anygrew,110,2720154126,Anygrew Womens Summer Casual T-Shirt V-Neck Sleeveless Tunic Tops for Leggings Loose Blouse Shirt,Womens Tank Tops,Clothing,4.7,39.99,27.01
+22.5,True,False,TheLovely,81,348784401,3 Packs - Womens & Plus Sizes Basic Solid Long Length Adjustable Spaghetti Strap Tank Tops,Plus Size Lingerie,Clothing,4.2,24.99,2.5
+25.2,True,False,Dearfoams,515,334681808,Dearfoams Women's Darcy Quilted Cuff Velour Clog House Slipper,Womens Shoes,Clothing,4.6,36.0,10.8
+145.0,True,False,Luxe Weavers,2,1724059685,"Luxe Weavers Shag Plush Geometric Red 8x10 Area Rug, Indoor Carpet",All Area Rugs,Home,5,199.99,54.99
+40.0,True,False,Roaman's,500,5318876832,Roaman's Women's Plus Size Petite Invisible Stretch Iconic Capri Jean,Plus Size Pants,Clothing,4.2,46.69,6.66
+19.8,True,False,Made by Johnny,42,2166765925,Made by Johnny Women's Chic Tie Dye Palazzo Pants M AQUA,Womens Workwear Pants,Clothing,4.5,22.95,3.2
+24.0,True,False,Special Kitty,1522,5329337627,"(12 pack) Special Kitty Turkey & Giblets Dinner Pate Wet Cat Food, 22 oz Can",Pate Wet Cat Food,Pets,4.4,57.71888888888889,17.816666666666666
+16.6,True,False,flxxie,141,662186228,"Flxxie 1800 Count Soft Brushed Microfiber Flat Sheet, Shrinkage, Fade Resistant Bedding Top Sheet, Easy Care, Purple, Full, 81""x96"" with 4"" hem",Bed Sheets,Home,4.5,23.99,7.4
+14.7,True,False,Iceglad,112,3572144286,Iceglad Polo Shirts for Men Short Sleeve Soft Cotton Collared Shirt,Mens Polo Shirts,Clothing,4.6,36.99,22.31
+8.72,True,False,Barney Butter,51,242303426,"Barney Butter Almond Meal, 13 Oz",Meal Replacements,Health and Medicine,4.9,41.65555555555555,14.507777777777777
+6.99,True,False,ASDOKLHQ,2,841317555,"asdoklhq Juniors Plus Blouses & Shirts, Women Printed Halter O-Neck Tank Sleeveless Casual Tee Tops Blouse",Womens Tops,Clothing,3,13.98,6.99
+30.0,True,False,Whale Flotilla,48,5045669548,"Whale Flotilla 3-Piece King Quilt Set, Soft Embossed Bedding Set, Lightweight Bedspread Coverlet with Damask Vintage Pattern, Reversible Bed Cover for All Seasons, Bone",Kids' Quilts,Home,4.5,65.99,36.0
+53.0,True,False,Yangming,648,3046604016,"Fabric Storage Dresser with 9 Drawers, Steel Frame & Wooden Top for Bedroom, Entryway, Nursery - Tall Chest of Drawers for Organizing Clothes, Shoes, Toys & More, Black",9 Drawer Dressers,Home,4.5,199.99,147.0
+1.24,False,False,Golden Krust,10,389782477,"Golden Krust Jamaican Jerk Style Chicken Patty 1 Count, 5oz (Frozen)",Frozen Sandwiches,Food,4.2,23.263749999999998,6.07625
+14.0,True,False,Mint's Colorful Life,89,229653852,"Mint's Colorful Life Butterfly Kite for Kids & Adults, Polyester Material Easy to Fly",Kites,Toys,4.5,16.99,3.0
+36.1,True,False,Kingsize,24,555974352,KingSize Men's Big & Tall Comfort Flex Full Elastic Shorts,Big and Tall Shorts,Clothing,3.7,41.09,5.04
+16.0,True,False,Drecage,96,3588670272,Drecage Toddler Boys Girls Cute Cartoon Clogs Kids Lightweight Garden Shoes Beach Pool Sandals,Toddler Sandals,Clothing,4.6,19.99,4.0
+9.99,True,False,Amazing Formulas,24,512420879,Amazing Formulas Garlic Supplement,Garlic Pills,Health and Medicine,4.9,41.65555555555555,14.507777777777777
+15.0,True,False,PatPat,1,5658552152,PatPat Girls Dress Shoes Party Sparkle Back to School Princess Shoes Girls Fashion Bow Tie Shiny Rhinestone Pearl Fairy Shoes Gift Toddler to Little Kids,Toddler Dress Shoes,Clothing,5,28.99,14.0
+15.0,True,False,VIP Jeans,43,546469522,"VIP JEANS Teen Girls's Size Skinny Sleeveless Zip Jumpsuit Romper, Black Denim, Plus 24W",Juniors Rompers & Jumpsuits,Clothing,4.4,19.99,5.0
+13.6,True,False,SHIBEVER,1038,5455085483,SHIBEVER Women T-Shirts Summer Short Sleeve Tops Casual Loose Tunic Tops Side Split Ladies Comfortable Crewneck Tops Blouse Purple M,Tshirts for Women,Clothing,4.5,19.99,6.4
+62.8,True,False,Roaman's,34,978644343,Roaman's Women's Plus Size 360° Stretch Lace-Applique Jean,Plus Size Jeans,Clothing,4.5,71.11,8.35
+13.5,True,False,TheLovely,11,5495892018,TheLovely Men & Women Long Sleeve Baseball Raglan Tee Shirt Top (S-3XL),All Baseball Gear & Equipments,Sports & Outdoors,4.4,14.99,1.5
+40.8,True,False,Elila,22,176751313,Women's Elila 1303 Lace Wireless Soft-cup Bra (Black 44J),Plus Size Underwire Bras,Clothing,4.1,48.0,7.19
+29.0,True,False,RAW X,1,273277798,"RAW X Men's Slim Fit Skinny Biker Jean, Comfy Flex Stretch Moto Wash Rip Distressed Denim Jeans Pants",Mens Slim Fit Jeans,Clothing,1,34.99,6.0
+14.0,True,False,Fantaslook,1210,5548502355,Fantaslook Womens Plus Size Tops Tunic Short Sleeve Shirts Floral Blouses Loose Summer Tops,Womens Blouses,Clothing,4.5,39.99,26.0
+15.0,True,False,Ibtom Castle,7,1133249439,IBTOM CASTLE Women Long Sleeve Metalic Shiny Leather Turtleneck One Piece Gymnastics Leotard Ballet Dancewear Athletic Train Top XS Black,Womens Blouses,Clothing,3.6,26.98,11.99
+15.0,True,False,ZXSXSY,28,5159680172,ZXSXSY Women Sleeveless Square Neck Spaghetti Straps Solid Color Velvet Tank Top,Womens Tank Tops,Clothing,4,17.99,3.0
+19.8,True,False,SGI bedding,14,103296377,"SGI Bedding 16 Inch Wrap Around Bed Skirt | Microfiber Bed Skirt | Fade Resistant, Wrinkle Free, Anti-static, Decorative, Extra Storage Space, Clutter-Free | Twin, Navy Blue",Bed Skirts,Home,4.4,21.99,2.2
+29.1,True,False,BrylaneHome,2075,980677354,BrylaneHome BH Studio Sheer Voile Rod-Pocket Panel Pair,Shop Curtains,Home,4.6,33.33,4.22
+21.6,True,False,Zenana,10,1921006587,Zenana Women & Plus Relaxed Drawstring Waist Draped Basic Maxi Skirts with Side Pockets,Womens Skirts,Clothing,4.6,23.99,2.4
+23.0,True,False,Cueply,293,5110526365,Cueply Women Plus Size Pajamas Set Short Sleeve Pjs Sleepwear Loungewear Nightwear with Pockets,Plus Size Pajama Sets,Clothing,4.7,39.99,17.0
+17.0,True,False,SIXHOME,526,1825469871,"SIXHOME Outdoor Mat Non Slip Doormat 17""x30"" Front Door Mat Absorbent Rubber Welcome Mat Low Profile Dirt Trapper Indoor Outdoor Doormat Thick Crosshatch Entryway Rug Outdoor Floor Mat Grey",Shop All Doormats,Home,4.6,24.99,8.0
+35.9,True,False,L'Oreal Paris,6597,5661609857,"(3 pack) L'Oreal Paris Superior Preference Fade-Defying Unisex Permanent Hair Color, 7LA Lightest Auburn,1 Kit",Auburn Hair Color,Beauty,4.2,28.814999999999998,11.002
+117.0,True,False,Amay's,5,2113674813,"Amay Blackout Double Pinch Pleat Curtain Panel Draperies Black 100""W x 96""L-1 Panel",Black Curtains,Home,4.2,146.0,29.2
+6.19,True,False,PNTUTB,16,394232179,"Pntutb Womens Clearance,Plus Size Women's Print V Neck Short Sleeve Long T-Shirt Blouse Rollback",Plus Size Tops,Clothing,3.6,7.09,0.9
+12.0,True,False,Phenas,10,109158823,Kamo Women Plus Size Bathing Suits Printed 2 Piece Flowy Swimsuits V Neck Tankini Swimwear for Ladies L-5XL,Womens Plus Swimsuits,Clothing,4,14.99,3.0
+1.82,False,True,Pedigree,3522,126699313,"Pedigree Chopped Ground Dinner T-Bone Steak Wet Dog Food, 13.2 oz Can",All Dog Food,Pets,4.4,57.71888888888889,17.816666666666666
+37.5,True,False,Roaman's,11,2038024335,Roaman's Women's Plus Size Tall Invisible Stretch All Day Bootcut Jean,Plus Size Jeans,Clothing,4.4,43.41,5.89
+70.0,True,False,JONPONY,34,5498678230,"JONPONY Office Chair Armless Criss Cross Legged Chair with Wheels, Comfy Home Office Desk Chairs, Adjustable Swivel Padded Fabric Vanity Task Computer Chair,Light Brown",Desk Chairs,Home,4.4,199.99,130.0
+49.5,True,False,Amay's,6,1923891914,"Amay 800 TC 100% Organic Cotton RV Short Queen Size 1Pc Fitted Sheet ( 60X75 ) Fits Mattress Upto 8-10 inches, Teal Solid",Cooling Sheets,Home,5,55.0,5.5
+237.0,True,False,Bliss Rugs,9,795932094,Nature Novelty 9' x 12' Multi-Color Polypropylene Indoor Area Rug,All Area Rugs,Home,4.9,482.0,245.25
+4.49,True,False,Fofosbeauty,25,5354771215,"Fofosbeauty 24pcs Press on False Nails,Fake Nails for New Year Valentine's Gift,Long Coffin French girly camellia bow",Nails,Beauty,3.3,4.99,0.5
+20.0,True,False,Ablanczoom,32,5753314187,Ablanczoom Sandals Women: Women Flats Sandals for Dresses - Elastic Ankle Strap Flip Flops,Womens Flat Sandals,Clothing,4.6,28.99,9.0
+73.0,True,False,Bare Home,25,381632255,"Bare Home Organic Cotton Duvet Cover Set - 300 Thread Count - Percale Weave - King/Cal King, Dusty Rose",Teens' Comforters Sets,Home,4.7,105.49,32.5
+3.28,False,True,wet n wild,4,3402143185,wet n wild Color Icon 5 Pan Eye & Face Palette - Matte to Shimmer Glitter Full Bloomin',Shop All Top-Rated Beauty,Beauty,3.5,28.814999999999998,11.002
+24.9,True,False,Ibtom Castle,9,2844883584,Women's 3/4 Sleeve V Neck Sequin Sparkle Glitzy Glam Wedding Party Dress Flapper Evening Club Cocktail Bodycon Clubwear L Purple,Bodycon Dresses,Clothing,3.3,39.99,15.05
+31.5,True,False,Clara Clark,13108,951431493,"Clara Clark Full Size Deep Pocket 4 Piece Bed Sheets Set, 1800 Series Hotel Luxury Soft Microfiber, Burgundy Red",Sheet Sets,Home,4.6,56.99,25.5
+89.0,True,False,Safavieh,32,990684483,"SAFAVIEH Madison Christabella Abstract Runner Rug, Grey/Orange, 2'2"" x 22'",All Runner Rugs,Home,4.5,103.8,14.82
+9.99,True,False,BELLA + CANVAS,18,171887767,Bella Canvas Womens Jersey Tank Top 3480 Oatmeal Triblend m,Mens Workout Shirts,Clothing,4.7,11.44,1.45
+54.4,True,False,Amay's,3,2110075117,Amay Blackout Grommet Curtain Panel Taupe 52 Inch Wide by 45 Inch Long- 1Panel,Shop Curtains,Home,5,68.0,13.6
+77.4,True,False,Dee's Collection,2,1746820702,Olympic Queen Size Luxury Extrasoft 100% Supima Cotton 4 Piece Sheets Set in Hotel Quality Sateen Weave Golden Solid 15 Inch Deep Pocket,Toddler Bedding Sets & Sheets,Baby,3,85.99,8.6
+14.7,True,False,Chef Code,33,269604557,"Chef Code Modern Fit Unisex Cargo Chef Pants, Elastic Waist, Houndstooth, Small",Mens Work Uniforms,Clothing,3.7,16.79,2.1
+20.0,True,False,Jusfitsu,122,281970524,Jusfitsu Vintage One Piece Bathing Suit for Women Tummy Control Womens High Cut Ruched Swimsuits Bandeau Swimwear,Womens One-piece Swimsuits,Clothing,4.5,23.99,4.0
+20.0,True,False,UVPLove,57,3329480014,Uvplove Women's Fall Long Sleeve Crew Neck Loose Lightweight Knitted Pullover Sweater dark khaki-l,Womens Sweaters,Clothing,4.5,32.99,13.0
+27.7,True,False,Youxiang,6,615343705,JINYU Mens Suit Slim 3-Piece Suit Blazer Business Wedding Party Jacket Vest & Pants,Mens Tuxedos,Clothing,3.3,30.75,3.08
+46.5,True,False,Bariatricpal,11,848798939,"BariatricPal Divine ""Lite"" Protein & Fiber Bars - Peanut Pretzel Size: 3-Pack",Shop all Snack Bars,Food,4.4,55.47,9.0
+11.0,False,False,essie,2511,56178185,"essie Treat Love Color Nail Polish, 08 Laven Dearly, 0.46 fl oz Bottle",Essie Nail Polish,Beauty,4.3,13.0,2.03
+15.0,True,False,Siliteelon,9,5570308806,Siliteelon Womens Short Sleeve Work Blouses Cotton Button Down Shirts Slim Fit,Womens Workwear Blouses,Clothing,4.2,17.99,3.0
+24.1,True,False,LA Linen,1,54973396,"LA Linen Polyester Gingham Checkered 58 by 58-Inch Square Tablecloth, Lime and White",Fabric Tablecloths,Home,5,26.97,2.9
+11.8,True,False,Eurivicy,211,968072447,Eurivicy Women's Plus Size T Shirts Summer Short Sleeve Pullover Tunic Tops,Plus Size Tshirts,Clothing,3.2,16.99,5.19
+17.0,True,False,Star Wars,1,213773091,Men's Star Wars: The Mandalorian The Child Starry Night  Long Sleeve Shirt Black Medium,Men's Movies and TV Tees,Clothing,1,20.99,4.0
+15.0,True,False,TIYOMI,73,5235534483,TIYOMI Ladies Plus Size Tops Hot Pink Guipure Blouses Summer Short Sleeve 4X Lace Trim V Neck T-shirts Casual Basic Solid Tee Spring Tunics 4XL 24W 26W,Plus Size Tops,Clothing,4.3,20.69,5.7
+44.9,True,False,Hard Tail,11,5955601910,"Hard Tail Women's French Terry Sweatshirt and Pant Set, 2-Piece, Sizes S-3X",Womens Two Piece Sets,Clothing,4.2,54.88,10.0
+50.4,True,False,Amay's,1,3265623525,Amay 800TC Organic Cotton Full Size Fitted Sheet ( 54X75 ) Fits Mattress Upto 10-12 inches Burgundy Stripe,Cooling Sheets,Home,5,56.0,5.6
+26.0,True,False,ZXSXSY,200,197238518,ZXSXSY Plaid Knit Tank Y2k Vest for Women Sleeveless V-Neck Cropped Top Button Vintage Casual Streetwear,Womens Tops,Clothing,4.1,43.98,17.99
+11.0,False,False,Parodontax,485,789911031,"Parodontax Active Gum Repair Whitening Toothpaste -  Mint Flavor, 3.4 oz",Whitening Toothpaste,Personal Care,4.6,12.98,1.97
+18.7,True,False,Gildan,5482,661900017,Gildan Unisex Heavy Blend Fleece Hooded Sweatshirt,Mens Hoodies,Clothing,4.6,21.12,2.43
+48.0,True,False,HIG,204,5858797783,"HIG 8 PCS Modern Comforter Set with Sheets All Season Bed in a Bag, Dusty Blue, Queen Size",Bed In A Bag,Home,4.4,99.99,52.0
+26.0,True,False,Game Development Group,87,944493507,"50 x 84 in. Tranquil Lined Grommet Window Curtain Panel, Tan",Shop Curtains,Home,4.6,29.72,3.73
+25.0,True,False,Wrangler,4,5449602367,"Wrangler Men's Big and Tall Plaid Woven Shirt ,Big Size Up To 6XL And Tall Size Up To 4XT",Mens Casual Button Down Shirts,Clothing,4,35.0,10.0
+29.4,True,False,Feancey,1,5255412427,Mens Fleece Linede Hoodie Jacket Winter Casual Plaid Flannel Shirts Jacket Long Sleeve Plush Thicken Hooded Thermal Coats with Pockets,Men's Character Shop,Clothing,5,36.95,7.56
+24.0,True,False,JeenMata,298,811731224,JeenMata Pave Accented - 0.25 Carat Round Cut - Classic Wedding Band - 18K Black Gold Plating over Silver,Fine Jewelry,Jewelry,4.3,89.0,65.0
+13.0,True,False,IDOPIP,1,1828984385,IDOPIP Baby Boys Formal Suit Gentleman Set Short Sleeve Romper Suspenders Shorts Pants Bowtie Tuxedo Outfits,Boys Outfit Sets,Clothing,5,15.96,2.97
+26.0,True,False,TIYOMI,46,5000566387,TIYOMI Plus Size Womens 5X Tops Criss Cross Floral Long Sleeve V Neck Tees Iris Loose Fit Shirts Early Spring Fall Winter Tunic 5XL 26W 28W,Plus Size Tops,Clothing,4.2,30.99,5.0
+36.0,True,False,Bruno Marc,177,781970403,Bruno Marc Mens Classic Oxfords Shoes Fashion Casual Leather Shoes for Men Lace Up Comfort Oxford Shoes Lg19008M Tan Size 8.5,Mens Oxfords Shoes,Clothing,4.8,39.99,4.0
+15.0,True,False,TIYOMI,56,5399113664,TIYOMI Plus Size 5X One Piece Swimsuit For Women Nave Blue Swimwear Ruffled Deep V Neck Suits Tummy Control Bathing Suits 5XL 26W 28W,Young Adult Swimsuits,Clothing,4.7,22.99,8.0
+33.0,True,False,Ginger Lyne Collection,173,685474764,Wedding Ring Set for Women Halo CZ 14 Kt Gold Sterling Silver Engagement Ring Ginger Lyne Collection,Gemstone Engagement Rings,Jewelry,4.3,38.99,6.0
+10.3,True,False,Bali,713,188574478,Bali Comfort Revolution Hi-Cut Brief Microfiber Womens Underwear Full Coverage Style-303J,Womens Panties,Clothing,4.4,12.0,1.68
+20.0,True,False,Woman Within,377,3051626681,Woman Within Women's Plus Size Perfect Printed Three-Quarter-Sleeve V-Neck Tunic,Plus Size Tops,Clothing,4.3,27.35,7.4
+17.1,True,False,Zenana,17,1049286646,Zenana Plus Size Brushed Microfiber Mock Turtleneck Long Sleeve Lightweight Tee Shirt Top,Womens Workwear Blouses,Clothing,3.8,18.99,1.9
+26.0,True,False,TIYOMI,46,3944381326,TIYOMI Women's Plus Size Tops Leopard Long Sleeve Blouse 3X V Neck Button Down Shirts Black White Cheetah Pullover Loose Fit Knitted Tee Animal Autumn Winter Tunics 3XL 22W 24W,Plus Size Tops,Clothing,4.2,30.99,5.0
+5.89,True,False,Follure Clothing,1,642212399,"One Piece Swimsuits for Women Off Shoulder Solid Bathing Suits Beachwear Tummy Control Push Up Swimwear,Suitable for Holiday, Travel and Seaside",Womens One-piece Swimsuits,Clothing,1,7.89,2.0
+19.0,True,False,Chiclily,1785,2149072964,"Chiclily Women's Wide Leg Lounge Pants with Pockets Lightweight High Waisted Adjustable Tie Knot Loose Trousers, US Size Medium in Blue Gray",Womens Wide Leg Pants,Clothing,4.7,32.99,14.0
+6.99,True,False,PNTUTB,64,1317394371,"Pntutb Womens Clearance,Men Pants Pants Sweatpants Hip-Hop Pants Legging Padded Casual Pants Rollback Clothes",Mens Sweatpants,Clothing,4,7.99,1.0
+29.0,True,False,BZEES,114,5258541526,Bzees Womens Cabana Slip On Wedge Flip-Flops,Womens Flip Flops,Clothing,4.2,34.99,6.0
+79.9,True,False,Smiaoer,75,2409305560,4 inches Queen Size Cooling Gel-infused Memory Foam Mattress Topper for Pressure Relief,Mattress Toppers,Home,4.4,279.96,200.08
+20.8,True,False,Maidenform,180,5304723590,Maidenform Womens M by Maidenform Seamless Lift Bralette Style-DM2316,Bralettes,Clothing,3.8,23.8,2.97
+24.0,True,False,PABUBE,859,1685004864,"PABUBE Kitchen Rug and Mat Kitchen Mat Anti Fatigue, Non Slips Kitchen Floor Mat, Kitchen Rug or Mat Washable, 17""x 59"", Gray",Anti-Fatigue Mats,Home,4.4,33.99,10.0
+13.3,True,False,Smitten,39,284718781,"Smitten Women's Miracle Contemporary Slim Fit Fade Resistant 3 Pockets Pull Over Tunic Scrub, Style S101002",White Scrubs,Clothing,4.6,20.31,7.0
+24.9,True,False,E&S PETS,40,643943322,Comfies French Bulldog Unisex Cotton Blend Pajama Bottoms - Gift for Pet Lovers,Pajama Bottoms,Clothing,4.7,29.97,5.07
+5.94,True,True,SNICKERS,613,663403068,"Snickers Fun Size Halloween Chocolate Candy Bars, 18.71 oz Bag",All Halloween Candy,Food,4.5,23.263749999999998,6.07625
+18.4,True,False,voianlimo,626,716834839,VOIANLIMO Womens Plus Size Casual Tops V Neck Short Sleeve Shirt Floral Blouses Tunic Tops M-4X,Womens Blouses,Clothing,4.3,22.99,4.6
+57.0,True,False,Yalamila,893,867415088,"Yalamila WhatsBedding Down Comforter Feather Duvet Insert Cotton Summer Cool White Goose Duck Down Comforter All Season Solid, Queen",Queen Comforters,Home,4.4,238.99,182.0
+20.0,True,False,Ma Croix,334,948010527,"Ma Croix Men's Lightweight Jogger Elastic Bottom with Pockets, Up to 5XL",Mens Sweatpants,Clothing,3.6,23.99,4.0
+52.8,True,False,Bates,2,2219211722,Bates OpSpeed Tall Boot Men Black,Mens Safety Shoes,Clothing,5,89.95,37.15
+28.0,True,False,Bare Home,283,450029506,"Bare Home Luxury Duvet Cover and Sham Set - Premium 1800 Collection - Ultra-Soft - Twin/Twin XL, Fresh Cream, 2-Pieces",Boys Comforter Sets,Home,4.2,44.57,16.58
+19.8,True,False,SGI bedding,14,867257068,"SGI Bedding 14 Inch Wrap Around Bed Skirt | Microfiber Bed Skirt | Fade Resistant, Wrinkle Free, Anti-static, Decorative, Extra Storage Space, Clutter-Free | Full, Chocolate",Bed Skirts,Home,4.4,21.99,2.2
+9.99,True,False,Starbay,62,707869062,StarBay Women's Floral Print Wedge Flip Flop with Cotton Thong in Fuchsia,Womens Flip Flops,Clothing,3.8,11.99,2.0
+32.0,True,False,J. Adams,9,120531433,"J. Adams Stormi Heeled Sandals Women Dressy Summer Flat Mules- Square Toe Double Band Low Block Heel Sandals - Chunky Sandals for Women - Summer Sandals, Womens Dress Sandals, Women's Heeled Sandals",Block Heels,Clothing,4.6,37.99,6.0
+13.5,True,False,CPOKRTWSO,6,751000864,CPOKRTWSO Womens Summer Plus Size Tops Short Sleeve V Neck Buttons Pleated Flared Blouses M-4XL,Plus Size Tops,Clothing,5,14.99,1.5
+6.99,True,False,PNTUTB,20,1789610247,"Pntutb Womens Skirt Clearance,Plus Size Women's Lace Patchwork High Waist Midi Skirt Gothic Pleated Skirt Rollback",Womens Plus Skirts,Clothing,3.7,7.99,1.0
+17.0,True,False,Showmall,656,1674361964,"SHOWMALL Women's Casual Lightweight Open Front Cardigans Soft Draped 3/4 Sleeve Cardigan, US Size XL, White",Cardigans for Women,Clothing,4.6,27.99,11.0
+6.09,True,False,PNTUTB,1,1871888846,"Pntutb Womens Clearance,Women's Summer Fashion Print Sleeveless Suspenders Pullover Dress Rollback",Plus Size Dresses,Clothing,1,6.89,0.8
+15.3,True,False,Hanes,74,3767897669,Hanes French Terry Shorts Pockets Women's Gym Workout Originals 5 inseam xs-2xl,Womens Athletic Shorts,Clothing,3.9,18.2,2.93
+117.0,True,False,Amay's,3,2871702719,Amay Rod Pocket Window Curtain Panel Burgundy 100 Inch Wide by 96 Inch Long-1 Panel,Shop Curtains,Home,5,146.0,29.2
+7.48,True,True,Aunt Jackie's,61,46108209,"Aunt Jackie's Curls & Coils Oh So Clean Moisturizing & Softening Shampoo, 12 fl oz, Damaged",Cleansing,Beauty,4.5,28.814999999999998,11.002
+33.0,True,False,NELEUS,93,2842158715,"NELEUS Men's Workout Athletic Pants Running Sweatpants With Pockets Relaxed Fit,Black+Black,US Size S",Mens Workout Pants,Clothing,4.7,60.0,27.02
+13.0,True,False,Zenana,3,3631271641,Zenana Women & Plus Luxe Rayon Short Sleeve V-Neck Hi-Low Hem Casual Tee-Shirt Top,Womens Workwear Blouses,Clothing,5,20.99,7.98
+5.77,True,False,Time and Tru,56,5255852824,"Time and Tru Women's Cotton Peplum Top with Tie Back, Sizes XS-XXXL",Womens Tops,Clothing,4,11.98,6.21
+15.0,True,False,LDC Lux Decor Collection,108,723389733,"Lux Decor Collection Fitted Sheet - Ultra Soft Brushed Microfiber Full Size Fitted Sheet, Upto 16 Inches Deep Pocket Fitted Sheet Only, White",Fitted Sheets,Home,4.4,25.99,11.0
+31.0,True,False,PABUBE,101,1272327282,"PABUBE Bathroom Rug, Soft Absorbent Bathroom Mat, Non Slip Shag Bath Rug, Machine Washable Bath Mat, 20""x 51"" , Khaki",Bathroom Rugs,Home,4.1,47.99,17.0
+15.0,True,False,a.Jesdani,121,5636674604,a.Jesdani Women's Wide Leg Casual Pants High Waisted Elastic Pants Tie Knot Loose Office Trousers with Pockets S-XXL,Womens Pants,Clothing,4.7,16.99,2.0
+27.0,True,False,Mellanni,101,827790002,"Mellanni King Pillowcases 4 Pack, Envelope Closure Microfiber Luxury Covers, 20""x40"", Sand",Pillowcases,Home,4.9,38.97,11.97
+17.0,True,False,Ibtom Castle,6,2296809880,IBTOM CASTLE Baby Girls Birthday Outfit Polka Dots Leotard Dresses Fancy Dance Costume Halloween Cosplay Tutu Dress up with Ears Headband 5 Years White+Hot Pink-Heart,Girls Birthday Outfits,Clothing,4.5,24.96,7.97
+9.89,True,False,KAWELL,2,619425774,LOL Dress for Toddler Girl Elegant Mesh Dress Sleeveless Cartoon Dress 2-9 Years,Dresses,Clothing,5,13.99,4.1
+37.8,True,False,HAWEE,6,1580280605,HAWEE Rapunzel Costume for Girls Halloween Fancy Party Cosplay Dress Up Rapunzel Princess Dress 2-10Y,All Kids Costumes & Dress-Up,Toys,5,41.99,4.24
+6.39,True,False,Follure Clothing,1,469835808,Dresses for Women Summer Wedding Guest Short Sleeve Fashion Plus Size O-Neck Print Strappy Dress,Plus Size Dresses,Clothing,5,8.59,2.2
+56.0,True,False,Bare Home,1280,2348411906,"Bare Home Down Alternative Comforter Set - 3-Pieces - All Seasons - King/Cal King, Light Blue",Comforter Sets,Home,4.6,76.99,21.0
+19.0,True,False,Leading Lady,79,356494621,The Brigitte Lace - Wirefree T-Shirt Bra,Underwire Bras,Clothing,4.5,28.5,9.5
+42.0,True,False,Asklazy,192,6020514921,Asklazy Women's Turtleneck Oversized Sweaters Batwing Long Sleeve Pullover Loose Chunky Knit Jumper,Womens Turtleneck Sweaters,Clothing,4.6,63.99,22.0
+20.0,True,False,JWD,5803,1596170774,JWD Womens Loose Blouse Long Sleeve V Neck Button Down T Shirts Tie Front Knot Casual Tops Black S,Womens Tops,Clothing,4.4,39.99,20.0
+20.0,True,False,Jusfitsu,122,442943934,Jusfitsu Vintage One Piece Bathing Suit for Women Tummy Control Womens High Cut Ruched Swimsuits Bandeau Swimwear,Womens One-piece Swimsuits,Clothing,4.5,23.99,4.0
+26.0,True,False,TIYOMI,61,5016845519,TIYOMI Plus Size Long Sleeve Tops For Women 3X Christmas Plaid Shirts Color Block Green Causal Blouses Round Neck Tee Early Spring Fall Winter Pullover 3XL 20W 22W,Plus Size Tops,Clothing,4.4,30.99,5.0
+14.0,True,False,MOSHU,487,5287761425,MOSHU Tank Tops for Women Flowy Deep V Neck Women Shirts Loose Fit Summer Sleeveless Tops,Womens Tank Tops,Clothing,4.5,35.99,22.0
+86.8,True,False,Catherines,13,5076377125,Catherines Women's Plus Size Beaded 3-Piece Cardigan Pant Set,Plus Size Pants,Clothing,3.7,179.95,93.16
+33.0,True,False,Jessy Home,209,701833189,Jessy Home 3-Piece Set Queen/Full Size Blue Qcean Reversible Printed 100% Polyester Bedding Set,Quilts,Home,4.8,39.99,7.0
+130.0,True,False,INGALIK,1362,681406983,"INGALIK 3 Inch Gel Memory Foam Mattress Topper California King Size, Mattress Pad Cover for Pressure Relief, Bed Topper with Removable Rayon Made from Cotton Cover, Soft & Breathable, White",Mattress Toppers,Home,4.6,189.55,59.58
+31.0,True,False,BOCOMAL,26,813818108,BOCOMAL FR Shirts 5.5oz Light Weight for summer Henley Shirts Flame Resistant/Fire Retardant Shirt,Mens Work Shirts,Clothing,4.8,36.99,6.0
+5.8,True,False,Umfun,28,178944020,UMfun Women's Summer Dresses Fashion Holiday Summer Solid Color Sleeveless Party Beach Green Dress,Plus Size Dresses,Clothing,3.8,6.68,0.88
+23.0,True,False,Anygrew,370,1834325590,Anygrew Women's Pajamas Set Long Sleeve Shirts and Long Pants 2 Piece Pjs Sleepwear with Pockets,Womens Pajama Sets,Clothing,4.6,49.99,27.01
+13.0,True,False,Anygrew,110,5242338628,Anygrew Womens Summer Casual T-Shirt V-Neck Sleeveless Tunic Tops for Leggings Loose Blouse Shirt,Plus Size Tops,Clothing,4.7,39.99,27.01
+20.0,True,False,Ibtom Castle,1,1850447630,IBTOM CASTLE Toddler Baby Girls Boys Denim Jacket Long Sleeve Button Down Jeans Coat Ripped Hooded Top Fall Cowboy Casual Outwear Clothes 6 Months Light Blue,Girls Coats and Jackets,Clothing,3,24.5,4.51
+16.0,True,False,Disney Pixar Toy Story,1,1195507675,Men's Toy Story Pizza Planet Alien Claw Pile  Graphic Tee Black 2X Big Tall,Men's Movies and TV Tees,Clothing,5,18.99,3.0
+32.0,True,False,LDC Lux Decor Collection,1204,727520383,"Lux Decor Collection California King Sheets - Ultra Soft Cooling Bed Sheets - Deep Pocket up to 16"" - Wrinkle, Fade, Stain Resistant - 6 Piece",Cooling Sheets,Home,4.5,39.99,8.0
+8.37,True,False,BELLA + CANVAS,31,522520633,Unisex CVC Jersey Tee,Mens T-Shirts,Clothing,4.6,9.44,1.07
+25.0,True,False,ComfiTime,98,877815391,"ComfiTime Table Cloth  Fitted Table Cover for 6 Foot, 8 Foot and other Size Rectangle or Round Tables, Faux Linen/Burlap Tablecloth for Parties w/ Tassel & Embroidery, 55 x 86, Ivory White",Outdoor Tablecloths,Home,4.9,30.99,6.0
+18.0,True,False,Fantaslook,1606,6643019050,Fantaslook Sweatshirt for Women Long Sleeve Shirts Tunic Tops Color Block Crewneck Sweatshirts Side Split,Young Adult Sweatshirts & Hoodies,Clothing,4.1,69.99,52.0
+17.0,True,False,Body Glove,16,5378941877,Body Glove Boys' Long Sleeve Rash Guard Shirt  2 Pack UPF 50+ Quick Dry Sun and Sand Protection Swim Shirt (2T-14),Boys Rash Guards and Swimsuit Sets,Clothing,4.2,26.98,10.0
+9.99,True,True,Rugged Shark,19,5291780375,"Rugged Shark Men's Shark Week Clog Sandals with Molded Footbed, Sizes 7-13",Mens Hiking Sandals,Clothing,4.7,14.98,4.99
+83.7,True,False,Amay's,4,2430292245,"Amay 800TC Organic Cotton Split King Size Fitted Sheet ( 39X80 ) Fits Mattress Upto 21 inches Deep Pocket, Sage Solid",Cooling Sheets,Home,5,93.0,9.3
+17.0,True,False,Daystry,26,5113579108,Daystry Plus Size Tunic Tops For Women Lace V-Neck Empire Waist Women Top Babydoll Blouse White-4X,Plus Size Tops,Clothing,4.3,32.99,16.0
+85.0,True,False,Wolverine,10,3929420089,"Wolverine Carlsbad Waterproof 6"" Steel-Toe Work Boot Men Brown",Wolverine Boots,Clothing,4.4,99.95,14.95
+15.0,True,False,Inadays,153,1274809612,"Inadays Mens Swim Trunks with Compression Liner Quick Dry Sports Beach Shorts for Men Swimming Board Shorts Bathing Suits with Pockets Swimwear Surfing S to XL, Black and Green",Mens Swimwear,Clothing,4.5,39.99,25.0
+20.9,True,False,Dark and Lovely,2941,5658003706,"(3 pack) SoftSheen-Carson Dark & Lovely Fade Resist Hair Color, 384 Light Golden Blonde",Conditioning Hair Color,Beauty,4.4,28.814999999999998,11.002
+10.0,True,False,Bali,136,209051435,Women's Bali DFELS1 EasyLite Seamless Brief Panty (Taupe 6),Briefs,Clothing,4.2,13.0,2.96
+27.0,True,False,PhoLicious,5,2389607103,Instant Pho Vegetarian Pack of 4 Bowls / Authentic Vietnamese Soup / Pholicious Brand - New,Ready to heat soup,Food,4.2,23.263749999999998,6.07625
+7.97,True,True,NYX Professional Makeup,925,5193241215,"NYX Professional Makeup Brow Powder Louder, Brow Pencil, Soft Brown, 1 Count, Soft Brown, 0.04 oz",NYX Professional Eye Makeup,Beauty,4.6,28.814999999999998,11.002
+9.99,True,False,TheLovely,9,711383103,TheLovely Women & Plus Front and Back Reversible Spaghetti Strap Flowy Cami Tank Tops,Plus Size Activewear,Clothing,4.1,16.99,7.0
+10.7,True,False,BELLA+CANVAS,31,232632201,Bella + Canvas Unisex Jersey Short-Sleeve T-Shirt - 3001C,Tshirts for Women,Clothing,4.6,12.0,1.34
+25.0,True,False,Anray Home,26,5282654772,Anray Home Luxurious Bath Towel Set 8 Piece - 600 GSM 100%   microfiber Highly Absorbent and Quick Dry Extra Large Bath Towel - Soft Hotel Quality Towel (35 x 70 Inches),Kids' Towels,Home,4.8,45.99,21.0
+9.99,True,False,Jockey,202,6396758638,"Jockey Men's Sport Stability Pouch Microfiber 6"" Boxer Brief",Jockey Underwear,Clothing,4.5,18.0,8.01
+19.0,True,False,Eclipse,189,22406141,"Eclipse Dayton Solid Blackout Rod Pocket Energy-Efficient Curtain Panel, Chocolate, 42""x63""",Room Darkening Curtains,Home,3.9,28.89,9.94
+20.0,True,False,Lugz,36,5211726888,Lugz Men's Cliff Lace-up Casual Sneaker,Mens Casual Sneakers,Clothing,4.4,54.99,35.0
+40.0,True,False,The North Face,234,807130892,The North Face Women's Canyonlands 1/4 Zip Top,Womens Hoodies,Clothing,4.7,79.0,39.0
+16.6,True,False,flxxie,141,375528680,"Flxxie 1800 Count Soft Brushed Microfiber Flat Sheet, Shrinkage, Fade Resistant Bedding Top Sheet, Easy Care, White, Full, 81""x96"" with 4"" hem",Bed Sheets,Home,4.5,23.99,7.4
+75.0,True,False,Minnetonka,4575,971135787,Minnetonka Women's Textile Torrey Laceup Bootie Slipper,Womens Bootie Slippers,Clothing,4.4,99.95,25.0
+28.0,True,False,Jockey,187,2199573340,Jockey Men's Thermocore Long Sleeve Crew,Mens Workout Shirts,Clothing,4.7,48.0,20.01
+13.6,True,False,Zenana,2,653650091,Zenana Women & Plus (S-3X) Soft Rayon Long Sleeve Dolphin Hem V-Neck Tee Shirt Top,Halloween Themed Clothing,Party & Occasions,2.5,21.99,8.36
+50.4,True,False,Amay's,6,3155849704,"Amay 800 TC 100% Organic Cotton California King Size 1Pc Fitted Sheet ( 72X84 ) Fits Mattress Upto 8-10 inches, Hot Pink Solid",Cooling Sheets,Home,5,56.0,5.6
+15.0,True,False,Marvel,37,3977837776,"Marvel Avengers Boys Swim Trunks  Captain America, Iron Man, Hulk, Black Panther Swimsuit (2T-12)",Boys Swim Trunks,Clothing,4.6,16.95,2.0
+19.0,True,False,California Design Den,7,162048057,"California Design Den Queen Pillow Cases, Silky Smooth and Soft Cases for Hair & Skin, Fabric Rayon from Bamboo, 2 Cooling Bamboo Pillow Cases Standard Size, Fits Standard & Queen Pillows, Navy Blue",Pillowcases,Home,4.1,21.99,3.0
+25.0,True,False,Comfort Canopy,214,1231618678,Comfort Canopy - 3 Piece Chocolate Microfiber Solid Duvet Cover Set with Shams for King Size Bedding,Duvet Covers,Home,4.7,104.99,80.0
+15.0,True,False,N'Ice Caps,7,784549946,N'Ice Caps Kids Winter Thinsulate Waterproof Insulated Ski Snow Gloves | Boys Girls Children Pink,Boys Gloves & Mittens,Clothing,4.9,17.99,3.0
+25.0,True,False,Moa Collection,71,273178513,Women's Casual Cotton Blend Pockets Slim Fit Skinny Jegging Stretchy Jeans Pant S-3XL,Plus Size Jeans,Clothing,4.3,29.95,5.0
+20.6,True,False,Apakowa,184,5301024951,"Apakowa Kids Boys Girls Slip-On Casual Loafers Walking Shoes Comfortable & Lightweight (Color : Beige, Size : 6 Toddler)",Boys Slip-ons,Clothing,4.6,28.99,8.35
+19.8,True,False,NELEUS,90,3772538778,"NELEUS Men's Performance Compression Shorts Athletic Workout Underwear 3 Pack,Black+Gray+Red,US Size 3XL",Big and Tall Workout Shorts,Clothing,4.4,48.0,28.21
+27.9,True,False,Cadmus,30,3545128586,"Cadmus Women's 3 Pack High Waist Athletic Shorts Yoga Spandex Gym Workout Shorts with Pockets,Grey,Black,Dark Green,XX-Large",Womens Athletic Shorts,Clothing,4.3,52.89,25.01
+31.5,True,False,MR&HM,143,917659884,"MR&HM Satin Sheet Set King 4 Pcs, Silky Elegant Luxurious King Size Bed Sheets, with Flat Sheet, Deep Pocket Fitted Sheet for Mattress and Matching Satin Pillow Cases (King Size, Ivory)",Bed Sheets,Home,4.6,55.98,24.49
+42.0,True,False,Bella Vita,6,894966089,Bella Vita Nadette II Espadrille Wedge Sling Back Sandals (Women),Womens Espadrille Sandals,Clothing,3.8,58.0,16.01
+50.0,True,False,Dr. Scholl's,423,958386224,Dr. Scholl's Womens Nova Slip On Sneaker,Womens Slip on Sneakers,Clothing,4.3,80.0,30.01
+1690.0,True,False,Westintrends,25,2058502863,"WestinTrends Malibu 7 Piece Adirondack Outdoor Dining Set, All Weather Poly Lumber Patio Table and Chairs Furniture Set, 71"" Trestle Dining Table and 6 Adirondack Dining Chair, Weathered Wood",7 Piece Patio Dining Set,Patio & Garden,4.6,2629.99,944.0
+18.0,True,False,Celeb Luxury,168,177372531,COCOA QUARTZ LIGHT BROWN® COLORDITIONER,Premium Hair Color,Premium Beauty,4.4,40.0,22.03
+29.7,True,False,TheLovely,26,738569571,"TheLovely Women & Plus Soft Cotton Active Stretch Outseam Workout Capri Shorts with Wide Wastband (21"" Knee Length Shorts)",Womens Athletic Shorts,Clothing,3.7,32.99,3.3
+15.5,True,False,USYFAKGH,1,5602300945,Fast Go 50 Mph Mini RC Car Off Road Truck 1:32 Scale Toy Car Rechargeable Remote Control Car High Speed 2WD Electric Vehicle With 2.4GHzRadio Controller Translucent Body Lighting,Cars & SUV Toys,Toys,5,20.98,5.44
+15.0,True,False,Asklazy,9,5464166617,"Asklazy Mid Waisted Dolphin Athletic Shorts for Women Lightweight High Split Gym Workout Shorts with Liner Quick Dry,US Size,White,L",Womens Athletic Shorts,Clothing,5,30.99,16.0
+37.8,True,False,Catherines,7,1184748900,Catherines Women's Plus Size Heirloom Two-Point Tunic,Plus Size Tops,Clothing,4,51.89,14.1
+155.0,True,False,Wolverine,12,757642095,Wolverine Raider DuraShocks Waterproof Met-Guard CarbonMAX Work Wellington Men Peanut,Mens Boots,Clothing,4.3,204.95,49.96
+15.0,True,False,Fantaslook,3533,5443849113,Fantaslook Blouses for Women Pleated Short Sleeve Tunic Tops Dressy Casual Summer Shirts,Plus Size Tops,Clothing,4.6,16.99,2.0
+15.0,True,False,Jurassic Park,11,851807311,Men's Jurassic Park T Rex Logo  Graphic Tee Athletic Heather Large,Men's Movies and TV Tees,Clothing,3.9,18.99,4.0
+37.0,True,False,NELEUS,22,1311460851,"NELEUS Womens Long Sleeve Shirt With Thumb Hole for Workout Yoga Running Quick-Drying,Black+Pink+White,US Size XL",Womens Workout Shirts,Clothing,4.6,66.0,29.02
+29.4,True,False,Dearfoams,2,3262573728,Dearfoams Women's Mickey Terry Adjustable Slide Slipper,Womens Slide Slippers,Clothing,4,42.0,12.6
+27.0,True,False,SmartyPants Vitamins,1885,51246983,"SmartyPants Women's Multi & Omegas 3 Fish Oil Gummy Vitamins with D3, C & B12 - 120ct",Women's Multivitamins,Health and Medicine,4.4,41.65555555555555,14.507777777777777
+8.64,True,False,BELLA + CANVAS,31,173315024,Bella & Canvas Unisex Jersey Short Sleeve T-Shirt,Mens T-Shirts,Clothing,4.6,9.77,1.13
+17.5,True,False,Nature's Bakery,41,5491200472,"(3 pack) Nature's Bakery, Gluten Free, Pomegranate Fig Bars, 6 Twin Packs, 2 oz Each",Snack Bars,Food,3.7,23.263749999999998,6.07625
+28.0,True,False,Medgear,68,132075558,2-PACK Medgear Scrubs for Men and Women Scrubs Set Medical Uniform Scrubs Top and Pants,Medgear Scrubs,Clothing,4,34.99,7.0
+23.0,True,False,MINTREUS,12,6774065013,MINTREUS Ribbed Women's Loose Harem Pants Casual Elastic Waisted Tapered Pants with Big Pocket Baggy Trousers,Womens Pants,Clothing,4.8,48.99,26.0
+27.0,True,False,Bliss Rugs,1,45087015,Sensation Transitional 2' x 7' Red and Beige Polypropylene Indoor Area Rug,All Area Rugs,Home,5,35.96,8.99
+11.9,True,False,Ocean Blues,1,5442868412,Ocean Blues Women's Strappy Bikini Swim Bottom Full Coverage Swimwear Bathing Suits,Womens Swimsuit Bottoms,Clothing,5,14.99,3.1
+24.3,True,False,SGI bedding,10,434475523,"SGI Bedding 18 Inch Wrap Around Bed Skirt | Microfiber Bed Skirt | Fade Resistant, Wrinkle Free, Anti-static, Decorative, Extra Storage Space, Clutter-Free | California King, Navy Blue",Bed Skirts,Home,4.8,26.99,2.7
+16.0,True,False,Jockey,4,5276023004,Jockey Women's Elance Hipster - 6 Pack,Hipsters,Clothing,4.8,40.0,24.01
+40.0,True,False,NELEUS,72,2812601267,"NELEUS Womens Compression Yoga Leggings for Workout High Waist Tummy Control with 2 Pockets,Black+Gray+Light Blue,US Size S",Workout Leggings,Clothing,4,90.0,50.01
+24.0,True,False,Yemak,11,976679489,YEMAK Women's Crewneck Button Down 3/4 Sleeve Cropped Knit Cardigan Sweater MK3514,Cardigans for Women,Clothing,3.5,26.95,3.0
+11.0,True,False,NT Bay,194,324584783,"Ntbay 2 Pack Double Brushed Microfiber Queen Pillow Shams with 2"" Flange, Wrinkle, Fade, Stain Resistant Sham, 20""x30"", Pink",Pillow Shams,Home,4.6,15.99,5.0
+12.6,True,False,Relleciga,11,5374836043,RELLECIGA Women's High Waisted Bikini Bottom Tummy Control Swimsuit Bottom,Womens Swimsuit Bottoms,Clothing,4.5,15.99,3.4
+9.97,True,True,Baby Dove,192,485100033,"Baby Dove Eczema Care Soothing Cream for Newborn's Sensitive Skin, 5.1 oz",Baby Itching & Rash Treatments,Baby,4.8,59.323,6.909000000000001
+48.0,True,False,Chaco,828,437491833,Chaco ZX/1 EcoTread Sandal Big Kid Burlap Heather,Sandals & Flip-Flops,Clothing,4.7,60.0,12.01
+43.0,True,False,Depend,3800,227252556,"Depend Fresh Protection Incontinence Underwear for Women, Adult Diapers, XXL, 44 Count",Depend for Women,Personal Care,4.4,16.988,6.526000000000001
+10.4,True,False,Aiyino,5,1071546830,"Aiyino Women's Sleeveless Hollow Out Twist Bodycon Dress Wrap Slim Fit Party Evening Dresses L,Grey",Party Dresses,Clothing,5,14.99,4.64
+11.0,True,False,Lelinta,20,148612159,"LELINTA Women Plus Size Summer Tunic Dress V Neck Casual Loose Flowy Swing Shift Dresses, Black/ Green/ Navy Blue/ Wine Red/ Caramel, S-2XL",Womens Blouses,Clothing,3.9,13.99,3.0
+18.0,True,False,SHEWIN,304,609214827,SHEWIN Bikinis for Women 2 Piece Sexy Swimsuits Set Turquoise High Waisted Swimwear,Womens Swimsuits,Clothing,4.4,29.98,11.99
+90.8,True,False,Modway,16,318951763,Modway Serena King Powder Coated Steel Headboard in White Finish,White Headboards,Home,3.7,209.0,118.21
+11.0,True,False,Finetoo,110,1445507060,FINETOO 6 Pack Lace Underwear For Women Invisible High Waist Thongs V-Shape Embroidery Floral Bikini Panties S-XL,Bikinis,Clothing,3.7,12.99,2.0
+27.9,True,False,Lolanta,57,5438189890,Lolanta Summer Boys Suit Kids Wedding Ring Bearing Costume 4 Pcs Shirt Vest Shorts Set,Baby Boys Dressy Outfit Sets,Clothing,4.7,30.99,3.1
+21.0,True,False,Mellanni,181,378435340,"Mellanni Iconic Collection Pleated Microfiber Bed Skirt 15"" Drop, Queen, Gray",Bed Skirts,Home,4.8,27.97,7.0
+14.9,True,False,CALIPESSA,2,946038807,CALIPESSA Womens Summer Tiered Layer Pink Floral Print Short Dress Casual Swing Flowy Short Sleeve Ruffle Tunic Dresses,Womens Dresses,Clothing,4.5,24.99,10.09
+5.99,True,False,Seventh Generation,687,3331024751,"Seventh Generation Toilet Bowl Cleaner Fresh Mint Chlorine Bleach & Ammonia Free, 24 oz",Bathroom Cleaners,Household Essentials,4.5,11.415,6.98
+599.0,True,True,HP,128,5395277312,HP Victus 15.6 inch FHD IPS 144Hz Gaming Laptop AMD Ryzen 5-8645HS NVIDIA GeForce RTX 4050 8GB DDR5 512GB SSD Mica Silver (2024),High School Supplies,Seasonal,4.6,979.0,380.0
+31.9,True,False,Liberty Blues,46,638069385,Liberty Blues Men's Big & Tall Longer-Length Shrink-Less Piqué Polo,Big and Tall Polo Shirts,Clothing,4.2,36.1,4.21
+30.1,True,False,Woman Within,1625,343142155,Woman Within Women's Plus Size Petite Stretch Cotton Printed Legging,Womens Leggings,Clothing,4.5,34.99,4.9
+34.8,True,False,Saucony,448,514417561,"Saucony Jazz Kid's Easy On/Off Sneaker, Sizes 4-12",Boys Athletic Shoes,Clothing,4.5,49.81,14.97
+27.0,True,False,Zenana,8,969756484,Zenana Women's Relaxed Fit V-Neck Short Sleeve Full Length Maxi Long Dress w/ Side Pockets,Casual Dresses,Clothing,4.8,29.99,3.0
+14.0,True,False,Harry Potter,4,2006631791,Girl's Harry Potter List of Spells  Graphic Tee Purple Berry X Large,Girls T Shirts,Clothing,3.3,16.99,3.0
+21.0,True,False,YNIQUE,14,3272052424,YNIQUE Women's One Piece Swimsuits Tummy Control Swimwear Flattering High Waisted Monokini Bathing Suits for Women,Womens One-piece Swimsuits,Clothing,4.9,32.99,12.0
+9.38,True,False,GXFC,1,3192640084,Toddler Baby Girl One Piece Swimsuits Kids Girls Long Sleeve Strawberry Graphic Print Jumpsuit with Sun Hat Rash Guards Beach Bathing Suit 6M-3Y,Toddler Girls One-piece Swimsuits,Clothing,3,10.79,1.41
+26.7,True,False,KAWELL,2,3843028104,"KAWELL Princess Peach Costume for Girls, Super Brothers Kids Princess Peach Dress Halloween Cosplay Dress Up with Accessories",All Kids Costumes & Dress-Up,Toys,5,29.66,2.97
+56.7,True,False,Hauteloom,342,389619195,"Hauteloom Herstmonceux Traditional Living Room Bedroom Soft Natural Runner Rug - Oriental Persian Floral Farmhouse Carpet - Boho, Modern Vintage - Cream, Pink, Salmon, Orange, Brown - 2'7"" x 7'3""",All Runner Rugs,Home,4.4,63.0,6.3
+17.0,True,False,INNERSY,16,1131095306,"INNERSY Teen Girl's Cotton Slip Shorts for Under Dresses Breathable Boxer Panties 3-Pack(L, Black)",Kids Multi Packs,Clothing,4.3,19.99,3.0
+115.0,True,False,Amay's,3,3047523261,Amay Rod Pocket Window Curtain Panel Grey 84 Inch Wide by 120 Inch Long-1 Panel,Shop Curtains,Home,5,144.0,28.8
+13.0,True,False,Junefish,1913,1330671813,JuneFish Women's Summer Dress Casual Beach Sundress Stretchy Tank Dress with Pockets,Young Adult Dresses,Clothing,4.3,31.99,19.0
+269.0,True,False,Hauteloom,38,3569966086,"Hauteloom Kongiganak Living Room, Bedroom Patio Outdoor Area Rug - Indoor/Outdoor - Black, Beige - 8'10""",Plastic Outdoor Rugs,Patio & Garden,4.3,299.0,29.9
+17.0,True,False,Chaps,3,5133776504,"Chaps Men's & Big Men's Swim Trunks with UPF50+, 7"" Inseam, Sizes S-3XL",Mens Swim Trunks,Clothing,5,23.0,6.0
+7.38,True,False,Hanes,4558,634290741,"Hanes Authentic Men's Short Sleeve Crewneck T-Shirt, Big and Tall Sizes Available S-5XL",Big and Tall Polo Shirts,Clothing,4.2,11.0,3.62
+45.0,True,False,SANMADROLA,260,5586004243,"Sanmadrola 100% Double-Sided Waterproof Dog Bed Cover Pet Blanket Sofa Couch Furniture Protector for Kids Children Dog Cat, Reversible Green 82''x102''",Couch Covers,Home,4.7,52.99,8.0
+12.0,True,False,Cutie Pie,63,294612862,"Cutie Pie Dreamers Baby Boy & Toddler Boy 4PC Tight Fit Cotton Sleep Set, Size 12 Months-5T",Boys Pajama Sets,Clothing,4.3,14.99,3.0
+52.0,True,False,Coodeto,2,5452795545,"Coodeto 4'x6' Area Rugs for Living Room, Non-Slip Machine Washable Rug Oriental Floral Rug Stain Resistant Foldable Carpet for Bedroom, Dusty Blue",All Area Rugs,Home,4.5,65.95,13.99
+28.7,True,False,Medgear,227,990631587,2-PACK Medgear 12-Pocket Women's Scrub Set with Silver Snap Detail & Contrast Trim,Black Scrubs,Clothing,3.7,40.98,12.3
+88.2,True,False,Amay's,2,3264982193,"Amay Cotton 600TC 4-PCs Sheet Set Easily Fit upto 6-8 Inch Deep Pockets Solid Pattern ( Emperor, Navy Blue )",Colored Sheets,Home,3,97.99,9.8
+51.3,True,False,Amay's,6,2007056084,"Amay 800TC Organic Cotton Olympic Queen Size Fitted Sheet ( 66X80 ) Fits Mattress Upto 12-15 inches, White Solid",Cooling Sheets,Home,5,57.0,5.7
+16.0,True,False,Home Alone,1,5168635291,Men's Home Alone Merry Christmas Ugly Sweater  Graphic Tee Navy Blue Heather 2X Large,Men's Movies and TV Tees,Clothing,5,18.99,3.0
+14.3,True,False,Zenana,2,247854986,Zenana Women & Plus (S-3X) Soft Rayon Long Sleeve Dolphin Hem V-Neck Tee Shirt Top,Halloween Themed Clothing,Party & Occasions,2.5,22.99,8.74
+30.6,True,False,Dee's Collection,1,1435905497,"Short Queen Size Tailored Drop Ruffled Solid Bed Skirt with Adjustable Elastic Belt Microfiber Fabric Fade & Wrinkle Resistant Bed Frame Cover Easy to Fit & Care (10 Inch Drop, Lilac)",Toddler Bedding Sets & Sheets,Baby,1,33.99,3.4
+35.6,True,False,Shop LC,3,424240661,Shop LC TAMSY Navy Color Rayon Lycra Polyester V Neck Full Sleeve Woven Top-XL,Womens Tops,Clothing,5,39.59,3.96
+20.0,True,False,Rabbitgoo,324,931121091,"rabbitgoo Dog Harness, No-Pull Pet Harness with 2 Leash Clips, Adjustable Soft Padded Dog Vest, Reflective Outdoor Pet Oxford Vest with Easy Control Handle for Large Dogs, Beige",No Pull Dog Harnesses,Pets,4.5,35.98,16.0
+5.09,True,False,PNTUTB,38,1615356970,"Pntutb Womens Short Clearance,Women's Comfy Drawstring Splice Casual Elastic Waist Loose Shorts Pants",Womens Shorts,Clothing,3.3,5.79,0.7
+38.0,True,False,Ryka,1,2727778509,Ryka Womens Ellie Open Toe Slip On Wedge Sandals,Wedge Heels,Clothing,5,54.98,16.99
+24.0,True,False,Alliwise,15,5213945506,"(2 Pack) Alliwise Magnesium Glycinate 400mg Natural Mineral Supplement, Support Sleep, Bone Health, Immunity Support & Heart Health, 240 Veg Capsules",All Vitamins & Supplements,Health and Medicine,4.5,35.99,12.0
+9.73,True,False,Maidenform,693,145946079,Maidenform Tailored Cotton Boyshort Dream Comfortable Non binding Stretch Soft Underwear,Womens Panties,Clothing,4.5,12.0,2.27
+76.5,True,False,Dee's Collection,2,1840373646,Full Size Luxury Extrasoft 100% Supima Cotton 4 Piece Sheets Set in Hotel Quality Sateen Weave Plum Solid 15 Inch Deep Pocket,Toddler Bedding Sets & Sheets,Baby,3,84.99,8.5
+21.7,True,False,Gogokids,27,2570734160,"Gogokids Kids Swim Jacket Life Vest Toddler Float Swimsuit with Adjustable Safety Straps Swimming Training Buoyancy Aid Swimwear Blue S, 2-3 Years",Child Life Jackets,Sports & Outdoors,4.9,26.99,5.3
+22.5,True,False,SGI bedding,14,799517514,"SGI Bedding 14 Inch Wrap Around Bed Skirt | Microfiber Bed Skirt | Fade Resistant, Wrinkle Free, Anti-static, Decorative, Extra Storage Space, Clutter-Free | King, Zebra Print",Bed Skirts,Home,4.4,24.99,2.5
+14.0,True,False,Hanerdun,259,5359488153,Hanerdun Womens Workout Yoga Shorts High Waist Bottoms Athletic Running Pants Purple M,Womens Athletic Shorts,Clothing,4.3,17.99,4.0
+12.0,True,False,Zenana,9,486462188,Zenana Women's Soft Wide Waistband Active Fitness Tight Yoga Pants Leggings with Pockets,Workout Leggings,Clothing,4.1,18.99,7.0
+58.0,True,False,Sunvivi,68,5267464734,"Triple Slow Cooker with 3 Spoons, 3 Pot 1.5 Quart Oval Crock Food Warmer Buffet Server, Stainless Steel",Shop All Slow Cookers,Home,4.7,99.99,42.0
+100.0,True,False,Pompeii3,906,603804009,"Pompeii 1/4 Ct TDW Genuine Diamond Studs in 14k Yellow Gold (IJ,I2-I3)",Gold Earrings,Jewelry,4,619.6,519.61
+54.1,True,False,Haggar,1427,736890330,Men's Work To Weekend® Khaki Flat Front Pant Classic Fit 41114957522,Mens Pants,Clothing,4.2,61.29,7.23
+30.0,True,False,California Design Den,156,1783772415,"California Design Den Queen Fitted Sheet Only, Softest 400 Thread Count 100% Cotton Sateen, Deep Pocket, All-Around Elastic, Side Indicators - Teal",Cotton Sheets,Home,4.5,37.49,7.5
+40.0,True,False,LifeStride,7,410834007,LifeStride Womens Charlotte Strappy Dress Sandals - Medium & Wide Width,Stilettos,Clothing,4.4,48.99,9.0
+13.1,True,False,Dash,252,36995775,"Dash Original Seasoning Blend, Salt free, 21 oz",Seasoning mixes & blends,Food,4.8,25.99,12.87
+42.9,True,False,NELEUS,518,475973491,"NELEUS Mens 2 in 1 Dry Fit Workout Shorts with Liner and Pockets,Black+Gray+Blue,US Size S",Mens Workout Shorts,Clothing,4.5,75.0,32.11
+10.3,True,False,No Boundaries,3,5321127579,"No Boundaries Flare Pants, 2-Pack, Womens and Womens Plus",Juniors Activewear,Clothing,5,17.98,7.64
+10.5,True,False,Follure Clothing,1,333588477,Women Hooded Sweater Coat Winter Warm Wool Zipper Coat Cotton Coat Outwearpink ladies jacket?Clearance?,Womens Sweaters,Clothing,1,11.89,1.43
+9.99,True,False,Ma Croix,93,794414806,Ma Croix Womens Racerback Tank Top Sleeveless Top,Womens Tank Tops,Clothing,3.2,11.99,2.0
+71.1,True,False,Hauteloom,824,150973791,"Hauteloom Alstead Shag Moroccan Farmhouse 2'7"" x 7'3"" Runner Bohemian/Global 100% Polypropylene Charcoal/Beige Runner",All Runner Rugs,Home,4.8,79.0,7.9
+9.45,True,False,Softsoap,802,845174402,"Softsoap Hand Soap Tablets Lemon Fizz, Refill Tablets (3 Count)",Hand Soaps,Personal Care,3.7,16.988,6.526000000000001
+50.3,True,False,Lee,185,597413133,Womens Jeans Deep Relaxed-Fit Side Elastic Stretch 12,Young Adult Clothing,Clothing,4.2,67.14,16.87
+14.4,True,False,TheLovely,11,5492294359,TheLovely Men & Women Long Sleeve Baseball Raglan Tee Shirt Top (S-3XL),All Baseball Gear & Equipments,Sports & Outdoors,4.4,15.99,1.6
+20.0,True,False,UVPLove,57,3139034210,Uvplove Women's Fall Long Sleeve Crew Neck Loose Lightweight Knitted Pullover Sweater yh purple-l,Womens Sweaters,Clothing,4.5,32.99,13.0
+19.0,True,False,Showmall,1503,651165096,SHOWMALL Plus Size Shirt for Women 3/4 Sleeve Clothes Navy Blue 4X Blouse Swing Top Crewneck Maternity Loose Clothing for Leggings,Plus Size Tunic Tops,Clothing,4.4,31.99,13.0
+2.28,False,True,Hormel,524,10291017,"HORMEL COMPLEATS Rice & Chicken, Shelf-Stable, 7.5 oz Plastic Microwaveable Tray",Pantry staples,Food,3.8,23.263749999999998,6.07625
+25.0,True,False,Chiclily,534,2320713397,"Chiclily Dresses for Women Long Sleeve Round Neck Casual T Shirts Loose Fitting Sweater Tunic Dress with Side Button, US Size Medium in Dark Grey",Womens Sweaters,Clothing,4.8,39.99,15.0
+25.9,True,False,Mubineo,48,2294150264,Mubineo Women Denim Long Jumpsuit Casual Spaghetti Strap Wide Leg Romper Pants Summer Baggy Bib Overalls,Womens Denim Overalls,Clothing,3,33.85,7.96
+40.0,True,False,FREE COUNTRY,3,2677890305,Free Country Men's Tech Stretch Short II - Blue L,Mens Shorts,Clothing,5,51.0,11.0
+15.0,True,False,ZXSXSY,28,5164148011,ZXSXSY Women Sleeveless Square Neck Spaghetti Straps Solid Color Velvet Tank Top,Womens Tank Tops,Clothing,4,17.99,3.0
+20.0,True,False,Nlife,144,3100329946,Nlife Women's Bohemian High Waist Flowy Double Layer Maxi Skirt,Womens Skirts,Clothing,3.4,26.99,7.0
+106.0,True,False,Amay's,11,2354001915,Amay Grommet Blackout Curtain Panel Baby Pink 84 Inch Wide by 96 Inch Long -1Panel,Shop Curtains,Home,4.5,132.0,26.4
+87.0,True,False,EMMA + OLIVER,15,974681248,"Emma + Oliver 6'x9' Contemporary Swirl Plush Pile Accent Rug with Scraped Effect in Purple, Gray, Black and White and Jute Backing",All Area Rugs,Home,5,188.73,101.74
+20.0,True,False,Avidlove,9,2978837194,"Avidlove Christmas Romper Pajamas for Women Sexy Santa Velvet Lingerie Jumpsuit Shorts Bodysuit with Belt Sexy Santa Claus Outfits,Red",Lingerie Sets,Clothing,4.9,22.99,3.0
+386.0,True,False,WestinTrends,18,874138671,"WestinTrends Dylan Adirondack Chairs Set of 2 with Side Table, All Weather Poly Lumber Outdoor Seating Patio Conversation Bistro Set, Seashell Curved Slat Backrest, Gray",3 Piece Patio Dining Set,Patio & Garden,4.9,599.99,214.0
+10.0,True,False,MOSHU,72,5456564238,MOSHU Blouses for Women Dressy Casual Button Down Shirts Ruffle Sleeve V Neck Womens Tops,Womens Blouses,Clothing,4.6,35.99,25.99
+6.57,True,False,Fruit of the Loom,106,447982675,Adult HD Cotton T-Shirt,Mens Workout Shirts,Clothing,4.4,7.86,1.29
+8.89,True,False,No Boundaries,3,5321127580,"No Boundaries Flare Pants, 2-Pack, Womens and Womens Plus",Juniors Activewear,Clothing,5,17.98,9.09
+40.0,True,False,Easy Spirit,1,1421142720,Easy Spirit Womens Traciee Cut Out Floral Print Slide Sandals,Womens Slides,Clothing,5,62.5,22.51
+38.0,True,False,Bare Home,1322,2842975297,"Bare Home Ultra-Soft Sheet Set - Premium 1800 Collection - Deep Pockets - 4-Pieces - Queen, Forged Iron Gray",Bed Sheets,Home,4.7,46.99,9.0
+14.0,True,False,Ibtom Castle,4,2211422215,IBTOM CASTLE Toddler Baby Girls 1st Birthday Outfit Princes Dress with Diaper Cover Lace Ruffles Romper Tutu for Cake Smash Photo Shoot 0-6 Months Yellow Daisy,Baby Girls Clothing,Clothing,5,28.99,15.0
+16.0,True,False,NT Bay,122,388405730,"Ntbay Premium 1800 Series Microfiber Twin Extra Long Flat Sheet with 4 inches Hem, Ultra Soft and Breathable Top Sheet, 66x102 inches, Pale Orange",Flat Sheets,Home,4.9,24.99,9.0
+20.0,True,False,BERANMEY,6,5580712192,BERANMEY Cork Footbed Sandals for Women With Comfort Flat Slide Sandals Cork Footbed 2 Straps Adjustable Buckle Slip on Sandals with Comfort Arch Support for Slipper Couple Sandals Unisex Sandals,Womens Footbed Sandals,Clothing,3.7,25.99,6.0
+20.0,True,False,ANYJOIN,3688,5741991357,ANYJOIN Women's Summer Casual T Shirt Dresses Short Sleeve Swing Dress Pockets 3XL,Plus Size Dresses,Clothing,4.5,32.89,12.9
+28.8,True,False,Dee's Collection,1,1113666022,"Full Size Tailored Drop Ruffled Solid Bed Skirt with Adjustable Elastic Belt Microfiber Fabric Fade & Wrinkle Resistant Bed Frame Cover Easy to Fit & Care (10 Inch Drop, Burgundy)",Toddler Bedding Sets & Sheets,Baby,1,31.99,3.2
+9.98,True,False,Wallflower,6,5459864163,"Wallflower Girls Denim Skirt, Sizes 7-16",Girls Skirts and Scooters,Clothing,5,14.98,5.0
+9.99,True,False,Phenas,1,833969367,Phenas Mirabel Costume Dress For Girls Cosplay Isabela Madrigal Princess Halloween Dress Up,Princess Baby & Toddler Costumes,Party & Occasions,5,14.99,5.0
+17.1,True,False,TheLovely,14,907995515,TheLovely Women & Plus Relaxed Fit Long Sleeve Round Neck & Hem Jersey Tee Shirt Top,Womens Workwear Blouses,Clothing,4.4,18.99,1.9
+12.0,True,False,Aveeno,233,536849814,Rose Water & Chamomile Conditioner for Dry Hair,Aveeno Hair Care,Beauty,4.6,14.0,2.01
+45.0,True,False,LifeStride,305,305077069,LifeStride Womens I-Loyal Ballet Flats - Various Widths Available,Ballet Flats,Clothing,4.4,49.99,5.0
+51.3,True,False,Amay's,1,2335720771,Amay 800TC Organic Cotton King Size Fitted Sheet ( 76X80 ) Fits Mattress Upto 10-12 inches Sage Stripe,Cooling Sheets,Home,5,57.0,5.7
+14.0,True,False,Fantaslook,1302,5323811559,Fantaslook Tank Tops for Women Pleated Square Neck Sleeveless Summer Tops Curved Hem Flowy Shirts,Plus Size Tops,Clothing,4.7,32.99,19.0
+13.0,True,False,Streamlight,44,372849596,"Luxury Linen Turkish Hand Towels for Bathroom Set of 2, Diamond Weave Soft Cotton, 16 x 40 Inches Decorative Peshtemal-Pack of 2, Turquoise",Bathroom Sets,Home,4.6,17.99,5.0
+4.44,True,False,Enjocho,1,5784496986,EnJoCho Toddler Children Boys Pull On Shorts Kids Summer Solid Color Elastic Waist Sports Jogger Workout Cargo Pants Shorts Kids Casual Sports Daily Wear Clothes,Boys Athletic Shorts and Pants,Clothing,1,5.05,0.61
+52.7,True,False,Jessica London,1033,5263061917,Jessica London Women's Plus Size Elastic Waist Cotton Flowing Maxi Crinkled Skirt,Womens Plus Skirts,Clothing,4.6,60.87,8.18
+35.0,True,False,Natural Uniforms,30,142460087,"Natural Uniforms Short Sleeve Coverall 399 ( Navy, Medium )",Mens Work Coveralls,Clothing,4,38.95,4.0
+21.6,True,False,Shilucheng,305,2546499171,"Shilucheng Cooling 3 Piece Luxury Bed Sheets Set, 1800 Series Microfiber Bed Sheets, 16"" Deep Pocket, Twin, Beige",Cooling Sheets,Home,4.5,30.99,9.4
+29.0,True,False,Dream Pairs,174,375469856,DREAM PAIRS Women's Open Toe Ankle Strap Casual Flatform Platform Sandals REED-1 GOLD size 10,Wedges,Clothing,4.6,40.99,12.0
+7.49,True,False,PNTUTB,1,334694770,"Pntutb Ladies Clearance Clothes,Autumn Winter Pullover Print Round Neck Hooded Sweatshirt",Womens Hoodies,Clothing,1,8.49,1.0
+9.99,True,False,PatPat,188,1969219390,PatPat Boys Swim Trunks Family Matching Set Stripe Starts Independence Day Outfits Board Shorts Mommy and Me Bathing Suits,Mens Swimwear,Clothing,4.2,14.99,5.0
+17.0,True,False,Romanstile,157,1579063028,"Romanstile 2 Pack Rectangle Tablecloth - Washable Table Cloth Resistance Microfiber Tablecloth Decorative Table Cover for Dining,Party,Outdoor,Tablecloths 60x84inch,Beige",Fabric Tablecloths,Home,4.7,18.99,2.0
+8.86,True,False,BELLA + CANVAS,31,286456181,Bella + Canvas Unisex Jersey Short-Sleeve T-Shirt - 3001C,Mens T-Shirts,Clothing,4.6,10.05,1.19
+29.0,True,False,Ibtom Castle,90,1914959787,IBTOM CASTLE Little Big Girls Flower Vintage Floral Lace 3/4 Sleeves Floor Length Dress Wedding Party Evening Formal Pageant Dance Gown 5-6 Years Blue,Girls Dresses,Clothing,4.5,35.98,6.99
+27.0,True,False,Revlon,34,22211125,"Revlon Just Bitten Lipstain + Balm 020 Beloved: lipstain .09 Oz., balm .05 Oz.",All Makeup,Beauty,3,28.814999999999998,11.002
+15.0,True,False,Asklazy,70,5259156723,"Asklazy Women's Summer Sleeveless Chiffon Blouse Business Casual Tank Flowy Tops for Women,US Size,Wine Red,M",Womens Blouses,Clothing,4.6,42.99,28.0
+104.0,True,False,Eiderdown Décor,12,5146321102,400 Thread Count White Cotton Sateen Hotel Stitch Duvet Cover in Scalloped Embroidery Twin/TwinXL White Border,Shop Bedding,Home,4.7,121.99,17.99
+18.0,True,False,AMITOFO,85,2890664646,"AMITOFO Compression Socks for Women Wide Calf 3 Pairs Men Circulation 20-30mmHg Plus Size Knee High Support Stockings for Medical | Circulation | Nurses | Running | Travel,Black 4XL",Socks,Clothing,4.3,25.99,8.0
+86.4,True,False,Amay's,2,1129949808,Amay Rod Pocket Curtain Panel Draperies Beige 72 Inch Wide by 72 Inch Long-1 Panel,Shop Curtains,Home,3,108.0,21.6
+14.0,True,False,BERANMEY,282,5172156163,BERANMEY Cute Smile Face Slippers for Women Perfect Soft Plush Comfy Warm Slip-On Happy Face Slippers fo Women Indoor fluffy Smile House Slippers for Women and Men Non-slip Fuzzy Flat Slides,Womens Slide Slippers,Clothing,4.2,25.99,12.0
+20.0,True,False,Woman Within,1127,890933549,Woman Within Women's Plus Size Perfect Long-Sleeve Henley Tee,Plus Size Tshirts,Clothing,4.3,23.72,3.77
+33.0,True,False,NELEUS,93,3599349614,"NELEUS Men's Workout Athletic Pants Running Sweatpants With Pockets Relaxed Fit,Black+Gray,US Size L",Mens Workout Pants,Clothing,4.7,60.0,27.02
+17.0,True,False,DreamFish,186,5055455726,DreamFish Womens Nightgown Short Sleeve Sleepshirt V Neck Sleepwear Casual Loungewear Ladies Sleepwear,Womens Nightshirts & Gowns,Clothing,4.8,29.99,13.0
+36.0,True,False,Bruno Marc,177,460164326,Bruno Marc Mens Classic Oxfords Shoes Fashion Casual Leather Shoes for Men Lace Up Comfort Oxford Shoes Lg19008M Tan Size 12,Mens Oxfords Shoes,Clothing,4.8,39.99,4.0
+155.0,True,False,Amay's,2,2783711895,Amay Rod Pocket Curtain Panel Baby Pink 120 Inch Wide by 132 Inch Long-1 Panel,Shop Curtains,Home,5,194.0,38.8
+55.8,True,False,Amay's,2,3250236923,"Amay 800TC Organic Cotton Emperor Size Fitted Sheet ( 84X84 ) Fits Mattress Upto 10-12 inches, Chocolate Solid",Cooling Sheets,Home,5,62.0,6.2
+67.0,True,False,Vionic,103,2417910874,Vionic Womens Alvana Leather Thong Slide Sandals,Womens Slides,Clothing,2.9,100.99,34.0
+29.0,True,False,Ryka,2195,5326305256,Ryka Womens Viv Snake Print Lifestyle Fashion Sneakers,Womens Casual Shoes,Clothing,4.4,36.99,8.0
+34.0,True,False,Giani Bernini,1,855837951,Giani Bernini Womens Velma Faux Leather Memory Foam Mary Jane Heels,High Heels,Clothing,5,49.8,15.81
+20.0,True,False,Exclusivo Mezcla,115,5172205930,"Exclusivo Mezcla Orthopedic Pet Bed for Small Dogs 20''X15'', Egg Crate Foam Small Dog Beds with Removable Washable Cover,Waterproof Pet Bed Mat, Navy Blue",Orthopedic Dog Beds,Pets,4.5,59.99,40.0
+3.97,False,True,Cuisinart,3,5464020385,Cuisinart Smokey Maple Bacon Seasoning,Seasoning mixes & blends,Food,4.3,23.263749999999998,6.07625
+11.5,True,False,CPOKRTWSO,380,1786660054,CPOKRTWSO Women's Plus Size Tops 3/4 Sleeve Shirts Dressy Casual V Neck Tunic Blouse (M-4XL),Womens Workwear Blouses,Clothing,4.4,30.32,18.83
+57.0,True,False,Sunstone Metal Products,2,538579916,SUN STONE Womens Brown Ring Hardware Non-Slip Breathable Square Toe Stacked Heel Zip-Up Leather Booties 6.5,Womens Booties,Clothing,5,119.5,62.52
+33.0,True,False,Ibtom Castle,24,5187951341,IBTOM CASTLE Flowers Girls Tulle Lace Dress for Kids Wedding Bridesmaid Pageant Birthday Party Communion Formal Princess Prom Maxi Gown 3-4 Years Dark Blue,Girls Dresses,Clothing,4.5,40.99,8.0
+16.0,True,False,Batman,1,942432062,Men's Batman Joker Text Logo  Graphic Tee Royal Blue Heather 2X Large,Mens Graphic Tees,Clothing,5,18.99,3.0
+9.99,True,False,PatPat,37,5383710772,PatPat Toddler Girls One Piece Swimsuits Cute Tropical Swimwear Family Matching Bathing Suit Sizes 2-9,Baby Girls Swimsuit Cover-ups,Clothing,4.4,58.48,48.49
+11.0,True,False,Happy Town,2,5537013909,Happy Town Infant Girl Summer Outfits Baby Girl Ruffle Sleeve Tops Floral Shorts Set For 1-18M,Toddler Girls Outfit Sets,Clothing,5,19.99,9.0
+34.2,True,False,Jessica London,296,338559263,Jessica London Women's Plus Size Stretch Denim Skirt Elastic Waist Long Jean Maxi Skirt,Womens Workwear Skirts,Clothing,4.2,39.0,4.79
+49.5,True,False,Amay's,8,3096395012,Amay 800 Thread Count 100% Organic Cotton Twin XL Size 1PC Flat Sheet ( 70x102 ) Aqua Blue Striped,Colored Sheets,Home,5,55.0,5.5
+120.0,True,False,Hommow,54,391736091,"Hommow Outdoor Chaise Lounge Chair, Set of 2 Adjustable Patio Chaise Lounges for Beach Yard Pool,Blue",Outdoor Chaise Lounges,Patio & Garden,3.5,159.99,40.0
+38.0,True,False,Comfort Canopy,28,1743897163,Comfort Canopy - 4 Piece Gray Chevron Printed Bed Sheets for California King Bedding,Bed Sheets,Home,4.9,109.99,72.0
+9.97,True,False,No Boundaries,16,2531977069,"No Boundaries Womens Mid-Heel Slinky Slide Sandals, Sizes 6-11",Womens Slides,Clothing,4.8,16.98,7.01
+18.0,False,False,Purina ONE,451,24190989,"Purina ONE High Protein, Healthy Weight Dry Cat Food, +Plus Ideal Weight With Turkey, 7 lb. Bag",All Cat Food,Pets,4.7,57.71888888888889,17.816666666666666
+34.0,True,False,wendunide,1,1796059258,wendunide summer dress Women's Vintage 1920s Sequin Beaded Tassels Party Night Hem Flapper Gown Dress Black L,Womens Dresses,Clothing,5,43.79,9.8
+38.0,True,False,American Soft Linen,1455,178455834,"American Soft Linen Luxury 6 Piece Bath Towel Set, 100% Cotton Turkish Towels for Bathroom, Light Grey",Bath Towels,Home,4.7,49.99,12.01
+26.0,True,False,Penny Sue,44,5070152382,Pennysue Women's Cork Footbed Slide Sandals with Arch Support 2 Strap Adjustable Buckle Glitter Slip on Slipper Shoes Softey Flat Sandals 10M,Womens Footbed Sandals,Clothing,4.3,35.99,10.0
+11.0,True,False,TheLovely,1,842910182,"""Women Strapless Pleated Solid Colors Smocked Bandeau Sexy Tube Crop Tops (GOLDEN MUSTARD, Medium)""",Womens Workwear Blouses,Clothing,5,16.99,5.95
+29.0,True,False,Ibtom Castle,90,1985101100,IBTOM CASTLE Little Big Girls Flower Vintage Floral Lace 3/4 Sleeves Floor Length Dress Wedding Party Evening Formal Pageant Dance Gown 7-8 Years Dark Green,Girls Dresses,Clothing,4.5,35.98,6.99
+4.29,True,False,ZZwxWA,1,5588310453,"ZZwxWA Today Discount Dressy Tank Top for Women, Women's Seamless Suspender with Added Velvet and Thick Back Protection Bottom Coat Tank Tops Round Neck Tank Tops Summer Saving",Womens Tank Tops,Clothing,5,4.99,0.7
+20.0,True,False,TIYOMI,56,5296247194,TIYOMI Plus Size Women's Surfing 2X Long Sleeve Swimsuits 2 Piece Blue Swimwear Rash Guard UPF 50+ Sun Protection Swimsuit Tummy Control Bathing Suits with Shorts 2XL 18W 20W,Young Adult Swimsuits,Clothing,4.7,28.99,9.0
+13.5,True,False,NELEUS,7,5446692947,"NELEUS Womens 4"" Spandex Booty Shorts Yoga Workout Athletic Shorts High Waist with Pockets,Purple,US Size M",Womens Athletic Shorts,Clothing,4.6,14.99,1.5
+18.0,True,False,MINTREUS,84,6077957065,MINTREUS Women's Nightgown Short Sleeve Nightshirt V Neck Sleep Shirt Loose Loungewear Casual Sleepwear,Womens Nightshirts & Gowns,Clothing,4.7,26.99,9.0
+12.5,True,False,Revlon,2765,182430131,"Revlon ColorStay Liquid Foundation Makeup, Matte Finish, Combination/Oily Skin, SPF 15, Vanilla, 1 fl oz.",Liquid Foundation,Beauty,4.3,28.814999999999998,11.002
+165.0,True,False,MLILY,53,260485781,"MLILY 5 inch Memory Foam Mattress for Kids, Twin Size Mattress for Bunk Bed, Purple, Medium",Memory Foam Mattresses,Home,4.7,449.0,284.01
+11.0,True,False,Asklazy,142,5154791062,"Asklazy Women's Boho Tops Floral V Neck 3/4 Sleeve Cold Shoulder Blouse Shirts,US Size,Black,M",Womens Tops,Clothing,4.7,45.99,35.0
+14.0,True,False,Jockey,93,5002982468,Jockey Women's Worry Free Cotton Stretch Heavy Absorbency Sleep S,Jockey Panties,Clothing,4.4,18.99,5.0
+72.0,True,False,Amay's,13,2972690411,Amay Grommet Top Blackout Curtain Panel Greyish White 60 Inch Wide by 72 Inch Long-1Panel,Shop Curtains,Home,5,90.0,18.0
+1.72,False,True,Campbell's Condensed Healthy Request,535,10321730,"Campbell's Condensed Heart Healthy Cream of Celery Soup, 10.5 oz Can",Condensed soup,Food,4.6,23.263749999999998,6.07625
+30.7,True,False,Roaman's,417,3332740914,Roaman's Women's Plus Size Three-Quarter Notch-Neck Soft Knit Tunic,Plus Size Tunic Tops,Clothing,4.4,36.57,5.9
+12.0,True,False,TheLovely,2,970939244,TheLovely Women & Plus Scoop Neck Sleeveless Round Hem Relaxed Fit Casual Tank Top,Workout Tank Tops,Clothing,5,16.99,5.0
+13.0,True,True,DreamBone,406,789503917,"DreamBone DreamSticks with Real Peanut Butter and Chicken, Rawhide-Free Chews for Dogs, 13 Count",DreamBone,Pets,4.8,57.71888888888889,17.816666666666666
+77.7,True,False,Kingsize,27,553201076,KingSize Men's Big & Tall Double Adjustable Strap Comfort Walking Shoe,Mens Walking Shoes,Clothing,4.5,90.15,12.43
+29.0,True,False,Avidlove,1,3789037962,Avidlove Maternity Nursing Pajama Sets Labor Delivery Pjs Louge Set Breastfeeding Pajamas Short Sleeve Top & Pants Pregnancy Sleepwear Set,Womens Pajama Sets,Clothing,5,35.99,7.0
+18.8,True,False,Bali,28,199409627,Bali Womens Smoothing Cotton Brief 2-Pack Style-X037,Briefs,Clothing,4.2,21.65,2.84
+15.0,True,False,A2Y,53,293568564,A2Y Women's Basic Casual Essentials 4-Button Junior-Fit PK Cotton Pique Polo Shirt Maroon XL,Juniors Blouses & Shirts,Clothing,3.8,17.9,2.91
+8.11,True,False,Fruit of the Earth,73,45696491,Fruit of the Earth Vitamin E Skin Care Cream 4 oz Cream,Hand Creams,Personal Care,4.7,16.988,6.526000000000001
+7.42,False,True,Bob's Red Mill,390,887305646,Bob's Red Mill Gluten Free Old Fashioned Rolled Oats 32 oz Pkg,Hot Cereal & Grits,Food,4.8,23.263749999999998,6.07625
+141.0,True,False,Hauteloom,1267,926616414,"Hauteloom Bodrum 6' 7"" x 9' Moroccan Bohemian Updated Traditional - Oriental Area Rug - Oval - Polypropylene - Saffron, Light Gray, Charcoal, Teal, Dark Blue, Garnet, Burnt Orange, Beige",All Area Rugs,Home,4.6,157.0,15.7
+13.0,True,False,Fantaslook,46,5271677233,Fantaslook U Neck Tank Top for Women Sleeveless Split Curved Hem Tunic Tops Summer Casual Tank Tops,Womens Tank Tops,Clothing,4.5,29.99,17.0
+20.0,True,False,Jockey,700,5619052041,Jockey Men's Ultra Soft Pant,Mens Pants,Clothing,4.5,28.5,8.51
+60.7,True,False,G3 Home,1,446839423,"G3 Home 90036 Ivy Bedspread Set, White - Queen Size - 3 Piece",Toddler Bedding Sets & Sheets,Baby,1,68.31,7.59
+9.99,True,False,FITOP,7,2212970912,Sports Bra for Women High Impact V-Back Gym Yoga Strappy Padded Racerback Bras Large Bust Exercise Athletic Bras,High Support,Clothing,4.6,19.99,10.0
+17.0,True,False,SANMADROLA,260,5589451590,"Sanmadrola Waterproof & Reversible Dog Bed Cover Pet Blanket Sofa, Couch Cover Mattress Protector Furniture Protector for Dog, Pet, Cat 30''x30'' Blue",Slipcovers,Home,4.7,29.99,13.0
+54.0,True,False,Lochas,937,6292721825,"Lochas Soft Fluffy Rugs Shag Area Rug Carpet for Bedroom Living Room Indoor Nursery Home Decor,5.3'x7.5',Yellow",All Area Rugs,Home,4.3,59.99,6.0
+19.0,True,False,Raruxxin,14,2116483962,Ruanyu Women Cap Sleeve Blouses T-Shirt V Neck Solid Basic Tops Ladies Casual Loose Fit Tee,Tshirts for Women,Clothing,3.9,24.66,5.69
+38.7,True,False,BrylaneHome,104,5005432766,BrylaneHome Pre-Lit Rod-Pocket Curtain Panel,Shop Curtains,Home,4.3,51.23,12.57
+30.0,True,False,Coevals Club,4,5333084803,COEVALS CLUB Men's Embroidered Western Cowboy Long Sleeve Pearl Snap Two Pockets Casual Button up Shirts Black 2-01 XX-Large,Mens Casual Button Down Shirts,Clothing,5,44.99,15.0
+25.0,True,False,MUK LUKS,3,5088382174,"Muk Luks Soft Knit Matching Family Pajama Set , Black/Red Check, P/1X",Plaid Pajamas,Clothing,3.7,27.99,3.0
+28.6,True,False,Leading Lady,1766,187606582,The Brigitte Full Coverage - Padded Wirefree T-Shirt Bra,Plus Size T-Shirt Bras,Clothing,4.1,44.0,15.4
+32.0,True,False,Good Choice,2245,5605488846,Good Choice Womens Kimora Faux Leather Bow Peep-Toe Heels,Block Heels,Clothing,4.3,49.99,18.0
+23.0,True,False,Cherokee,179,162709782,Cherokee Workwear Prints Women's Scrubs Jacket Snap Front Warm Up 4350,Scrub Tops,Clothing,4.5,28.57,5.58
+33.0,True,False,Ginger Lyne Collection,173,682025831,Black Wedding Ring Set for Women CZ Halo Black Sterling Slver Engagement Ring Ginger Lyne Collection,Gemstone Engagement Rings,Jewelry,4.3,38.99,6.0
+52.4,True,False,Georgia Boot,2,5497424655,Georgia Boot Mossy Oak Bottomlands Romeo Work Shoe Size 10.5(M),Mens Shoes,Clothing,4,90.0,37.62
+24.0,True,False,Exclusivo Mezcla,106,557735516,"Exclusivo Mezcla 4 Pack Microfiber Cabana Striped Large Beach/Pool/Bath Towel for Adults (Yellow, 30"" x 60"") - Soft, Quick Dry, Lightweight and Absorbent",Beach Towels,Home,3.7,79.98,55.99
+38.0,True,False,Comfort Canopy,82,1357206123,Comfort Canopy - 4 Piece Gray Small Polka Dot Bed Sheets for California King Bedding,Bed Sheets,Home,4.9,109.99,72.0
+18.9,True,False,VEPKUL,120,5395428588,VEPKUL Women's Plus Size Cold Shoulder Dresses 3X Short Sleeve Casual Summer Dresses T Shirt Swing Dress A Line Flowy Beach Sundress with Pockets,Casual Dresses,Clothing,4.8,28.99,10.11
+11.0,True,False,DreamXi,118,6195974233,Women's Long Sleeve Tunic Tops Casual Round Neck T-Shirts Front Twist Top,Plus Size Tshirts,Clothing,4.3,29.99,19.0
+15.0,True,False,Inadays,142,1979723992,"Inadays Men's Swim Trunks with Mesh Lining Quick Dry Beach Shorts Sports Shorts Bathing Suit Boardshorts Swimwear, Black, M",Mens Swimwear,Clothing,4.1,32.99,18.0
+78.3,True,False,Hauteloom,8,2399732101,"Hauteloom Emirgazi Living Room, Bedroom Patio Outdoor Area Rug - Global - Blue, Gray - 4'3"" x 5'11""",Plastic Outdoor Rugs,Patio & Garden,4.5,87.0,8.7
+5.87,False,True,Dr Teal's,139,830467712,"Dr Teal's Kids 3-in-1 Bubble Bath, Body Wash & Shampoo with Oat & Milk, 20 fl oz",Dr Teal's Bubble Bath,Personal Care,4.8,16.988,6.526000000000001
+99.0,True,False,Nexgrill,106,1639387353,Nexgrill 1 Burner Cast Aluminum Tabletop Propane Gas Grill - Black,Propane Gas Grills,Patio & Garden,4.6,179.0,80.03
+20.0,True,False,MLANM,22,1943829458,"MLANM Women Long Sleeve Polka Dot Casual Modest Work Midi Knee Length Dress with Pocket, XL Floral Yellow White",Casual Dresses,Clothing,4.7,43.99,24.0
+88.2,True,False,Amay's,5,2005313526,"Amay 100% Cotton 600-Thread Count 4-PCs Sheet Set Easily Fit upto 24 Inch Deep Pockets Solid Pattern ( RV Short Queen, Ivory )",Sateen Sheets,Home,4.2,97.99,9.8
+45.0,True,False,Veehoo,5012,627797299,"Veehoo Cooling Elevated Dog Bed, Portable Raised Pet Cot with Washable Mesh, X Large, Black Silver",Outdoor Dog Beds,Pets,4.6,62.58,17.59
+20.0,True,False,PatPat,164,1282533428,"PatPat Floral Girl Dress Toddler Girl Clothes 2pcs Kid Sleeveless Dress and Long Sleeve Ruffled Cardigan Outfits Set, Brown, 18-24 Months",Toddler Girls Outfit Sets,Clothing,4.7,33.99,14.0
+85.0,True,False,Zampa,37,996202291,"Zampa Portable Foldable Pet playpen For Large Dogs, Small Puppies & Cats, Water resistant",All Dog Kennels,Pets,4.2,94.99,10.0
+40.0,True,False,LifeStride,48,1549187083,LifeStride Womens Katrina 2 Wedge Espadrilles - Medium & Wide Width,Womens Casual Shoes,Clothing,4.3,49.99,10.0
+40.8,True,False,Roaman's,879,1242706991,Roaman's Women's Plus Size Invisible Stretch Iconic A-Line Maxi Skirt,Womens Plus Skirts,Clothing,4.2,49.96,9.15
+18.0,True,False,Alanda,125,5291608666,"ALANDA Cooling Pillowcases, 2 Pack King Size Pillowcases Ultra Cool Pillow Cases with Stretch Japanese Q-max 0.55 Arc-Chill Cooling Fiber for Hair Skin Night Sweat Hot Sleeper - Gray",Pillowcases,Home,4.7,22.99,5.0
+15.0,True,False,Iceglad,10,5498695276,Iceglad Men's Hawaiian Shirt Short Sleeve Casual Button Down Shirt for Men Printed Summer Beach Shirt,Mens Casual Button Down Shirts,Clothing,4.6,38.99,24.01
+37.0,True,False,Woman Within,4226,3400466863,Woman Within Women's Plus Size Bootcut Stretch Jean,Plus Size Jeans,Clothing,3.9,44.99,8.0
+35.0,True,False,Dr. Scholl's,1529,5164405142,Dr. Scholl's Womens Lawless Ankle Western Bootie - Medium & Wide Width,Womens Booties,Clothing,4.3,49.93,14.95
+15.0,True,False,CALIPESSA,38,1517101893,CALIPESSA Womens Navy Blue Crease Detail Skinny Leggings Elastic Waist Casual Solid Pencil Pants,Womens Pants,Clothing,3.9,31.99,17.0
+5.89,True,False,PNTUTB,1,1189249949,"Pntutb Womens Clearance,Woman Fashion Print T-shirt Mid-length 3/4 Sleeve Blouse Round Neck Casual Tops",Plus Size Tops,Clothing,4,6.69,0.8
+30.6,True,False,U.S. Polo Assn.,32,212660235,U.S. Polo Assn. Men's Interlock Polo,Mens Polo Shirts,Clothing,4.7,37.67,7.05
+15.0,True,False,Marvel,3,5032686642,"Marvel Avengers Boys T-Shirts - Captain America, Spider-Man, Iron Man, Hulk (2T-6)",Boys Tshirts,Clothing,2.3,17.98,3.0
+11.7,True,False,SGI bedding,25,491183777,"SGI Pillow Case Yellow Solid 600 TC Euro sham 26X26"" 2 Piece",Pillowcases,Home,3.8,12.99,1.3
+10.8,True,False,Bali,43,2969593587,Women's Bali DFSTBF Soft Touch Brief Panty (White 6),Womens Panties,Clothing,4.4,13.0,2.2
+6.47,True,False,Every Man Jack,323,5753146161,"Every Man Jack Coconut + Vanilla Hydrating Body Wash for Men, Naturally Derived, 16.9 oz",Mens Body Wash,Personal Care,4.7,16.988,6.526000000000001
+23.0,True,False,PISIQI,136,1836482959,Thermal Underwear Women's Super Soft Long John Set Bottom Ski Winter Warm Top and Bottom Black S-2XL,Womens Thermal Underwear,Clothing,4.6,27.99,5.0
+19.0,True,False,SEGA,2,2071800712,SEGA Sonic The Hedgehog Little Girls Romper Little Kid to Big,Girls Rompers,Clothing,3,24.99,6.0
+9.99,True,False,Just Love,38,786961428,"Just Love Girls Cotton Pajama Sets for Comfortable Sleepwear (Red - Buffalo Plaid Short Sleeve With Pant, 4T)",Girls Pajama Sets,Clothing,4.4,11.99,2.0
+31.5,True,False,TheLovely,11,121961080,3 Packs of TheLovely Men's 3/4 Sleeve Crew Neck Raglan Jersey Baseball Tee Shirts,Mens Workout Shirts,Clothing,4.4,34.99,3.5
+13.6,True,False,SHIBEVER,1038,5579917144,SHIBEVER Women T-Shirts Summer Short Sleeve Tops Casual Loose Tunic Tops Side Split Ladies Comfortable Crewneck Tops Blouse Purple S,Womens Tops,Clothing,4.5,19.99,6.4
+6.85,True,False,Hanes,96,40329655,Hanes Boys 4-18 ComfortSmart Short Sleeve Tee,Boys Tshirts,Clothing,4.2,7.92,1.07
+33.0,True,False,Ibtom Castle,24,5150388132,IBTOM CASTLE Flowers Girls Tulle Lace Dress for Kids Wedding Bridesmaid Pageant Birthday Party Communion Formal Princess Prom Maxi Gown 4-5 Years Light Green,Girls Dresses,Clothing,4.5,40.99,8.0
+43.8,True,False,Ellos,4,2251005192,"ellos Women's Plus Size Smocked Waist Midi Dress - 14, Beige Rust Ditsy Floral",Plus Size Dresses,Clothing,5,52.92,9.13
+20.0,True,False,JWD,276,1996695931,JWD Mens Henley Long Sleeve T-Shirt Cotton Casual Shirt US Medium VG Blue,Mens T-Shirts,Clothing,4.6,25.99,6.0
+180.0,True,False,Hoteel,45,5178800099,"HOTEEL 10x20 Party Tent Pop Up Canopy,Easy Up Outdoor Tent with Wheeled Bag& Curled Edge,Canopy Event Tents for Parties,Wedding,Backyard,Camping,White",Canopies,Sports & Outdoors,4.4,299.99,120.0
+15.0,True,False,Jkerther,35,1186578586,Breathable Car Seat Pad Mat Auto Chair Cushion Universal Vehicle Interior Set Coushion,Air Car Seat Cushions,Auto & Tires,3.8,18.88,3.88
+9.99,True,False,UKAP,67,482608909,Boho Casual Tank Tops Sleeveless Blouse for Women Floral Print T-Shirt Summer Casual Loose Tank Vest Pleated Tunic Blouse Holiday Party Beach,Plus Size Activewear,Clothing,2.7,13.99,4.0
+6.49,True,False,Puntoco,8,1432750193,"Puntoco Womens Plus Size Dress Clearance,Plus Size Women Lingerie Lace Halter Chemise Nightgown Underwear Nightdress +T-String Sleepwear Suit Navy XXXL(XXXL)",Lingerie Sets,Clothing,3.6,7.49,1.0
+67.8,True,False,Levi's,1930,527669619,Levi's Men's 511 Slim Fit Jeans,Mens Slim Fit Jeans,Clothing,4.2,76.5,8.65
+20.0,True,False,Wataxii,17,1311889122,Wataxii Men's Sweatpants Open Bottom Straight Leg Sweat Pants Black Baggy Sweatpants Men's Athletic Pants Jogger Sweatpants with Pockets,Mens Sweatpants,Clothing,4.2,29.99,10.0
+22.9,True,False,NELEUS,143,937072834,"NELEUS Mens Compression Tank Top Athletic Workout Base Layer Undershirt 3 Pack,Black+Gray+Red,US Size S",Mens Workout Shirts,Clothing,4.3,32.0,9.11
+45.0,True,False,LifeStride,2566,868795363,LifeStride Womens Diverse Ballet Flats - Various Widths Available,Ballet Flats,Clothing,4.3,64.99,20.0
+17.0,True,False,Body Glove,16,2809598127,Body Glove Boys' Long Sleeve Rash Guard Shirt  2 Pack UPF 50+ Quick Dry Sun and Sand Protection Swim Shirt (2T-14),Boys Rash Guards and Swimsuit Sets,Clothing,4.2,24.99,8.01
+6.24,True,False,Fruit of the Loom,49,124061797,Fruit of the Loom Boys 6-20 HD Cotton Short Sleeve T-Shirt,Boys Tshirts,Clothing,4.6,7.59,1.35
+56.7,True,False,Comfortview,30,407423849,Comfortview Addi Bootie Short Ankle Boot Women's Winter Shoes (Wide Widths Available),Womens Booties,Clothing,4,71.17,14.48
+18.0,True,False,Fantaslook,1606,1980636541,Fantaslook Sweatshirt for Women Long Sleeve Shirts Tunic Tops Color Block Crewneck Sweatshirts Side Split,Young Adult Sweatshirts & Hoodies,Clothing,4.1,69.99,52.0
+36.0,True,False,HIG,717,2930335791,"HIG Light Weight Down Alternative Comforter Set, Twin, Plum, Reversible",Comforter Sets,Home,4.6,59.99,24.0
+40.0,True,False,LifeStride,7,348229800,LifeStride Womens Charlotte Strappy Dress Sandals - Medium & Wide Width,Stilettos,Clothing,4.4,48.99,9.0
+9.25,True,False,A4,35,156662195,"A4 Men's Cooling Performance Muscle T-Shirt, Black - L",Mens Workout Shirts,Clothing,4.5,10.52,1.27
+88.2,True,False,Amay's,2,3193974299,"Amay Cotton 600TC 4-PCs Sheet Set Easily Fit upto 6-8 Inch Deep Pockets Stripe Pattern ( Emperor, White )",White Sheets,Home,3,97.99,9.8
+99.2,True,False,Amay's,3,3499753228,Amay Rod Pocket Window Curtain Panel Black 84 Inch Wide by 84 Inch Long-1 Panel,Black Curtains,Home,5,124.0,24.8
+14.7,True,False,Iceglad,12,5226395312,Iceglad Polo Shirts for Men V Neck Slim Fit Short Sleeve Performance Golf Shirt Knit Soft Tees,Mens Polo Shirts,Clothing,4.8,36.99,22.31
+36.0,True,False,BDEUS,3,5630867280,"BDEUS King Mattress Topper, Cooling Mattress Pad Cover, Quilted Fitted Mattress Protector with 8-21"" Deep Pocket, Soft 3D Spiral Fiber Padding for Back Pain, Soft Comfortable Breathable,Dark Blue",Mattress Pads,Home,3.3,49.99,14.0
+20.0,True,False,Conlun,448,2547269854,"Conlun Cat Litter Mat, 47"" x 35"" Premium Durable PVC, Non-Slip, Less Waste, Urine Waterproof",Cat Litter Mats,Pets,4.8,33.99,14.0
+12.0,True,False,Kyle & Deena,14,142456486,"Kyle & Deena Baby Girl 3 PC Organza Creeper Set, Sizes Newborn-9 Months",Baby Girls Clothing,Clothing,4.9,14.99,3.0
+17.0,True,False,Chiclily,167,5241683603,Chiclily Women's Summer Dresses Casual T Shirt Dresses Black XL Short Sleeve Flowy Beach Sundress with Pockets,Casual Dresses,Clothing,4.4,29.99,13.0
+11.7,True,False,TheLovely,11,348114719,TheLovely Men's 3/4 Sleeve Crew Neck Raglan Jersey Baseball Tee Shirts (Single and Multi Packs Available),Mens Workout Shirts,Clothing,4.4,12.99,1.3
+133.0,True,False,Amay's,8,2474453493,Amay Grommet Top Blackout Curtain Panel Greyish White 150 inch Wide by 84 inch Long-1 Panel,Shop Curtains,Home,5,166.0,33.2
+16.7,True,False,Brach's,61,990338209,"Brach's Assorted Flavors Autumn Mix Candy, Halloween Candy, 40 oz, Bag",All Halloween Candy,Food,4,18.95,2.27
+29.0,True,False,Chun YI,13,2195224775,"Chun Yi Non-slip Bathroom Rugs Chenille Soft Absorbent Plush Bath Mat (Blue,24""*60"")",Bathroom Rugs & Bath Mats,Home,4.6,34.99,6.0
+22.9,True,False,Burt's Bees Baby,143,794674247,"Burt's Bees Baby Organic Cotton Unisex Pajamas, Zip-Front/Non-slip Footed Sleeper, 2-Pack",Gender Neutral Newborn Baby Clothing,Clothing,4.6,26.95,4.04
+1690.0,True,False,WestinTrends,25,1793589243,"WestinTrends Malibu 7 Piece Adirondack Outdoor Dining Set, All Weather Poly Lumber Patio Table and Chairs Furniture Set, 71"" Trestle Dining Table and 6 Adirondack Dining Chair, Turquoise",7 Piece Patio Dining Set,Patio & Garden,4.6,2629.99,944.0
+2.74,False,True,Beneful,637,35950141,"Purina Beneful Incredibites Wet Dog Food for Small Adult Dogs, Real Beef, 3 oz. Cans (24 Pack)",Pets Subscription,Pets,4.6,57.71888888888889,17.816666666666666
+9.97,True,False,NYX Professional Makeup,1316,182202597,NYX Jumbo Eye Pencil (Color : #610 - Oyster),NYX Professional Eye Makeup,Beauty,4.2,28.814999999999998,11.002
+35.0,True,False,Reebok,454,5090851666,Reebok Flexagon Energy 4 Men's Training Shoes,Reebok Mens Shoes,Clothing,4.4,65.0,30.03
+125.0,True,False,Amay's,5,2809076142,"Amay Blackout Double Pinch Pleat Curtain Panel Draperies Navy Blue 84""W x 132""L-1 Panel",Shop Curtains,Home,4.2,156.0,31.2
+2.24,False,True,Ragu,423,14123516,"Ragu Chunky Garden Pasta Sauce with Tomatoes, Onions, Celery, Carrots, Zucchini, Green Bell Peppers, 24 oz",Pantry staples,Food,4.2,23.263749999999998,6.07625
+20.0,True,False,Dubinik,81,2406844307,Dubinik Mens Short Sleeve Button Down Shirts 100% Cotton Plaid Men's Casual Button-Down Shirts with Pocket,Mens Casual Button Down Shirts,Clothing,4.5,23.99,4.0
+12.2,True,False,Local Hive,48,736753147,"Local Hive, Raw & Unfiltered, 100% U.S. Southwest Honey Blend, 16 oz Bottle",New in peanut butter and spreads,Food,4.9,23.263749999999998,6.07625
+11.3,True,False,Agadir,19,28669603,Agadir Argan Oil Daily Moisturizing Conditioner 12.4 oz,All Conditioner,Beauty,4.7,19.99,8.65
+7.29,True,False,LoyisViDion,1,1549752693,LoyisViDion Womens Sandals Clearance New Style Casual Women'S Sandals and Slippers with Flat Bottom for Outer Pink 6(37),Womens Flat Sandals,Clothing,5,10.19,2.9
+40.0,True,False,NT Bay,2,5486964418,"Ntbay 5 Piece Twin Bedding Comforter Set, Ultra Soft and Breathable Bed in a Bag, Includes Quilted Comforter, Fitted Sheet, Flat Top Sheet, 2 Envelope Pillowcases, Black",Bed In A Bag,Home,3.5,49.99,10.0
+15.0,True,False,TheLovely,17,329288230,Women & Plus(S-3X) Relaxed Fit Long Sleeve V-Neck Round Hem Jersey Tee Shirt Top (Single & Multi-Packs Available),Halloween Themed Clothing,Party & Occasions,4.6,16.99,2.0
+20.0,True,False,Mellanni,181,540315334,"Mellanni Iconic Collection Pleated Microfiber Bed Skirt 15"" Drop, Twin, Gray",Bed Skirts,Home,4.8,26.97,7.0
+9.99,True,False,KOOLSOLY,59,5260989718,"Outdoor Sun Hats for Men with 50+ UPF Protection Safari Cap Wide Brim Fishing Hat with Neck Flap, for Dad",Womens Bucket Hats,Clothing,5,14.99,5.0
+26.5,True,False,Ruvanti,3,2599647180,"Ruvanti 4 Pack 100% Cotton Fabric Throw Pillows, 16x16 Soft, Cozy Square Decorative Pillows for Sofa, Couch Pillows, Bed, Living Room Luxury Cushion Covers Including Insert - Red and Black",Throw Pillow Covers,Home,3.3,37.79,11.34
+99.0,True,False,Heirloom Traditions Paints,33,2894174795,"ALL-IN-ONE Paint, Putty (Light Taupe), 128 Fl Oz Gallon. Durable cabinet and furniture paint. Built in primer and top coat, no sanding needed.",Beige Paint,Home Improvement,4.5,129.99,30.99
+47.0,True,False,Porch & Den,379,882636216,Porch & Den  McGuinness Chevron Stripes Area Rug,Kitchen Rugs,Home,4.1,62.69,15.68
+49.5,True,False,Amay's,8,3638167663,Amay 800 Thread Count 100% Organic Cotton Full Size 1PC Flat Sheet (81x96 ) Lavender Striped,Colored Sheets,Home,5,55.0,5.5
+8.46,True,False,BELLA + CANVAS,11,156310639,Bella + Canvas Ladies' Jersey Muscle Tank - B6003,Womens Tank Tops,Clothing,4,9.65,1.19
+25.0,True,False,Comfort Canopy,316,1543783583,Comfort Canopy - Reversible Gray/Light Gray Lightweight All Season Down-Alternative Comforter for Twin Size Beds,Comforter Sets,Home,4.9,129.99,105.0
+38.0,True,False,Unique Loom,1312,429169175,"Unique Loom Geometric Trellis Frieze Rug Light Gray/Ivory 5' 1"" Octagon Trellis Traditional Perfect For Living Room Bed Room Dining Room Office",All Area Rugs,Home,4.7,65.26,27.27
+18.0,True,False,Disney,9,1734365938,Disney Minnie Mouse Newborn Baby Girls Snap Cosplay Coverall and Hat Newborn to Infant,Baby Girls Bodysuits,Clothing,5,19.99,2.0
+30.0,True,False,Bare Home,283,687219623,"Bare Home Luxury Duvet Cover and Sham Set - Premium 1800 Collection - Ultra-Soft - Twin/Twin XL, Heather Pewter, 2-Pieces",Boys Comforter Sets,Home,4.2,38.99,9.0
+7.89,True,False,Betiyuaoe,4,124194662,Lingerie Pajama Sets for Women Silk Lace Robe Dress Babydoll Sleepwear Nightdress Pajamas Set,Lingerie Sets,Clothing,2.8,11.99,4.1
+11.5,True,False,Happy Town,1,5358743094,Happy Town Toddler Baby Girl Boho Dress Linen Ruffle Sleeveless Casual Dress,Toddler Girls Casual Dresses,Clothing,5,21.99,10.5
+36.0,True,False,Journee Collection,32,1597065973,Journee Collection Womens Metallic Rhinestone Slingbacks,Block Heels,Clothing,4.4,100.0,64.01
+27.0,True,False,Dee's Collection,1,1699667139,"Full XL Size Tailored Drop Ruffled Solid Bed Skirt with Adjustable Elastic Belt Microfiber Fabric Fade & Wrinkle Resistant Bed Frame Cover Easy to Fit & Care (10 Inch Drop, Black)",Toddler Bedding Sets & Sheets,Baby,1,29.99,3.0
+16.0,True,False,Bare Home,1737,171629953,"Bare Home Fitted Sheet - Premium 1800 Collection - Deep Pocket - Ultra-Soft Wrinkle Resistant - Twin XL, Light Blue",Colored Sheets,Home,4.6,28.49,12.5
+29.0,True,False,Hobibear,133,1702091300,"HOBIBEAR Barefoot Minimalist Shoes Womens Mens | Zero Drop | Wide Width Fashion Sneaker Wine red,7 Wide Women/6 Wide Men",Womens Sneakers,Clothing,4.7,69.99,41.0
+23.0,True,False,LZLER,14,252142487,LZLER Mens Casual Chino Pants Stretch Slim Fit Flat Front Dress Pants,Mens Pants,Clothing,4.3,28.98,6.0
+15.0,True,False,Ibtom Castle,5,3069399905,IBTOM CASTLE Toddler Baby Girls Boho Rainbow Tutu Floral Sequin Sleeveless Backless Ruffle Tulle Dress Princess Birthday Party Sundress 6-12 Months Hot Pink Sequin Dots,Baby Girls Casual Dresses,Clothing,4.2,26.99,12.0
+20.9,True,False,Casual Nights,215,576255453,Casual Nights Women's Zipper Front House Dress Sleeveless Seersucker Housecoat Duster Lounger,Womens Nightshirts & Gowns,Clothing,4.1,23.99,3.12
+14.0,True,False,Daystry,27,5077062607,Daystry Women's Plus Size Button Down Short Sleeve Shirt Business Casual V Neck Tops Black-4X,Womens Button Down Shirts,Clothing,4.7,32.99,19.0
+14.9,True,False,Aiyino,7,819152370,Aiyino Women L-5XL Plus Size High Waisted Sweatpants Drawstring Jogger Pants Tapered Athletic Workout Yoga Lounge Pants,Plus Size Loungewear,Clothing,4.1,19.99,5.14
+16.0,True,False,HAWEE,43,654199125,HAWEE One-Piece Swimsuits for Women Plus Size Mid Waist Monokini Tummy Control Bathing Suits Retro Full Coverage Swimwear,Womens One-piece Swimsuits,Clothing,3,19.99,4.0
+8.15,True,False,Super Nutrition,113,228477707,"Mens Multivitamin by Super Nutrition - Vitamin & Mineral Blend with Supporting Herbs & Whole Foods - Energy & Immune Support - Gluten Free, Non-GMO - 30 Chewable Tablets - Wild Berry",Men's Multivitamins,Health and Medicine,4.6,10.19,2.04
+7.29,True,False,Follure Clothing,1,934585361,Dresses for Women Summer Wedding Guest Short Sleeve V-neck Fashion Pleated Ruffles Mini Beach Dress,Mini Dresses,Clothing,3,9.59,2.3
+68.7,True,False,Comfortview,78,283928117,Comfortview Meredith Bootie Short Ankle Boot Women's Winter Shoes (Wide Widths Available),Womens Booties,Clothing,4.4,77.29,8.6
+349.0,True,False,WestinTrends,112,517880131,"WestinTrends Malibu 3-Pieces Outdoor Patio Furniture Set, All Weather Outdoor Seating Plastic Adirondack Chair Set of 2 with Coffee Table for Porch Lawn Backyard, Turquoise",Shop All Patio Furniture,Patio & Garden,4.8,629.99,281.0
+26.0,True,False,Pink Queen,3,6003465421,Pink Queen Women's Tankini Swimsuit 2 Piece Tummy Control Bathing Suit Ruched Tankini Tops with Swim Skirt Swimwear,Womens Swimsuit Tops,Clothing,5,33.88,7.89
+7.97,False,True,O'Keeffe's,662,46280772,O'Keeffe's Working Hands Hand Cream 3oz,Hand Creams,Personal Care,4.7,16.988,6.526000000000001
+30.0,True,False,DONAMA,614,5091583903,"DONAMA Cervical Neck Pillow for Pain Relief Sleeping,Memory Foam Pillow with Breathable Pillowcase,Orthopedic Ergonomic Contoured Support for Side,Back and Stomach,Queen Size 23.62""×14.17""×4.72"" Black",Bed Pillows,Home,4.7,79.99,50.0
+5.91,True,False,Hask,426,3408509128,"(3 pack) Hask Keratin Smoothing Deep Conditioner, 1.75 oz, Travel Size",Deep Conditioner,Beauty,4.6,28.814999999999998,11.002
+6.11,True,False,Giftesty,347,1561196134,Giftesty Womens Plus Size Clearance Women Short Sleeves O-Neck Heart-Shaped Print Casual Tops Blouse T-Shirt,Plus Size Tops,Clothing,3.7,12.11,6.0
+32.4,True,False,Dee's Collection,4,1511750291,36 Inch Drop Twin XL Dorm Bed Skirt Lavender Ruffled Pattern Microfiber Made,Bed Skirts,Home,4,35.99,3.6
+22.5,True,False,SGI bedding,10,903980841,"SGI Bedding 21 Inch Wrap Around Bed Skirt | Microfiber Bed Skirt | Fade Resistant, Wrinkle Free, Anti-static, Decorative, Extra Storage Space, Clutter-Free | Full, Teal",Bed Skirts,Home,4.8,24.99,2.5
+160.0,True,False,Aiho,307,2559020018,"Aiho 6' x 4' Shed, Outdoor Storage Shed with Sliding and Lockable Doors for Garden and Backyard - Grey",Wood Sheds,Patio & Garden,4.3,447.99,288.0
+73.6,True,False,Amay's,13,2674700762,Amay Grommet Top Blackout Curtain Panel Grey 60 Inch Wide by 84 Inch Long-1Panel,Shop Curtains,Home,5,92.0,18.4
+13.0,True,False,American Crew,197,52271084,"American Crew 3-In-1 Shampoo,Conditioner and Body Wash 250ml/8.45oz",All American Crew,Premium Beauty,4.6,55.79,14.4525
+7.88,True,False,Sentmoon,4,5802524271,Summer Savings Wycnly on Sale Capri Pants for Women Womens Drawstring Elastic Waist Capris Pants Summer Casual Plus Size Button Straight Leg 3/4 Trousers Comfy Cotton Linen Pocket Cropped Pants,Womens Pants,Clothing,4.8,8.77,0.89
+10.0,True,False,Hanes,71,1098927823,"Hanes Essentials Men's Long Sleeve Cotton T-Shirt, Sizes S-3XL",Hanes Mens T-Shirts,Clothing,4.4,14.0,4.0
+26.0,True,False,TIYOMI,46,1954681481,TIYOMI Ladies Plus Size 4X Solid Color Tunic Long Sleeve Henley Button Crewneck Red Shirt Loose Fit Tops Autumn Fall Winter Blouses 4XL 24W 26W,Plus Size Tops,Clothing,4.2,30.99,5.0
+12.9,True,False,CALIPESSA,9,943193551,CALIPESSA Womens Summer Fashion Sleeveless Floral Print Scoop Neck Racerback Casual Blue Tank Top,Womens Tank Tops,Clothing,4.6,18.9,6.0
+12.0,True,False,Shoes8teen,481,283296798,Shoes8teen Womens Canvas Shoes Lace up Sneakers,Womens Casual Shoes,Clothing,3.8,14.98,3.0
+8.19,True,False,Ussuma,1,1597346185,"USSUMA Mens Cardigan Sweaters, Mens Outwear Long-Sleeved Button Down Cardigan Breathable Oversized Cardigans Youth Solid Color",Mens Cardigans and Zip-up Sweaters,Clothing,1,19.99,11.8
+48.7,True,False,Levi Strauss Signature,403,468030044,Levis Women's Plus Size 724 High-Rise Straight Jeans,Plus Size Jeans,Clothing,4.3,69.5,20.85
+25.2,True,False,Whale Flotilla,73,1127823001,"Whale Flotilla Microfiber Queen Size (96x90 inches) Quilt Set Lightweight Quilted Bedspreads Coverlets Set with Stars Pattern, Grey, 3 Piece (1 Quilt, 2 Shams)",Quilt Sets,Home,4.4,52.99,27.8
+57.0,True,False,CoverMates,797,484579696,"Covermates BuiltIn Grill Cover  Water Resistant, Cinching Drawcord, Grill and Heating, 54W x 33D x 18H, Black",Clearance Outdoor Cooking,Patio & Garden,4.5,74.99,18.0
+19.0,True,True,Fruit of the Loom,647,5154946825,"Fruit of the Loom Men's EverSoft CoolZone Fly Boxer Briefs, Super Value 10-Pack",Fruit of the Loom Boxer Briefs,Clothing,4.6,29.48,10.5
+15.0,True,False,Ibtom Castle,40,1891114442,IBTOM CASTLE Kid Girls Butterfly Sequins Camisole Ballet Dance Dress Glitter Ruffle Tutu Skirt Dancewear,Girls Dresses,Clothing,4.8,22.68,7.69
+6.88,True,True,COVERGIRL,668,5201103967,"COVERGIRL Clean Invisible Liquid Foundation, 165 Tawny, 1.0 fl oz",Liquid Foundation,Beauty,4.3,28.814999999999998,11.002
+90.0,True,False,Dearfoams,1471,557526814,Fireside By Dearfoams Women's Perth Genuine Shearling Foldover Boot,Womens Booties,Clothing,4.3,129.0,39.05
+30.0,True,False,UVPLove,73,3570466301,UVPLOVE Womens 2023 Fall Casual Turtleneck Batwing-Sleeved Chunky Oversized Ribbed Knit Tunic Sweaters in Pullover Style,Womens Workwear Sweaters,Clothing,4.6,36.99,7.0
+6.89,True,False,PNTUTB,1,1993962962,Pntutb Clearance Womens Active Performance Skort Lightweight Skirt for Running Tennis Golf Sport,Tennis Skirts,Sports & Outdoors,3,7.79,0.9
+27.0,True,False,Bare Home,283,849308072,"Bare Home Luxury Duvet Cover and Sham Set - Premium 1800 Collection - Ultra-Soft - Twin/Twin XL, Gray, 2-Pieces",Character Bedding,Home,4.2,34.49,7.5
+15.0,True,False,YI XIANG RAN,24,1590683321,YI XIANG RAN Merry Christmas Shirts for Women Xmas Buffalo Plaid Tree Shirt Top Short Sleeve Casual Graphic Print T Shirt(Large),Tshirts for Women,Clothing,4.3,17.98,2.99
+90.0,True,False,Renwick,1685,3687173580,"Renwick Jocelyn Modern Scroll Metal Platform California King Bed, Black",Platform Beds,Home,4.6,135.99,46.02
+70.0,True,False,JOURNEE COLLECTION,4349,537359758,JOURNEE COLLECTION Womens Burgundy Geometric Zipper Accent Padded Sarah Square Toe Block Heel Zip-Up Dress Booties 11,Womens Booties,Clothing,4.4,85.0,15.0
+2.08,True,True,Great Value,36,637751827,"Great Value Strawberry Mango Powdered Liquid Drink Mix, Sugar-Free, 0.99 oz, 10 Packets",Only at Walmart Diet and Lifestyle,Food,3.8,2.34,0.26
+13.5,True,False,TheLovely,11,5494180543,TheLovely Men & Women Long Sleeve Baseball Raglan Tee Shirt Top (S-3XL),All Baseball Gear & Equipments,Sports & Outdoors,4.4,14.99,1.5
+17.0,True,False,Alpine Swiss,46,578943868,Alpine Swiss Womens Flip Flops Comfortable Walking Sandals Thongs Outdoor Shoes,Womens Flip Flops,Clothing,3.4,19.99,3.0
+32.4,True,False,Sunnycome,23,5286825403,"Sunnycome Retractable Baby Gate,Mesh Dog Gate,33""Tall Extends up to 63"" Wide,Child Safety Gate for Doorways,Stairs,Hallways,Indoor Outdoor Gray",Retractable baby gates,Baby,3.9,35.99,3.6
+9.89,True,False,KAWELL,2,669112285,LOL Dress for Toddler Girl Elegant Mesh Dress Sleeveless Cartoon Dress 2-9 Years,Dresses,Clothing,5,13.99,4.1

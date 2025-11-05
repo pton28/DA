@@ -151,7 +151,7 @@ def fill_missing_with_category_mean(df, root_category_column, value_columns):
     return df
 
 if __name__ == '__main__':
-    path = os.path.join('data', 'walmart_products.csv')
+    path = os.path.join('data\\Raw', 'walmart_products.csv')
     try:
         df = safe_read_walmart(path)
         print(df.head())

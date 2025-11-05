@@ -6,7 +6,8 @@ import logging
 import os
 import re
 
-SOURCE_DIR = 'data/'  # Thư mục chứa file CSV
+SOURCE_DIR = './data/Raw'  # Thư mục chứa file CSV
+CLEAN_DIR = './data/Clean'  # Thư mục lưu file CSV đã làm sạch
 DATABASE_PATH = './staging/staging.db'     # File path DuckDB cho staging (có thể dùng ':memory:' cho in-memory)
 OVERWRITE_TABLES = False
 
@@ -86,9 +87,26 @@ def transform_data(df, table_name):
     duplicates_removed = initial_row_count - final_row_count
     logger.info(f"Bảng '{table_name}': Đã xử lý và loại bỏ {duplicates_removed} bản ghi trùng lặp.")
     # Xử lý missing values
+
+        # Xử lý cho table cleaned_products_api
+    if table_name == 'cleaned_products_api':
+        if "fetch_time" in df.columns:
+            df.sort_values(by="fetch_time", inplace=True)
+        if "us_item_id" in df.columns:
+            df = df.drop_duplicates(subset=["us_item_id"], keep="last")
+        elif "product_id" in df.columns:
+            df = df.drop_duplicates(subset=["product_id"], keep="last")
+
         # Xử lý cho table marketing_data
+    elif table_name == 'marketing_data':
+        return 
+    
+        # Xử lý cho table walmart_customers_purchases
+    elif table_name == 'walmart_customers_purchases':    
+        return
+    
         # Xử lý cho table walmart_products
-    if table_name == 'walmart_products':
+    else:
         # Giữ các cột cần thiết
         filter_columns = ['product_id','product_name','brand','final_price','initial_price','discount','review_count','rating','category_name','root_category_name','available_for_delivery', 'available_for_pickup']
         keep(df, filter_columns)
@@ -158,6 +176,21 @@ def fill_missing_with_category_mean(df, root_category_column, value_columns):
     logger.info(f"Đã điền giá trị missing trong cột '{', '.join(value_columns)}' bằng giá trị trung bình của category tương ứng.")
     return df
 
+# Hàm lưu DataFrame đã làm sạch
+def save_cleaned_data(df, original_filename):
+    if not os.path.exists(CLEAN_DIR):
+        os.makedirs(CLEAN_DIR)
+    
+    clean_filename = f"cleaned_{original_filename}"
+    clean_path = os.path.join(CLEAN_DIR, clean_filename)
+    
+    # Lưu file với encoding utf-8
+    try:
+        df.to_csv(clean_path, index=False, encoding='utf-8')
+        logger.info(f"Đã lưu dữ liệu đã làm sạch vào: {clean_path}")
+    except Exception as e:
+        logger.error(f"Lỗi khi lưu file đã làm sạch {clean_path}: {e}")
+
 # Hàm Load
 def run_etl():
     # Kết nối tới DuckDB
@@ -180,6 +213,10 @@ def run_etl():
 
             # B2. Transform dữ liệu
             df = transform_data(df, table_name)
+            
+            # Lưu dữ liệu đã làm sạch
+            original_filename = os.path.basename(file_path)
+            save_cleaned_data(df, original_filename)
 
             # Xoá bảng nếu đã tồn tại và overwrite được bật
             if OVERWRITE_TABLES:
