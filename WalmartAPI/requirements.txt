@@ -1,0 +1,6 @@
+pandas
+matplotlib
+openpyxl
+google-search-results
+python-dotenv
+
