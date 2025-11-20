@@ -1,0 +1,440 @@
+category_key,category_name,root_category_name
+1,Eye Shadow Stick,Beauty
+2,Blackout Curtains,Home
+3,Plus Size Tops,Clothing
+4,King Duvet Covers,Home
+5,Boys Outfit Sets,Clothing
+6,Underwire Bras,Clothing
+7,Womens One-piece Swimsuits,Clothing
+8,Womens Workwear Sweaters,Clothing
+9,Womens Nightshirts & Gowns,Clothing
+10,Mens Pajama Sets,Clothing
+11,Eyelash Enhancer,Beauty
+12,Floor Decor,Home
+13,Mens Wide Shoes,Clothing
+14,Colored Sheets,Home
+15,Womens Two Piece Sets,Clothing
+16,Men's Disney Tees,Clothing
+17,Womens Workout Bottoms,Clothing
+18,Tshirts for Women,Clothing
+19,Cycling Pants,Sports & Outdoors
+20,Shoe Racks,Home
+21,Womens Tank Tops,Clothing
+22,Mens Slim Fit Jeans,Clothing
+23,Throw Pillow Covers,Home
+24,Mens Jeans,Clothing
+25,Bed Blankets,Home
+26,All Makeup,Beauty
+27,Cooling Sheets,Home
+28,Lingerie Sets,Clothing
+29,Upholstered Headboards,Home
+30,Shop All Bar Stools & Counter Stools,Home
+31,Medium Roast Coffee,Food
+32,Mens Rings,Jewelry
+33,Womens Blouses,Clothing
+34,Dry Mouth Mouthwash,Personal Care
+35,Full Bases,Patio & Garden
+36,Baby Girls Clothing,Clothing
+37,Shop All Patio Furniture,Patio & Garden
+38,Bedding Sets,Home
+39,Mens Workout Shirts,Clothing
+40,White Sheets,Home
+41,Oral Care Accessories,Personal Care
+42,Golf Shirts,Sports & Outdoors
+43,Womens Rings,Jewelry
+44,Block Heels,Clothing
+45,Plus Size Activewear,Clothing
+46,Womens Sweatshirts & Hoodies,Clothing
+47,Heating Mattress toppers,Home
+48,Adult Electric Scooters,Sports & Outdoors
+49,Stilettos,Clothing
+50,Beta Carotene,Health and Medicine
+51,Plus Size Jeans,Clothing
+52,Workout Leggings,Clothing
+53,Ballet Flats,Clothing
+54,Plus Size Tshirts,Clothing
+55,Bed Sheets,Home
+56,Pillowcases,Home
+57,Shop Curtains,Home
+58,Bed Skirts,Home
+59,Twin Sheets,Home
+60,Womens Shoes,Clothing
+61,Big and Tall Graphic Tees,Clothing
+62,Womens Leggings,Clothing
+63,Womens Pajama Sets,Clothing
+64,Womens Athletic Shorts,Clothing
+65,Pets Subscription,Pets
+66,Premium Cologne for Men,Premium Beauty
+67,Boys Athletic Shirts,Clothing
+68,Mens Workout Pants,Clothing
+69,Hanes Mens T-Shirts,Clothing
+70,Aftershaves,Personal Care
+71,Sheet Sets,Home
+72,Baby Girls Casual Dresses,Clothing
+73,Lunchbox favorites,Food
+74,Gray Dressers,Home
+75,Womens Over the Knee Boots,Clothing
+76,Quilt Sets,Home
+77,Anniversary Rings,Jewelry
+78,Dresses,Clothing
+79,Womens Boyfriend Jeans,Clothing
+80,Womens Casual Shoes,Clothing
+81,Cocokind,Beauty
+82,Men's Character Shop,Clothing
+83,Shop All Teens' Bedding,Home
+84,Couch Covers,Home
+85,Briefs,Clothing
+86,Womens Pants,Clothing
+87,All Area Rugs,Home
+88,Campbell's,Food
+89,Mens Jewelry,Jewelry
+90,Wireless Bras,Clothing
+91,Mens Robes,Clothing
+92,Comforter Sets,Home
+93,Dietary supplements,Health and Medicine
+94,Seasoning mixes & blends,Food
+95,Mens T-Shirts,Clothing
+96,Toddler Bedding Sets & Sheets,Baby
+97,Desk Chairs,Home
+98,School Backpacks,Clothing
+99,Young Adult Sweatshirts & Hoodies,Clothing
+100,Static Guard,Household Essentials
+101,Womens Activewear,Clothing
+102,Painter's Tape,Home Improvement
+103,Pillow Top Mattress Toppers,Home
+104,Sateen Sheets,Home
+105,Boys Sandals,Clothing
+106,MaryRuth Organics,Health and Medicine
+107,Insoles,Health and Medicine
+108,Size 4 Diapers,Baby
+109,Maternity Blouses & Shirts,Clothing
+110,Cardigans for Women,Clothing
+111,Plus Size Pants,Clothing
+112,Metallic Decorative Baking,Party & Occasions
+113,Men's Movies and TV Tees,Clothing
+114,Girls Dress Shoes,Clothing
+115,Womens Dresses,Clothing
+116,Party Dresses,Clothing
+117,Water Flavoring,Food
+118,Women's Body Wash,Personal Care
+119,Womens Plus Skirts,Clothing
+120,Mens Cargo Shorts,Clothing
+121,Womens Plus Swimsuits,Clothing
+122,Toddler Girls Outfit Sets,Clothing
+123,Halloween Themed Clothing,Party & Occasions
+124,Baby Snack Foods,Baby
+125,Nails,Beauty
+126,Denim Dressing,Clothing
+127,Big Girls One-piece Pajamas,Clothing
+128,Pajama Bottoms,Clothing
+129,Womens Water Shoes,Clothing
+130,Down Alternative Comforters,Home
+131,Juniors Jeans,Clothing
+132,Clean & Clear,Beauty
+133,Girls Dresses,Clothing
+134,High Heels,Clothing
+135,Water Shoes,Clothing
+136,Boys Athletic Shoes,Clothing
+137,Mens Shorts,Clothing
+138,Boxed christmas chocolate,Food
+139,Womens Tops,Clothing
+140,Womens Dress Boots,Clothing
+141,Womens Petite Plus Size,Clothing
+142,Wedges,Clothing
+143,Garnier Hair Care,Beauty
+144,Fine Jewelry,Jewelry
+145,Conditioning Hair Color,Beauty
+146,Womens Joggers,Clothing
+147,Young Adult Pajamas,Clothing
+148,Trading Card Binders & Sleeves,Collectibles
+149,Womens Sandals,Clothing
+150,Jessica London,Clothing
+151,Womens Sweaters,Clothing
+152,Slipcovers,Home
+153,Shop All Fabric,Arts Crafts & Sewing
+154,Mineral Sunscreen,Personal Care
+155,All Powdered Drink Mix,Food
+156,Lipstick,Beauty
+157,Mens Casual Button Down Shirts,Clothing
+158,All Mascara,Beauty
+159,Hipsters,Clothing
+160,Womens Booties,Clothing
+161,Kids' Cereal,Food
+162,Rawhides,Pets
+163,All Runner Rugs,Home
+164,Plus Size Dresses,Clothing
+165,Womens Swimsuit Tops,Clothing
+166,Yellow Paint,Home Improvement
+167,Baby Boys Casual Outfit Sets,Clothing
+168,Shoelaces,Household Essentials
+169,Mens Cargo Pants,Clothing
+170,Men's Styling Products,Personal Care
+171,Womens Workwear Blouses,Clothing
+172,Mens Work Uniforms,Clothing
+173,Ice Cream Bars,Food
+174,Mens Oxfords Shoes,Clothing
+175,Womens White Dresses,Clothing
+176,Girls Uniform Bottoms,Clothing
+177,Womens Hoodies,Clothing
+178,Look Good While Working Out,Health and Medicine
+179,Maternity T-Shirts,Clothing
+180,Casual Dresses,Clothing
+181,Cologne for Men,Beauty
+182,Cotton Sheets,Home
+183,Womens Jumpsuits,Clothing
+184,Bed In A Bag,Home
+185,Boys Swim Trunks,Clothing
+186,Plus Size Sweaters,Clothing
+187,Canned fruit,Food
+188,Midi Dresses,Clothing
+189,Table Runners,Home
+190,Mens Pajama Bottoms,Clothing
+191,Wallets,Clothing
+192,Medgear Scrubs,Clothing
+193,Mens Denim Shorts,Clothing
+194,Shop all Massagers,Health and Medicine
+195,Fabric Tablecloths,Home
+196,All Dog Gates,Pets
+197,Mens Pajamas and Robes,Clothing
+198,Mens Work Pants,Clothing
+199,Maybelline Lip Makeup,Beauty
+200,Womens Mid Calf Boots,Clothing
+201,Mens Workout Shorts,Clothing
+202,Womens Bras,Clothing
+203,Mens Polo Shirts,Clothing
+204,Womens Plus Thermal Sets,Clothing
+205,Kids Clothing,Clothing
+206,Red Hair Dye,Beauty
+207,Mens Safety Shoes,Clothing
+208,Bathroom Rugs & Bath Mats,Home
+209,Quilts,Home
+210,King Beds,Home
+211,Men's Hiking Pants,Sports & Outdoors
+212,Mens Graphic Tees,Clothing
+213,Mens Regular Fit Jeans,Clothing
+214,Football Pants,Sports & Outdoors
+215,Native Deodorant,Personal Care
+216,Mens Swimwear,Clothing
+217,Fruit of the Loom Mens T-Shirts,Clothing
+218,Hanes Mens Shorts,Clothing
+219,All Toothpaste,Personal Care
+220,Bralettes,Clothing
+221,Shop All Patio Sets,Patio & Garden
+222,Womens Panties,Clothing
+223,Mens Briefs,Clothing
+224,All Baseball Gear & Equipments,Sports & Outdoors
+225,All Vitamins & Supplements,Health and Medicine
+226,Duvet Covers,Home
+227,Kids' Sheets,Home
+228,Womens Shorts,Clothing
+229,Mens Pullover Sweaters,Clothing
+230,Metal Bed Frames,Home
+231,Clean Beauty Makeup,Beauty
+232,Girls Coats and Jackets,Clothing
+233,"All Cat Feeders, Fountains, and Bowls",Pets
+234,Young Adult Swimsuits,Clothing
+235,All Dog Dental Care,Pets
+236,Womens Swimsuit Cover-ups,Clothing
+237,Mens Workout Clothing,Clothing
+238,Low Support,Clothing
+239,Premium Hair Styling Products,Premium Beauty
+240,Wedding Tablecloths,Home
+241,Whipped Toppings,Food
+242,Arthritis pain relief,Health and Medicine
+243,Shop all kids,Clothing
+244,Hand Soaps,Personal Care
+245,Stickers,Arts Crafts & Sewing
+246,Mens Thermal Underwear,Clothing
+247,Belts,Clothing
+248,All Cat Food,Pets
+249,Grains,Food
+250,Pain Relief,Health and Medicine
+251,Dinnerware & Serving Storage,Home
+252,Big and Tall Pajama Bottoms,Clothing
+253,Queen Beds,Home
+254,Maternity Shorts,Clothing
+255,Womens Plus Shorts,Clothing
+256,Womens Cropped Jeans,Clothing
+257,Toddler Boys Swim Trunks,Clothing
+258,Microfiber Sheets,Home
+259,Chocolate Bars,Food
+260,Mens Pants,Clothing
+261,All Cat Treats,Pets
+262,Extracts & Flavoring,Food
+263,NFL Flags,Patio & Garden
+264,Plus Size Lingerie,Clothing
+265,Womens Workwear Pants,Clothing
+266,Pate Wet Cat Food,Pets
+267,Meal Replacements,Health and Medicine
+268,Kids' Quilts,Home
+269,9 Drawer Dressers,Home
+270,Frozen Sandwiches,Food
+271,Kites,Toys
+272,Big and Tall Shorts,Clothing
+273,Toddler Sandals,Clothing
+274,Garlic Pills,Health and Medicine
+275,Toddler Dress Shoes,Clothing
+276,Juniors Rompers & Jumpsuits,Clothing
+277,Plus Size Underwire Bras,Clothing
+278,Womens Skirts,Clothing
+279,Plus Size Pajama Sets,Clothing
+280,Shop All Doormats,Home
+281,Auburn Hair Color,Beauty
+282,Black Curtains,Home
+283,All Dog Food,Pets
+284,Womens Flat Sandals,Clothing
+285,Teens' Comforters Sets,Home
+286,Shop All Top-Rated Beauty,Beauty
+287,Bodycon Dresses,Clothing
+288,Mens Tuxedos,Clothing
+289,Shop all Snack Bars,Food
+290,Essie Nail Polish,Beauty
+291,Whitening Toothpaste,Personal Care
+292,Mens Hoodies,Clothing
+293,Gemstone Engagement Rings,Jewelry
+294,Womens Wide Leg Pants,Clothing
+295,Mens Sweatpants,Clothing
+296,Womens Flip Flops,Clothing
+297,Mattress Toppers,Home
+298,Anti-Fatigue Mats,Home
+299,White Scrubs,Clothing
+300,All Halloween Candy,Food
+301,Queen Comforters,Home
+302,Boys Comforter Sets,Home
+303,Cleansing,Beauty
+304,Fitted Sheets,Home
+305,Bathroom Rugs,Home
+306,Girls Birthday Outfits,Clothing
+307,All Kids Costumes & Dress-Up,Toys
+308,Womens Turtleneck Sweaters,Clothing
+309,Mens Work Shirts,Clothing
+310,Outdoor Tablecloths,Home
+311,Boys Rash Guards and Swimsuit Sets,Clothing
+312,Mens Hiking Sandals,Clothing
+313,Wolverine Boots,Clothing
+314,Ready to heat soup,Food
+315,NYX Professional Eye Makeup,Beauty
+316,Kids' Towels,Home
+317,Jockey Underwear,Clothing
+318,Room Darkening Curtains,Home
+319,Mens Casual Sneakers,Clothing
+320,Womens Bootie Slippers,Clothing
+321,Boys Gloves & Mittens,Clothing
+322,Boys Slip-ons,Clothing
+323,Big and Tall Workout Shorts,Clothing
+324,Womens Espadrille Sandals,Clothing
+325,Womens Slip on Sneakers,Clothing
+326,7 Piece Patio Dining Set,Patio & Garden
+327,Premium Hair Color,Premium Beauty
+328,Cars & SUV Toys,Toys
+329,Mens Boots,Clothing
+330,Womens Workout Shirts,Clothing
+331,Womens Slide Slippers,Clothing
+332,Women's Multivitamins,Health and Medicine
+333,Snack Bars,Food
+334,Womens Swimsuit Bottoms,Clothing
+335,Pillow Shams,Home
+336,Baby Itching & Rash Treatments,Baby
+337,Sandals & Flip-Flops,Clothing
+338,Depend for Women,Personal Care
+339,Womens Swimsuits,Clothing
+340,White Headboards,Home
+341,Bikinis,Clothing
+342,Baby Boys Dressy Outfit Sets,Clothing
+343,Bathroom Cleaners,Household Essentials
+344,High School Supplies,Seasonal
+345,Big and Tall Polo Shirts,Clothing
+346,Girls T Shirts,Clothing
+347,Toddler Girls One-piece Swimsuits,Clothing
+348,Kids Multi Packs,Clothing
+349,Young Adult Dresses,Clothing
+350,Plastic Outdoor Rugs,Patio & Garden
+351,Mens Swim Trunks,Clothing
+352,Boys Pajama Sets,Clothing
+353,Black Scrubs,Clothing
+354,No Pull Dog Harnesses,Pets
+355,Wedge Heels,Clothing
+356,Child Life Jackets,Sports & Outdoors
+357,Shop All Slow Cookers,Home
+358,Gold Earrings,Jewelry
+359,Juniors Activewear,Clothing
+360,Young Adult Clothing,Clothing
+361,Plus Size Tunic Tops,Clothing
+362,Pantry staples,Food
+363,Womens Denim Overalls,Clothing
+364,3 Piece Patio Dining Set,Patio & Garden
+365,Womens Slides,Clothing
+366,Flat Sheets,Home
+367,Womens Footbed Sandals,Clothing
+368,Girls Skirts and Scooters,Clothing
+369,Princess Baby & Toddler Costumes,Party & Occasions
+370,Aveeno Hair Care,Beauty
+371,Bathroom Sets,Home
+372,Boys Athletic Shorts and Pants,Clothing
+373,Mens Work Coveralls,Clothing
+374,Shop Bedding,Home
+375,Socks,Clothing
+376,Orthopedic Dog Beds,Pets
+377,Baby Girls Swimsuit Cover-ups,Clothing
+378,Womens Workwear Skirts,Clothing
+379,Outdoor Chaise Lounges,Patio & Garden
+380,Bath Towels,Home
+381,Liquid Foundation,Beauty
+382,Memory Foam Mattresses,Home
+383,Jockey Panties,Clothing
+384,Condensed soup,Food
+385,Workout Tank Tops,Clothing
+386,DreamBone,Pets
+387,Mens Walking Shoes,Clothing
+388,Juniors Blouses & Shirts,Clothing
+389,Hand Creams,Personal Care
+390,Hot Cereal & Grits,Food
+391,High Support,Clothing
+392,Plaid Pajamas,Clothing
+393,Plus Size T-Shirt Bras,Clothing
+394,Scrub Tops,Clothing
+395,Mens Shoes,Clothing
+396,Beach Towels,Home
+397,Dr Teal's Bubble Bath,Personal Care
+398,Propane Gas Grills,Patio & Garden
+399,Outdoor Dog Beds,Pets
+400,All Dog Kennels,Pets
+401,Boys Tshirts,Clothing
+402,Mens Body Wash,Personal Care
+403,Womens Thermal Underwear,Clothing
+404,Girls Rompers,Clothing
+405,Girls Pajama Sets,Clothing
+406,Canopies,Sports & Outdoors
+407,Air Car Seat Cushions,Auto & Tires
+408,Mattress Pads,Home
+409,Cat Litter Mats,Pets
+410,Gender Neutral Newborn Baby Clothing,Clothing
+411,Reebok Mens Shoes,Clothing
+412,New in peanut butter and spreads,Food
+413,All Conditioner,Beauty
+414,Womens Bucket Hats,Clothing
+415,Beige Paint,Home Improvement
+416,Kitchen Rugs,Home
+417,Baby Girls Bodysuits,Clothing
+418,Toddler Girls Casual Dresses,Clothing
+419,Womens Sneakers,Clothing
+420,Womens Button Down Shirts,Clothing
+421,Plus Size Loungewear,Clothing
+422,Men's Multivitamins,Health and Medicine
+423,Mini Dresses,Clothing
+424,Bed Pillows,Home
+425,Deep Conditioner,Beauty
+426,Wood Sheds,Patio & Garden
+427,All American Crew,Premium Beauty
+428,Mens Cardigans and Zip-up Sweaters,Clothing
+429,Clearance Outdoor Cooking,Patio & Garden
+430,Fruit of the Loom Boxer Briefs,Clothing
+431,Tennis Skirts,Sports & Outdoors
+432,Character Bedding,Home
+433,Platform Beds,Home
+434,Only at Walmart Diet and Lifestyle,Food
+435,Retractable baby gates,Baby
+436,Electronics,
+437,Clothing,
+438,Beauty,
+439,Home,

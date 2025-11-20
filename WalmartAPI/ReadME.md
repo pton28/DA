@@ -137,3 +137,23 @@ data/save_data	Dữ liệu lưu định dạng CSV, JSON, Excel
 data/clean_data	Dữ liệu đã làm sạch
 data/eda_pic	Hình ảnh và bảng phân tích EDA
 
+
+
+import duckdb
+import pandas as pd
+
+db_path = r"C:\Users\LENOVO\Downloads\DA_pipeline\DA\database\walmart_analytics.db"
+conn = duckdb.connect(db_path, read_only=True)
+
+# Load all dimensions
+DIM_CATEGORY = conn.execute("SELECT * FROM DIM_CATEGORY").df()
+DIM_CUSTOMER = conn.execute("SELECT * FROM DIM_CUSTOMER").df()
+DIM_DATE = conn.execute("SELECT * FROM DIM_DATE").df()
+DIM_PAYMENT = conn.execute("SELECT * FROM DIM_PAYMENT").df()
+DIM_PRODUCT = conn.execute("SELECT * FROM DIM_PRODUCT").df()
+DIM_SELLER = conn.execute("SELECT * FROM DIM_SELLER").df()
+
+# Load fact table (ONLY FACT_SALES - the real transaction data)
+FACT_SALES = conn.execute("SELECT * FROM FACT_SALES").df()
+
+conn.close(). Nghiên cứu viết lại lệnh này xem nhé. Chứ lệnh bạn gửi khi chạy load dữ

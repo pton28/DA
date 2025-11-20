@@ -1,0 +1,5 @@
+payment_key,payment_method
+1,Cash on Delivery
+2,Debit Card
+3,Credit Card
+4,UPI
