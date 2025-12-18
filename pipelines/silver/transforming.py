@@ -364,8 +364,13 @@ def transform_temp(df):
     df = df.copy()
     
     # Parse date column
+    # NOTE: Format is DD-MM-YYYY (Day-Month-Year)
+    # Examples: 05-02-2010 (5 Feb 2010), 19-02-2010 (19 Feb 2010)
     if 'Date' in df.columns:
         df['Date'] = pd.to_datetime(df['Date'], format='%d-%m-%Y', errors='coerce')
+        removed_nulls = df['Date'].isna().sum()
+        if removed_nulls > 0:
+            print(f"  [WARNING] {removed_nulls} rows with invalid dates will be dropped")
         df = df.dropna(subset=['Date'])
     
     # Numeric columns to process
