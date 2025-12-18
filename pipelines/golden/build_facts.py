@@ -194,6 +194,14 @@ class FactBuilder:
             return None
 
         fact = self.df_store_performance.copy()
+        initial_rows = len(fact)
+
+        # Remove rows with missing sale_date (DATA QUALITY FIX)
+        fact = fact.dropna(subset=["sale_date"])
+        removed_rows = initial_rows - len(fact)
+        if removed_rows > 0:
+            logger.warning("Removed %d rows with missing sale_date (%.2f%% of data)", 
+                          removed_rows, (removed_rows / initial_rows) * 100)
 
         # Parse sale_date to date_key
         fact["sale_date"] = pd.to_datetime(fact["sale_date"], errors="coerce")
@@ -262,6 +270,13 @@ class FactBuilder:
         logger.info("FACT_STORE_PERFORMANCE built -> %s (%d rows)", output_path, len(fact_final))
         logger.info("  Total weekly sales: $%.2f, Avg temp: %.1f°F",
                    fact_final["weekly_sales"].sum(), fact_final["temperature"].mean())
+        
+        # Validation: Check date_key quality
+        invalid_dates = len(fact_final[fact_final["date_key"] == -1])
+        if invalid_dates > 0:
+            logger.warning("⚠️ Found %d rows with date_key = -1 (no valid dates)", invalid_dates)
+        else:
+            logger.info("✓ All %d rows have valid dates", len(fact_final))
         
         return fact_final
 
