@@ -1,148 +1,35 @@
-@startuml Data_Pipeline_with_Quality_Gates
-!define WALMART_BLUE #0071CE
-!define WALMART_YELLOW #FFC220
-!define SUCCESS_GREEN #28A745
-!define WARNING_ORANGE #FD7E14
-!define DANGER_RED #DC3545
-
-title <b>Walmart Data Pipeline với Data Quality Gates</b>\n<i>Raw → Silver → Golden Architecture</i>
-
-skinparam backgroundColor #FEFEFE
-skinparam roundCorner 15
+@startuml
+skinparam rectangle {
+  BorderColor Black
+  BackgroundColor #F9F9F9
+}
 skinparam shadowing false
 
-skinparam activity {
-    BackgroundColor #E8F4FD
-    BorderColor WALMART_BLUE
-    FontSize 12
+actor User as U
+rectangle "Groq API\n(LLM Server)" as GROQ
+
+rectangle "ChatBot.jsx" {
+
+    rectangle "State Management\n- messages\n- input\n- isLoading" as STATE
+
+    rectangle "sendMessage()" as SEND
+
+    rectangle "queryProcessor.processQuery()\n----------------------------\n• Parse natural language\n• Match keywords\n• Query local JSON\n• Return structured result" as QP
+
+    rectangle "Build Enhanced Prompt\n----------------------------\nUser Question\n+ Local Data Result\n+ Insight" as PROMPT
+
+    rectangle "groq.chat.completions.create()\nmodel: llama-3.3-70b-versatile\ntemperature: 0.7\nmax_tokens: 1024" as API
+
+    rectangle "setMessages()\nRender response to UI" as RENDER
 }
 
-skinparam rectangle {
-    BorderColor WALMART_BLUE
-    BorderThickness 2
-}
-
-|#F5F5F5|Raw Layer|
-start
-:📥 **Data Sources**
-====
-• cleaned_products_API.csv
-• marketing_data.csv
-• Walmart_customer_purchases.csv
-• walmart_products.csv;
-
-|#FFF3CD|Quality Gate 1|
-#WARNING_ORANGE:🔍 **PRE-SILVER CHECK**
-----
-✓ File existence
-✓ Row count > 0
-✓ Critical columns not empty
-✓ Data type validation;
-
-if (Quality OK?) then (✅ Pass)
-else (❌ Fail)
-    #DANGER_RED:⚠️ Log Warning
-    or Stop Pipeline;
-    note right
-        **Mode: WARN**
-        Continue with warnings
-        ----
-        **Mode: FAIL**
-        Stop pipeline
-    end note
-endif
-
-|#D4EDDA|Silver Layer (Clean)|
-:🧹 **ETL Processing**
-====
-**Extract:**
-• Read CSV files
-**Transform:**
-• Clean null values
-• Standardize formats
-• Remove duplicates
-**Load:**
-• Save to Clean folder
-• Load to staging.db;
-
-|#FFF3CD|Quality Gate 2|
-#WARNING_ORANGE:🔍 **POST-SILVER CHECK**
-----
-✓ Row count preservation
-✓ Unique key validation
-✓ Null ratio < 5%
-✓ Schema compliance;
-
-if (Quality OK?) then (✅ Pass)
-else (❌ Fail)
-    #DANGER_RED:⚠️ Log Warning
-    or Stop Pipeline;
-endif
-
-|#CCE5FF|Golden Layer|
-:⭐ **Standardization**
-====
-• Normalize column names
-• Parse dates (dayfirst=True)
-• Standardize categories;
-
-:📐 **Build Dimensions**
-====
-• DIM_DATE / DIM_DATE_STORE
-• DIM_CUSTOMER
-• DIM_PRODUCT / DIM_ECOMMERCE_PRODUCT
-• DIM_CATEGORY / DIM_ECOMMERCE_CATEGORY
-• DIM_PAYMENT
-• DIM_STORE
-• DIM_TEMPERATURE
-• DIM_ECOMMERCE_BRAND;
-
-:📊 **Build Facts**
-====
-• FACT_SALES (~50K rows)
-• FACT_STORE_PERFORMANCE (6,435 rows)
-• FACT_ECOMMERCE_SALES (~30K rows);
-
-|#FFF3CD|Quality Gate 3|
-#WARNING_ORANGE:🔍 **POST-GOLDEN CHECK**
-----
-✓ PK uniqueness
-✓ FK referential integrity
-✓ No orphaned keys
-✓ No sentinel values (date_key = -1)
-✓ Measure ranges valid
-✓ Business rules;
-
-if (Quality OK?) then (✅ Pass)
-    |#D4EDDA|Output|
-    #SUCCESS_GREEN:🏁 **Pipeline Complete**
-    ====
-    ✅ Golden CSVs generated
-    ✅ DuckDB warehouse updated
-    ✅ Quality report exported;
-    stop
-else (❌ Fail)
-    #DANGER_RED:🚨 **Quality Gate Failed**
-    ====
-    ⚠️ Review quality report
-    ⚠️ Fix data issues
-    ⚠️ Re-run pipeline;
-    stop
-endif
-
-legend right
-    |= Symbol |= Meaning |
-    | 🔍 | Quality Check |
-    | ✅ | Check Passed |
-    | ❌ | Check Failed |
-    | ⚠️ | Warning |
-    --
-    **Quality Gates:**
-    Gate 1: Pre-Silver
-    Gate 2: Post-Silver  
-    Gate 3: Post-Golden
-endlegend
-
-footer \n<b>Walmart Data Analytics Pipeline</b>\nWith integrated Data Quality Framework
+U --> STATE : 1. Type question
+STATE --> SEND
+SEND --> QP : 2
+QP --> PROMPT : 3. Local result
+PROMPT --> API : 4. API call
+API --> GROQ
+GROQ --> API : 5. AI response
+API --> RENDER
 
 @enduml

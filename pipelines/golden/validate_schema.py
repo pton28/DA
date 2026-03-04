@@ -92,7 +92,7 @@ def validate_fact_sales(dims: Dict[str, pd.DataFrame]) -> bool:
     if not check_exists(path):
         return False
     fact = pd.read_csv(path)
-    ok = check_primary_key(fact, "transaction_id", "FACT_SALES")
+    ok = check_primary_key(fact, "sale_id", "FACT_SALES")
 
     ok &= check_foreign_key(fact, dims["DIM_DATE"], "date_key", "date_key", "FACT_SALES", "DIM_DATE")
     ok &= check_foreign_key(
